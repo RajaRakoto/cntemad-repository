@@ -5,6 +5,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
+# `Momban'ny projet "CNTEMAD repository"`
+Ity projet ity dia ... 
+
 # `Fitsipika mifehy`
 1. Fifanajana samy "membre", aoka tsy hanisy zavatra hafahafa (Tsy misy hidiran'ny fianarana), soroy ny resaka tsy misy hifandraisany aminy tanjona napetraka.
 2. Hajao hatrany ny `convention de commit` fampiasa (ataovy fohy nefa mazava azon'ny rehetra ny "commit" ataonao).
@@ -14,7 +17,14 @@
 6. Azo atao ny mandefa `image|capture(.jpg .png .gif)` fa tsy azo atao kosa ny mandefa `video`, ekena avokoa ny `fichier` rehetra ankoatra ireo voarara.
 (mbola hitohy...)
 
-# `Toro-hevitra`
+# `Ho an'ireo vaovao | Toro-hevitra`
+Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github`
+
+> Raha mbola tsy manana compte Github
+    xxx
+
+> Haka ny tahiry rehetra
+    xxx
 
 # `Mpandray anjara`
 
