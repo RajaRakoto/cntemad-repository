@@ -63,11 +63,11 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 > outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` avokoa ireo:
 
-* (Windows): Sourcetree [download](https://www.sourcetreeapp.com/)
-* (Windows|GNU/Linux): Gitbash [download](https://git-scm.com/downloads)
-* (Windows|GNU/Linux): Gitkraken [download](https://www.gitkraken.com/download)
-* (GNU/Linux): UNGIT [github](https://github.com/FredrikNoren/ungit)
-* (GNU/Linux): gitvers-tool.py [github](https://github.com/RajaRakoto/gitvers-tool)
+* (Windows): Sourcetree [download](https://www.sourcetreeapp.com/)⬇️
+* (Windows|GNU/Linux): Gitbash [download](https://git-scm.com/downloads)⬇️
+* (Windows|GNU/Linux): Gitkraken [download](https://www.gitkraken.com/download)⬇️
+* (GNU/Linux): UNGIT [github](https://github.com/FredrikNoren/ungit)⬇️
+* (GNU/Linux): gitvers-tool.py [github](https://github.com/RajaRakoto/gitvers-tool)⬇️
 
 # `Mpandray anjara`
 
