@@ -96,7 +96,7 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
     STAT => 2 directories, 6 files
 
-P/S: Raha misy soso-kevitra na fanatsarana tianao hatao dia alefaso mailaka na facebook @ rohy eo ambany
+📢️P/S: Raha misy soso-kevitra na fanatsarana tianao hatao dia alefaso mailaka na facebook @ rohy eo ambany
 <p align="center">
 <a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="50" width="50" /></a> 
 <a href="https://www.facebook.com/raja.rakotonirina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="50" width="50" /></a>
