@@ -19,11 +19,23 @@ Ity projet ity dia ...
 
 # `Ho an'ireo vaovao | Toro-hevitra`
 Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github`...
+> [[Fa inona tokoa ilay GIT ? inona no ilana azy ? dia inona indray izany ilay Github ?](https://kinsta.com/fr/base-de-connaissances/base-de-connaissances-github/)]
+
+> [[Miara-mamindra | Projet iray mifantoka koakoa amin'ny fampiasana ny GIT](https://github.com/RajaRakoto/miara-mamindra)
 
 > [[Amorona compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)]
 
+> [[Zavatra atao voalohany rehefa vita ny compte](https://github.com/RajaRakoto/cntemad/blob/master/guide/.gif)]
+
 > [[Haka ny tahiry ao @branche master - git clone](https://github.com/RajaRakoto/cntemad/blob/master/guide/git-clone_example.gif)]
 
+> outil de versioning (interface graphique|cli|script), samy mampiasa GIT avokoa ireo:
+
+    * (Windows): Sourcetree
+    * (Windows): Gitbash
+    * (GNU/Linux): Gitkraken
+    * (GNU/Linux): UNGIT
+    * (GNU/Linux): gitvers-tool
 
 # `Mpandray anjara`
 
