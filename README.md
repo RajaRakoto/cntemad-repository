@@ -9,14 +9,13 @@
 
 # `MPANDRAY ANJARA`
 
-| Pseudo       |Responsabilité
-| Niveau | Parcours | Github  | Tech
-|:-------------|:-|:-------|:---------|:--------|:-------------------------------------------------------------------------------------------
-| **Raja**     |`Admin`|  L3   |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
-| **-**        |-|   -    |    -     |
-| **-**        |-|   -    |    -     |
-| **-**        |-|   -    |    -     |
-| **-**        |-|   -    |    -     |
+| Pseudo       |Responsabilité | Niveau | Parcours | Github  | Tech
+|:-------------|:--------------|:-------|:---------|:--------|:-------------------------------------------------------------------------------------------
+| **Raja**     |    `Admin`    |  L3    |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
+| **-**        |       -       |   -    |    -     |
+| **-**        |       -       |   -    |    -     |
+| **-**        |       -       |   -    |    -     |
+| **-**        |       -       |   -    |    -     |
 
 # `Firafitry ny fitehirizana`
 
@@ -31,8 +30,8 @@
     
     STAT => 2 fichiers
 
-P/S: Raha misy soso-kevitra na fanatsarana tianao hatao dia alefaso @ mailaka na facebook
+P/S: Raha misy soso-kevitra na fanatsarana tianao hatao dia alefaso mailaka na facebook @ rohy eo ambany
 <p align="center">
-<a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="20" width="20" /></a> 
-<a href="https://www.facebook.com/raja.rakotonirina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="20" width="20" /></a>
+<a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="50" width="50" /></a> 
+<a href="https://www.facebook.com/raja.rakotonirina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="50" width="50" /></a>
 </p>
