@@ -5,27 +5,32 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
+### DOCS EN COURS DE REDACTION ... (Miandry kely oh ;-D)
+
 # `Momban'ny projet "CNTEMAD repository"`
-Ity projet ity dia ... 
+Ity projet ity dia ...
 
 # `Fitsipika mifehy`
 1. Fifanajana samy "membre", aoka tsy hanisy zavatra hafahafa (Tsy misy hidiran'ny fianarana), soroy ny resaka tsy misy hifandraisany aminy tanjona napetraka.
 2. Hajao hatrany ny `convention de commit` fampiasa (ataovy fohy nefa mazava azon'ny rehetra ny "commit" ataonao).
-3. Fifampizarana no mamelona ity "projet" ity ka aoka isika mba handray anjara araka izay vitan-tsika.
+3. Fifampizarana no mamelona ity "projet" ity ka aoka isika mba hndray anjara araka izay vitan-tsika.
 4. Hamarino tsara ny `branch` misy anao alohan'ny hanaovanao zavatra.
 5. Aza mandefa zavatra (fichier/dossier) ao amin'ny `branch master` ary hamarino tsara ilay zavatra ho alefanao.
 6. Azo atao ny mandefa `image|capture(.jpg .png .gif)` fa tsy azo atao kosa ny mandefa `video`, ekena avokoa ny `fichier` rehetra ankoatra ireo voarara.
 (mbola hitohy...)
 
 # `Ho an'ireo vaovao | Toro-hevitra`
-Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github`...
-> [[Fa inona tokoa ilay GIT ? inona no ilana azy ? dia inona indray izany ilay Github ?](https://kinsta.com/fr/base-de-connaissances/base-de-connaissances-github/)]
-
-> [[Miara-mamindra | Projet iray mifantoka koakoa amin'ny fampiasana ny GIT](https://github.com/RajaRakoto/miara-mamindra)
+Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ...
 
 > [[Amorona compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)]
 
-> [[Zavatra atao voalohany rehefa vita ny compte](https://github.com/RajaRakoto/cntemad/blob/master/guide/.gif)]
+> [[Fa inona tokoa ilay GIT ? inona no ilana azy ? dia inona indray izany ilay Github ?](https://kinsta.com/fr/base-de-connaissances/base-de-connaissances-github/)]
+
+> [[Miara-mamindra | Projet iray mifantoka koakoa amin'ny fampiasana GIT](https://github.com/RajaRakoto/miara-mamindra)
+
+> [[Amorona compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)]
+
+> [[Zavatra atao voalohany rehefa vita ny compte - git config](https://github.com/RajaRakoto/cntemad/blob/master/guide/git-config_example.gif)]
 
 > [[Haka ny tahiry ao @branche master - git clone](https://github.com/RajaRakoto/cntemad/blob/master/guide/git-clone_example.gif)]
 
@@ -34,8 +39,8 @@ Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github`...
     * (Windows): Sourcetree
     * (Windows): Gitbash
     * (GNU/Linux): Gitkraken
-    * (GNU/Linux): UNGIT
-    * (GNU/Linux): gitvers-tool
+    * (GNU/Linux): UNGIT 
+    * (GNU/Linux): gitvers-tool.py
 
 # `Mpandray anjara`
 
@@ -55,10 +60,14 @@ Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github`...
 
     [master]
     |
+    ├── guide
+    │   ├── git-clone_example.gif
+    │   ├── git-config_example.gif
+    │   └── git-config.py
     ├── official-logo.png
     ├── README.md
-    
-    STAT => 2 fichiers
+
+    STAT => 2 directories, 6 files
 
 P/S: Raha misy soso-kevitra na fanatsarana tianao hatao dia alefaso mailaka na facebook @ rohy eo ambany
 <p align="center">
