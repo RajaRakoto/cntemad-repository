@@ -17,7 +17,12 @@
 | **-**        |   -    |    -     |
 | **-**        |   -    |    -     |
 
-# `Firafitry ny fitehirizana => [CTRL + F] misy zavatra tadiavinao` 
+# Firafitry ny fitehirizana
+
+[CTRL + F] raha misy zavatra tadiavinao
+
+    [CNTEMAD]
+    |
     ├── official-logo.png
     ├── README.md
     
