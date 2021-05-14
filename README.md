@@ -18,15 +18,11 @@ Ity projet ity dia ...
 (mbola hitohy...)
 
 # `Ho an'ireo vaovao | Toro-hevitra`
-Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github`
+Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github`...
 
-> Raha mbola tsy manana compte Github:
-1.xxx
-2.yyy
-3.zzz
-
-> Haka ny tahiry rehetra
-    xxx
+Raha mbola tsy manana compte Github:
+> xxx
+> yyy
 
 # `Mpandray anjara`
 
