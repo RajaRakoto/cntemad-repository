@@ -51,11 +51,12 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 > [[Haka ny tahiry ao @branche master - git clone](https://github.com/RajaRakoto/cntemad/blob/master/guide/git-clone_example.gif)]
 
 > outil de versioning (interface graphique|cli|script), samy mampiasa GIT avokoa ireo:
-    * (Windows): Sourcetree [download](https://www.sourcetreeapp.com/download-archives)
-    * (Windows): Gitbash
-    * (GNU/Linux): Gitkraken
-    * (GNU/Linux): UNGIT 
-    * (GNU/Linux): gitvers-tool.py
+
+* (Windows): Sourcetree [download](https://www.sourcetreeapp.com/download-archives)
+* (Windows): Gitbash
+* (GNU/Linux): Gitkraken
+* (GNU/Linux): UNGIT 
+* (GNU/Linux): gitvers-tool.py
 
 # `Mpandray anjara`
 
