@@ -10,17 +10,28 @@
 # `Momban'ny projet "CNTEMAD repository"`
 Ity projet ity dia ...
 
-# `Fitsipika mifehy`
+# `Fitsipika mifehy`:
+
 🛡️ Fifanajana samy "membre", aoka tsy hanisy zavatra hafahafa (Tsy misy hidiran'ny fianarana), soroy ny resaka tsy misy hifandraisany aminy tanjona napetraka.
+
 🛡️ Hajao hatrany ny `convention de commit` fampiasa (ataovy fohy nefa mazava azon'ny rehetra ny "commit" ataonao) | [commit ?](https://fr.wikipedia.org/wiki/Commit)
+
 🛡️ Fifampizarana no mamelona ity "projet" ity ka aoka isika mba hadray anjara araka izay vitan-tsika.
+
 🛡️ Hamarino tsara ny `branche` misy anao alohan'ny hanaovanao zavatra | [branche ?](https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Les-branches-en-bref)
+
 🛡️ Aza mandefa zavatra (fichier/dossier) ao amin'ny `branche master` ary hamarino tsara ilay zavatra ho alefanao.
+
 🛡️ Azo atao ny mandefa `image|capture(.jpg .png .gif)` fa tsy azo atao kosa ny mandefa `video`, ekena ny `fichier` rehetra ankoatra izay.
+
 🛡️ Ny `fichiers` rehetra dia `encodés en UTF-8` avokoa | [utf-8 ?](https://fr.wikipedia.org/wiki/UTF-8)
+
 🛡️ Hilain'ny mpikambana rehetra ny `commentaire` ao @kaody nosoratanao mba hanamorana ny famakiana azy (mais commenter intelligemment).
+
 🛡️ Hajao ny `Style d'indentation de code` (ataovy mirindra sy mazava tsara) | [style d'indentation ?](https://fr.wikipedia.org/wiki/Style_d'indentation)
+
 🛡️ Mizara manoratra ny `nom de variable en Anglais` sy mazava tsara, ary manaraka convention sahala @ `camelCase` | [camelCase ?](https://fr.wikipedia.org/wiki/Camel_case)
+
 🛡️ Mizara mampiasa carnet `TODO list` mba hampilamina (organisation/priorisation des tâches) ny zavatra ho ataonao rehetra (velabelaro raha ilaina izany).
 
 Aza adinoana ny tenin'ny razambeantsika manao hoe:
