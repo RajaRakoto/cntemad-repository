@@ -20,8 +20,9 @@ Ity projet ity dia ...
 # `Ho an'ireo vaovao | Toro-hevitra`
 Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github`...
 
-Raha mbola tsy manana compte Github:
 > [[Amorona compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)]
+> [[Haka ny tahiry ao @branche master - git clone] ()]
+
 
 # `Mpandray anjara`
 
