@@ -36,16 +36,16 @@ Ity projet ity dia ...
 
 Aza adinoana ny tenin'ny razambeantsika manao hoe:
 
-    # KISS: Keep It Simple, Stupid!
+    📜️ KISS: Keep It Simple, Stupid!
     La simplicité est la sophistication suprême | un code simple est plus lisible et plus facile à maintenir.
 
-    # DRY: Don’t repeat yourself
+    📜️ DRY: Don’t repeat yourself
     Si la même portion de code se retrouve deux fois ou plus dans un script, on en fait une fonction. Si la même portion de code se retrouve deux fois ou plus dans une classe, on en fait une méthode.
 
-    # YAGNI: You aren’t gonna need it
+    📜️ YAGNI: You aren’t gonna need it
     Rien ne sert de coder une méthode qui n’a pas d’implémentation ou d’utilité immédiate.
 
-    # Don’t be shy, ask!
+    📜️ Don’t be shy, ask!
     Il n’y a pas de honte à demander de l’aide, surtout avant d’attaquer une nouvelle fonctionnalité.
 
 # `Ho an'ireo vaovao | Toro-lalana`
