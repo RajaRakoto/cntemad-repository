@@ -19,7 +19,24 @@ Ity projet ity dia ...
 6. Azo atao ny mandefa `image|capture(.jpg .png .gif)` fa tsy azo atao kosa ny mandefa `video`, ekena avokoa ny `fichier` rehetra ankoatra ireo voarara.
 (mbola hitohy...)
 7. Ny `fichiers` rehetra dia `encodés en UTF-8` avokoa.
-8. Hajao ny `Style d'indentation de code` (ataovy mirindra sy mazava tsara) | [[Ny atao hoe style d'indentation en informatique](https://fr.wikipedia.org/wiki/Style_d'indentation)].
+8. Hilain'ny mpikambana rehetra ny `commentaire` ao @kaody nosoratanao mba hanamorana ny famakiana azy (mais commenter intelligemment).
+9. Hajao ny `Style d'indentation de code` (ataovy mirindra sy mazava tsara) | [style d'indentation ?](https://fr.wikipedia.org/wiki/Style_d'indentation).
+10. Mizara manoratra ny `nom de variable en Anglais` sy mazava tsara, ary manaraka convention sahala @ `camelCase` | [camelCase ?](https://fr.wikipedia.org/wiki/Camel_case)
+11. Mizara mampiasa carnet `TODO list` mba hampilamina (organisation/priorisation des tâches) ny zavatra ho ataonao rehetra (velabelaro raha ilaina izany).
+
+Aza adinoana ny tenin'ny razambeantsika manao hoe:
+
+    # KISS: Keep It Simple, Stupid!
+    La simplicité est la sophistication suprême | un code simple est plus lisible et plus facile à maintenir.
+
+    # DRY: Don’t repeat yourself
+    Si la même portion de code se retrouve deux fois ou plus dans un script, on en fait une fonction. Si la même portion de code se retrouve deux fois ou plus dans une classe, on en fait une méthode.
+
+    # YAGNI: You aren’t gonna need it
+    Rien ne sert de coder une méthode qui n’a pas d’implémentation ou d’utilité immédiate.
+
+    # Don’t be shy, ask!
+    Il n’y a pas de honte à demander de l’aide, surtout avant d’attaquer une nouvelle fonctionnalité.
 
 # `Ho an'ireo vaovao | Toro-lalana`
 Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ...
