@@ -9,21 +9,30 @@
 
 # `MPANDRAY ANJARA`
 
-| Pseudo       | Niveau | Parcours | Github  | Tech
-|:-------------|:-------|:---------|:--------|:-------------------------------------------------------------------------------------------
-| **Raja**     |   L3   |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `shell`
-| **-**        |   -    |    -     |
-| **-**        |   -    |    -     |
-| **-**        |   -    |    -     |
-| **-**        |   -    |    -     |
+| Pseudo       |Responsabilité
+| Niveau | Parcours | Github  | Tech
+|:-------------|:-|:-------|:---------|:--------|:-------------------------------------------------------------------------------------------
+| **Raja**     |`Admin`|  L3   |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
+| **-**        |-|   -    |    -     |
+| **-**        |-|   -    |    -     |
+| **-**        |-|   -    |    -     |
+| **-**        |-|   -    |    -     |
 
 # `Firafitry ny fitehirizana`
 
-[CTRL + F] raha misy zavatra tadiavinao
+> Atreto aloha ny fandaminana napetraka dia `branche` iray isaky ny `Niveau`, izany hoe misy `branche 5 no fitambarany (L1-L2-L3-M1-M2)`.
+> Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa rehetra.
+> `[CTRL + F]` raha misy zavatra tadiavinao
 
-    [CNTEMAD]
+    [master]
     |
     ├── official-logo.png
     ├── README.md
     
     STAT => 2 fichiers
+
+P/S: Raha misy soso-kevitra na fanatsarana tianao hatao dia alefaso @ mailaka na facebook
+<p align="center">
+<a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="20" width="20" /></a> 
+<a href="https://www.facebook.com/raja.rakotonirina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="20" width="20" /></a>
+</p>
