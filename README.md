@@ -21,8 +21,7 @@ Ity projet ity dia ...
 Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github`...
 
 Raha mbola tsy manana compte Github:
-> xxx
-> yyy
+> [[Amorona compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)]
 
 # `Mpandray anjara`
 
