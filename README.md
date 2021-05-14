@@ -21,7 +21,8 @@ Ity projet ity dia ...
 Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github`...
 
 > [[Amorona compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)]
-> [[Haka ny tahiry ao @branche master - git clone] ()]
+
+> [[Haka ny tahiry ao @branche master - git clone] (https://github.com/RajaRakoto/cntemad/blob/master/guide/git-clone_example.gif)]
 
 
 # `Mpandray anjara`
