@@ -73,7 +73,7 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 | Pseudo       |Responsabilité | Niveau | Parcours | Github  | Tech
 |:-------------|:--------------|:-------|:---------|:--------|:-------------------------------------------------------------------------------------------
-| **Raja**     |    `Admin`    |  L3    |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
+| ♂️**Raja**   |    `Admin`    |  L3    |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
 | **-**        |       -       |   -    |    -     |
 | **-**        |       -       |   -    |    -     |
 | **-**        |       -       |   -    |    -     |
