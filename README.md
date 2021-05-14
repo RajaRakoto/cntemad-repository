@@ -11,4 +11,8 @@
 
 | Nom       | Niveau | Parcours | Tech
 |:----------|:-------|:---------|:----------------------------
-| **Raja**  | L3     | BDGL     |`Python` `Javascript` `shell`
+| **Raja**  |   L3   |   BDGL   |`Python` `Javascript` `shell`
+| **-**     |   -    |    -     |
+| **-**     |   -    |    -     |
+| **-**     |   -    |    -     |
+| **-**     |   -    |    -     |
