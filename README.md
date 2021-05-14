@@ -28,8 +28,6 @@ Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony .
 
 > [[Miara-mamindra | Projet iray mifantoka koakoa amin'ny fampiasana GIT](https://github.com/RajaRakoto/miara-mamindra)
 
-> [[Amorona compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)]
-
 > [[Zavatra atao voalohany rehefa vita ny compte - git config](https://github.com/RajaRakoto/cntemad/blob/master/guide/git-config_example.gif)]
 
 > [[Haka ny tahiry ao @branche master - git clone](https://github.com/RajaRakoto/cntemad/blob/master/guide/git-clone_example.gif)]
