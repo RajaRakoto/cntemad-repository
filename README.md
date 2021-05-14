@@ -12,15 +12,14 @@ Ity projet ity dia ...
 
 # `Fitsipika mifehy`
 1. Fifanajana samy "membre", aoka tsy hanisy zavatra hafahafa (Tsy misy hidiran'ny fianarana), soroy ny resaka tsy misy hifandraisany aminy tanjona napetraka.
-2. Hajao hatrany ny `convention de commit` fampiasa (ataovy fohy nefa mazava azon'ny rehetra ny "commit" ataonao).
-3. Fifampizarana no mamelona ity "projet" ity ka aoka isika mba hndray anjara araka izay vitan-tsika.
-4. Hamarino tsara ny `branch` misy anao alohan'ny hanaovanao zavatra.
-5. Aza mandefa zavatra (fichier/dossier) ao amin'ny `branch master` ary hamarino tsara ilay zavatra ho alefanao.
-6. Azo atao ny mandefa `image|capture(.jpg .png .gif)` fa tsy azo atao kosa ny mandefa `video`, ekena avokoa ny `fichier` rehetra ankoatra ireo voarara.
-(mbola hitohy...)
-7. Ny `fichiers` rehetra dia `encodés en UTF-8` avokoa.
+2. Hajao hatrany ny `convention de commit` fampiasa (ataovy fohy nefa mazava azon'ny rehetra ny "commit" ataonao) | [commit ?](https://fr.wikipedia.org/wiki/Commit)
+3. Fifampizarana no mamelona ity "projet" ity ka aoka isika mba hadray anjara araka izay vitan-tsika.
+4. Hamarino tsara ny `branche` misy anao alohan'ny hanaovanao zavatra | [branche ?](https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Les-branches-en-bref)
+5. Aza mandefa zavatra (fichier/dossier) ao amin'ny `branche master` ary hamarino tsara ilay zavatra ho alefanao.
+6. Azo atao ny mandefa `image|capture(.jpg .png .gif)` fa tsy azo atao kosa ny mandefa `video`, ekena ny `fichier` rehetra ankoatra izay.
+7. Ny `fichiers` rehetra dia `encodés en UTF-8` avokoa | [utf-8 ?](https://fr.wikipedia.org/wiki/UTF-8)
 8. Hilain'ny mpikambana rehetra ny `commentaire` ao @kaody nosoratanao mba hanamorana ny famakiana azy (mais commenter intelligemment).
-9. Hajao ny `Style d'indentation de code` (ataovy mirindra sy mazava tsara) | [style d'indentation ?](https://fr.wikipedia.org/wiki/Style_d'indentation).
+9. Hajao ny `Style d'indentation de code` (ataovy mirindra sy mazava tsara) | [style d'indentation ?](https://fr.wikipedia.org/wiki/Style_d'indentation)
 10. Mizara manoratra ny `nom de variable en Anglais` sy mazava tsara, ary manaraka convention sahala @ `camelCase` | [camelCase ?](https://fr.wikipedia.org/wiki/Camel_case)
 11. Mizara mampiasa carnet `TODO list` mba hampilamina (organisation/priorisation des tâches) ny zavatra ho ataonao rehetra (velabelaro raha ilaina izany).
 
@@ -53,7 +52,7 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 > outil de versioning (interface graphique|cli|script), samy mampiasa GIT avokoa ireo:
 
-    * (Windows): Sourcetree
+    * (Windows): Sourcetree [download](https://www.sourcetreeapp.com/download-archives)
     * (Windows): Gitbash
     * (GNU/Linux): Gitkraken
     * (GNU/Linux): UNGIT 
