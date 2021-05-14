@@ -9,10 +9,10 @@
 
 # `MPANDRAY ANJARA`
 
-| Nom       | Niveau | Parcours | Github  | Tech
-|:----------|:-------|:---------|:--------|:-------------------------------------------------------------------------------------------
-| **Raja**  |   L3   |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `shell`
-| **-**     |   -    |    -     |
-| **-**     |   -    |    -     |
-| **-**     |   -    |    -     |
-| **-**     |   -    |    -     |
+| Pseudo       | Niveau | Parcours | Github  | Tech
+|:-------------|:-------|:---------|:--------|:-------------------------------------------------------------------------------------------
+| **Raja**     |   L3   |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `shell`
+| **-**        |   -    |    -     |
+| **-**        |   -    |    -     |
+| **-**        |   -    |    -     |
+| **-**        |   -    |    -     |
