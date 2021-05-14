@@ -17,7 +17,7 @@
 | **-**        |   -    |    -     |
 | **-**        |   -    |    -     |
 
-# Firafitry ny fitehirizana
+# `Firafitry ny fitehirizana`
 
 [CTRL + F] raha misy zavatra tadiavinao
 
