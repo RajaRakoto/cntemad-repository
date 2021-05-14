@@ -18,9 +18,11 @@ Ity projet ity dia ...
 5. Aza mandefa zavatra (fichier/dossier) ao amin'ny `branch master` ary hamarino tsara ilay zavatra ho alefanao.
 6. Azo atao ny mandefa `image|capture(.jpg .png .gif)` fa tsy azo atao kosa ny mandefa `video`, ekena avokoa ny `fichier` rehetra ankoatra ireo voarara.
 (mbola hitohy...)
+7. Ny `fichiers` rehetra dia `encodés en UTF-8` avokoa.
+8. Hajao ny `Style d'indentation de code` (ataovy mirindra sy mazava tsara) | [[Ny atao hoe style d'indentation en informatique](https://fr.wikipedia.org/wiki/Style_d'indentation)].
 
-# `Ho an'ireo vaovao | Toro-hevitra`
-Toro-hevitra vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ...
+# `Ho an'ireo vaovao | Toro-lalana`
+Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ...
 
 > [[Amorona compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)]
 
