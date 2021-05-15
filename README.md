@@ -8,9 +8,11 @@
 ### DOCS EN COURS DE REDACTION ... (Miandry kely oh ;-D)
 
 # `Momba ny projet "CNTEMAD repository"`
+
 Ity projet ity dia ...
 
 # `Fitsipika`:
+
 
 🛡️ Fifanajana samy "membre", aoka tsy hanisy zavatra hafahafa (Tsy misy hidiran'ny fianarana), soroy ny resaka tsy misy hifandraisany aminy tanjona napetraka.
 
@@ -34,6 +36,7 @@ Ity projet ity dia ...
 
 🛡️ Mizara mampiasa carnet `TODO list` mba hampilamina (organisation/priorisation des tâches) ny zavatra ho ataonao rehetra (velabelaro raha ilaina izany).
 
+
 Aza adinoana ny tenin'ny razambeantsika manao hoe:
 
     📜️ KISS: Keep It Simple, Stupid!
@@ -48,7 +51,9 @@ Aza adinoana ny tenin'ny razambeantsika manao hoe:
     📜️ Don’t be shy, ask!
     Il n’y a pas de honte à demander de l’aide, surtout avant d’attaquer une nouvelle fonctionnalité.
 
+
 # `Toro-lalana`
+
 Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ...
 
 > [[Amorona compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)]
@@ -61,15 +66,18 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 > [[Haka ny tahiry ao @branche master - git clone](https://github.com/RajaRakoto/cntemad/blob/master/guide/git-clone_example.gif)]
 
+
 > outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` avokoa ireo:
 
-* (Windows): Sourcetree [download](https://www.sourcetreeapp.com/) ⬇️
-* (Windows|GNU/Linux): Gitbash [download](https://git-scm.com/downloads) ⬇️
-* (Windows|GNU/Linux): Gitkraken [download](https://www.gitkraken.com/download) ⬇️
-* (GNU/Linux): UNGIT [github](https://github.com/FredrikNoren/ungit) 🔗️
+* (Windows): Sourcetree [download](https://www.sourcetreeapp.com/) ⬇ | [tuto](https://grafikart.fr/tutoriels/source-tree-592) 🎬️
+* (Windows|GNU/Linux): Gitbash [download](https://git-scm.com/downloads) ⬇ 
+* (Windows|GNU/Linux): Gitkraken [download](https://www.gitkraken.com/download) ⬇️| [tuto](https://grafikart.fr/tutoriels/gitkraken-749) 🎬️
+* (GNU/Linux): UNGIT [github](https://github.com/FredrikNoren/ungit) 🔗 | [install](https://github.com/RajaRakoto/cntemad/blob/master/guide/ungit-install.md) ✅️| [tuto](https://grafikart.fr/tutoriels/ungit-437) 🎬️
 * (GNU/Linux): gitvers-tool.py [github](https://github.com/RajaRakoto/gitvers-tool) 🔗️
 
+
 # `Mpandray anjara`
+
 
 | Pseudo       |Responsabilité | Niveau | Parcours | Github  | Tech
 |:-------------|:--------------|:-------|:---------|:--------|:-------------------------------------------------------------------------------------------
@@ -79,7 +87,9 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 | **-**        |       -       |   -    |    -     |
 | **-**        |       -       |   -    |    -     |
 
+
 # `Firafitry ny fitehirizana`
+
 
 > Atreto aloha ny fandaminana napetraka dia `branche` iray isaky ny `Niveau`, izany hoe misy `branche 5 no fitambarany (L1-L2-L3-M1-M2)`.
 > Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa rehetra.
@@ -96,11 +106,14 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
     STAT => 2 directories, 6 files
 
+
+
 📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao hatao dia alefaso mailaka na facebook @ rohy eo ambany
 <p align="center">
 <a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="50" width="50" /></a> 
 <a href="https://www.facebook.com/raja.rakotonirina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="50" width="50" /></a>
 </p>
+
 
 
 <p align="center">
