@@ -20,7 +20,7 @@ Ity projet ity dia ...
 
 🛡️ Fifampizarana no mamelona ity "projet" ity ka aoka isika mba hadray anjara araka izay vitan-tsika.
 
-🛡️ Hamarino tsara ny `branche` misy anao alohan'ny hanaovanao zavatra | [branche ?](https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Les-branches-en-bref)
+🛡️ Hamarino tsara ny `branche` misy anao alohan'ny hanaovanao zavatra @alalan'ity `$ git branch` (izay misy "etoile" no misy anao, `* L1` ohatra) | [branche ?](https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Les-branches-en-bref)
 
 🛡️ Aza mandefa zavatra (fichier/dossier) ao amin'ny `branche master` ary hamarino tsara ilay zavatra ho alefanao.
 
@@ -60,11 +60,13 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 > [[Fa inona tokoa ilay GIT ? inona no ilana azy ? dia inona indray izany ilay Github ?](https://kinsta.com/fr/base-de-connaissances/base-de-connaissances-github/)]
 
-> [[Miara-mamindra | Projet iray mifantoka koakoa amin'ny fampiasana GIT](https://github.com/RajaRakoto/miara-mamindra)
+> [[Miara-mamindra | Projet iray mifantoka koakoa amin'ny fampiasana GIT](https://github.com/RajaRakoto/miara-mamindra)]
 
 > [[Zavatra atao voalohany rehefa vita ny compte - git config](https://github.com/RajaRakoto/cntemad/blob/master/guide/git-config_example.gif)]
 
 > [[Haka ny tahiry ao @branche master - git clone](https://github.com/RajaRakoto/cntemad/blob/master/guide/git-clone_example.gif)]
+
+> [[Hanao Mise a jour ny tahiry efa ao aminao - upstream](https://github.com/RajaRakoto/cntemad/blob/master/guide/upstream_example.gif)]
 
 
 > outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` avokoa ireo:
@@ -82,7 +84,7 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 | Pseudo       |Responsabilité | Niveau | Parcours | Github  | Tech
 |:-------------|:--------------|:-------|:---------|:--------|:-------------------------------------------------------------------------------------------
 | ♂️ **Raja**   |    `Admin`    |  L3    |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
-| **-**        |       -       |   -    |    -     |
+| ♂️ **Stany**  |       -       |  L3    |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |`Javascript` `Angular` `Ionic`
 | **-**        |       -       |   -    |    -     |
 | **-**        |       -       |   -    |    -     |
 | **-**        |       -       |   -    |    -     |
