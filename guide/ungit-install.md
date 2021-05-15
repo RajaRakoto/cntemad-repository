@@ -2,13 +2,13 @@
 
 UNGIT: interface web qui vise à contrôler un référentiel git, ce dernier apporte la convivialité à git sans sacrifier sa polyvalence.
 
-  ⏺️ ÉTAPE 1: installez les pré-requis Node.JS `> = 10.18.0` et NPM `> = 6.13.4]`:
+  ⏺️ ÉTAPE 1: installez les pré-requis Node.JS `> = 10.18.0` et NPM `> = 6.13.4]`
 <p>$ sudo apt-get update && apt-get install npm</p>       
  
-  ⏺️ ÉTAPE 2: installez `UNGIT` à partir du gestionnaire de packages NPM:
+  ⏺️ ÉTAPE 2: installez `UNGIT` à partir du gestionnaire de packages NPM
 <p>$ sudo -H npm install -g ungit</p>  
  
-  ⏺️ ÉTAPE 3: utilisez la commande '$ ungit' pour lancer `UNGIT`:
+  ⏺️ ÉTAPE 3: utilisez la commande '$ ungit' pour lancer `UNGIT`
 <p>une fois UNGIT lancé, collez `http://localhost:8448/#/` dans votre navigateur pour afficher la page d'accueil de `UNGIT`</p>  
         
  
