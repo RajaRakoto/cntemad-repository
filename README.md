@@ -17,7 +17,7 @@
 <br>
 
 
-# `A propos de "CNTEMAD repository"`
+# `A propos de CNTEMAD repository`
 
 ℂℕ𝕋𝔼𝕄𝔸𝔻 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕪
 𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏
@@ -26,7 +26,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 <br>
 <b> Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfices potentiels que nous pouvons obtenir: </b>
-
+<br>
     
     ✅️  1. Le succès de chacun dans l'apprentissage qu'il fait à CNTEMAD (c'est l'objectif principal).
     
@@ -93,7 +93,8 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 🛡️ Mizara mampiasa carnet `TODO list` mba hampilamina (organisation/priorisation des tâches) ny zavatra ho ataonao rehetra (velabelaro raha ilaina izany).
 
 <br>
-Aza adinoana ny tenin'ny razambeantsika manao hoe:
+
+*** Aza adinoana ny tenin'ny razambeantsika manao hoe: ***
 
     📜️ KISS: Keep It Simple, Stupid!
     La simplicité est la sophistication suprême | un code simple est plus lisible et plus facile à maintenir.
@@ -183,9 +184,11 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 # `Tahiry "Google drive"`
 
 <div align="center">
-[Creer un compte Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp)|[Google DRIVE](https://drive.google.com/)|
+|[Creer un compte Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp)|[Google DRIVE](https://drive.google.com/)|
 |---|---|
 </div>
+
+<br>
 
 > `Google drive` ho an'izay mbola tsy mahalala dia `service de stockage en ligne (cloud)` iray natolotry ny orinasa Google. Inona no hifandraisany amin'ity projet ity ? tsara fantantsika fa misy fetrany ny zavatra azontsika tehirizina ato @github, eo @ `500Mo` (raha tsy diso aho) eo no nomena ny `compte free` iray ka noho izany indrindra no antony hampiasana ity "service Google drive ity" (ary antony nahatonga ilay fitsipika hoe tsy azo atao ny mandefa "video"). `Google drive` dia manana "capacite de stockage" hatramin'ny `15Go` isaky ny compte iray.
 
@@ -222,7 +225,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 *** Ireo tahiry ao @Google drive ***
 
 __________________________________________________________________________________________________________________
-W3SCHOOL offline | added by ♂️ **Raja**
+W3SCHOOL offline | added by ♂️ **Raja**                                         ![GitHub Logo](/logo/W3Schools_logo.png)
 |[download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing)
 |---|
 
