@@ -17,6 +17,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfices potentiels que nous pouvons obtenir:
 
+<p>
 ✅️1. Le succès de chacun dans l'apprentissage qu'il fait à CNTEMAD (c'est l'objectif principal).
 ✅️2. Le partage des connaissances.
 ✅️3. Pour que chacun sache ce qu'est le travail d'équipe.
@@ -36,7 +37,7 @@ Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfic
 📢️P/S: Izy ity tsy nasiana fanavankavahana, na mahay ianao na tsy mahay, na lahy na vavy, na L1 ianao na M2, na inona filiaire misy anao, fifanampiana no tena tanjona, tadidio fa rahatrizay hiasa ianareo dia anisany jeren'ny mpampiasa ny "projet personnel" na "projet collectif" nataonareo, ka tsy hay na ato (na tsia) ianareo no hahita opportunité anaovana izany. Efa misy groupe de discussion hafahantsika mifampiresaka mahakasika ity projet ity ...
 
 Mankasitraka antsika rehetra namaky hatramin'ny farany. ❤️
-
+</p>
 
 # `Fitsipika`:
 
