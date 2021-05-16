@@ -17,43 +17,43 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfices potentiels que nous pouvons obtenir:
 
-<p>
-✅️  1. Le succès de chacun dans l'apprentissage qu'il fait à CNTEMAD (c'est l'objectif principal).
-</p>
-<p>
-✅️  2. Le partage des connaissances.  
-</p>
-<p>
-✅️  3. Pour que chacun sache ce qu'est le travail d'équipe.
-</p>
-<p>
-✅️  4. Une opportunité pour quiconque d'entrer dans le monde de GIT qui est toujours nécessaire (qu'il soit étudiant/ou pas). 
-</p>
-<p>
-✅️  5. En partant du partage habituel via facebook où il y a une restriction sur les "uploads" (format, taille de fichier), je pense qu'il sera plus facile de récupérer des fichiers sur une plateforme GIT que sur ce dernier.
-</p>
-<p>
-✅️  6. Nous apprend à être plus discipliné (respect des règles).
-</p>
-<p>
-✅️  7. Ce sera une archive pour nous et nos jeunes frères/sœurs qui vont étudier à CNTEMAD.
-</p>
-<p>
-✅️  8. Pour éviter tout problème de déplacement, notamment pour lutter contre cette épidémie, gardez à l'esprit que le tarif du bus en aller-retour que vous allez payer gère toutes les manipulations que vous pourriez faire (à distance) sur github (peut-être même plus), mais cela ne nous empêche pas de nous rencontrer. Si par exemple il est si important que l'on se retrouve (selon les circonstances) et tout cela en respectant les gestes de barrière.
-</p>
-<p>
-✅️  9. Tout cela nous permet d'avoir le temps de nous concentrer d'avantage sur ce que nous faisons.
-</p>
-<p>
-✅️  10. Lorsque nous avons un projet open source a collaborer avec des étudiants, nous pouvons le «centraliser» sur "CNTEMAD repository" (il nous sera donc plus facile de démarrer sur un nouveau projet).
-</p>
-<p>
-✅️  11. Partage de types de sujets, d'exercices, de tutoriels, etc ... tout ce qui est lié à nos études ...
-</p>
-<p>
-✅️  12. Il nous apprendra ce que signifie réellement cette phase: « Sambatra ny manome noho ny mandray », non pas pour être égoïste mais pour aimer notre prochain comme nous-mêmes.
-</p>
-
+    <p>
+    ✅️  1. Le succès de chacun dans l'apprentissage qu'il fait à CNTEMAD (c'est l'objectif principal).
+    </p>
+    <p>
+    ✅️  2. Le partage des connaissances.  
+    </p>
+    <p>
+    ✅️  3. Pour que chacun sache ce qu'est le travail d'équipe.
+    </p>
+    <p>
+    ✅️  4. Une opportunité pour quiconque d'entrer dans le monde de GIT qui est toujours nécessaire (qu'il soit     étudiant/ou pas). 
+    </p>
+    <p>
+    ✅️  5. En partant du partage habituel via facebook où il y a une restriction sur les "uploads" (format,     taille de fichier), je pense qu'il sera plus facile de récupérer des fichiers sur une plateforme GIT que sur    ce dernier.
+    </p>
+    <p>
+    ✅️  6. Nous apprend à être plus discipliné (respect des règles).
+    </p>
+    <p>
+    ✅️  7. Ce sera une archive pour nous et nos jeunes frères/sœurs qui vont étudier à CNTEMAD.
+    </p>
+    <p>
+    ✅️  8. Pour éviter tout problème de déplacement, notamment pour lutter contre cette épidémie, gardez à  l'esprit que le tarif du bus en aller-retour que vous allez payer gère toutes les manipulations que vous     pourriez faire (à distance) sur github (peut-être même plus), mais cela ne nous empêche pas de nous     rencontrer. Si par exemple il est si important que l'on se retrouve (selon les circonstances) et tout cela  en respectant les gestes de barrière.
+    </p>
+    <p>
+    ✅️  9. Tout cela nous permet d'avoir le temps de nous concentrer d'avantage sur ce que nous faisons.
+    </p>
+    <p>
+    ✅️  10. Lorsque nous avons un projet open source a collaborer avec des étudiants, nous pouvons le   «centraliser» sur "CNTEMAD repository" (il nous sera donc plus facile de démarrer sur un nouveau projet).
+    </p>
+    <p>
+    ✅️  11. Partage de types de sujets, d'exercices, de tutoriels, etc ... tout ce qui est lié à nos études ...
+    </p>
+    <p>
+    ✅️  12. Il nous apprendra ce que signifie réellement cette phase: « Sambatra ny manome noho ny mandray »,   non pas pour être égoïste mais pour aimer notre prochain comme nous-mêmes.
+    </p>
+    
 <p> 
 👉️ Un des grands objectifs que j'aimerais réaliser à l'avenir est de pouvoir aider les gens « Sahirana » (en faisant un don financier obtenu d'un autre projet).
 </p>
