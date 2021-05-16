@@ -5,11 +5,38 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
-### DOCS EN COURS DE REDACTION ... (Miandry kely oh ;-D)
+### DOCS EN COURS DE REDACTION ... 
+
 
 # `Momba ny projet "CNTEMAD repository"`
 
-Ity projet ity dia ...
+ℂℕ𝕋𝔼𝕄𝔸𝔻 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕪
+𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏
+
+Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui peuvent survenir, je vais vous expliquer brièvement ce projet "CNTEMAD repository" ... c'est un projet dont on ne sait pas quand il sera achevé mais seulement nous, le(s) membre(s), le(s) participant(e.s) qui le font évoluer. Un projet inspiré d'une autre université que j'ai trouvé (par hasard) sur Github. Je tiens à préciser d'emblée que ce projet s'adresse (principalement) à ceux qui font de l'informatique/télécommunications mais n'empêche pas d'autres domaines de nous rejoindre que vous soyez juridique, management, communication ou autre. Je ne vois aucun mal à s'entraider.
+
+Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfices potentiels que nous pouvons obtenir:
+
+✅️1. Le succès de chacun dans l'apprentissage qu'il fait à CNTEMAD (c'est l'objectif principal).
+✅️2. Le partage des connaissances.
+✅️3. Pour que chacun sache ce qu'est le travail d'équipe.
+✅️4. Une opportunité pour quiconque d'entrer dans le monde de GIT qui est toujours nécessaire (qu'il soit étudiant/ou pas).
+✅️5. En partant du partage habituel via facebook où il y a une restriction sur les "uploads" (format, taille de fichier), je pense qu'il sera plus facile de récupérer des fichiers sur une plateforme GIT que sur ce dernier.
+✅️6. Nous apprend à être plus discipliné (respect des règles).
+✅️7. Ce sera une archive pour nous et nos jeunes frères/sœurs qui vont étudier à CNTEMAD.
+✅️8. Pour éviter tout problème de déplacement, notamment pour lutter contre cette épidémie, gardez à l'esprit que le tarif du bus en aller-retour que vous allez payer gère toutes les manipulations que vous pourriez faire (à distance) sur github (peut-être même plus), mais cela ne nous empêche pas de nous rencontrer. Si par exemple il est si important que l'on se retrouve (selon les circonstances) et tout cela en respectant les gestes de barrière.
+✅️9. Tout cela nous permet d'avoir le temps de nous concentrer d'avantage sur ce que nous faisons.
+✅️10. Lorsque nous avons un projet open source a collaborer avec des étudiants, nous pouvons le «centraliser» sur "CNTEMAD repository" (il nous sera donc plus facile de démarrer sur un nouveau projet).
+✅️11. Partage de types de sujets, d'exercices, de tutoriels, etc ... tout ce qui est lié à nos études ...
+✅️12. Il nous apprendra ce que signifie réellement cette phase: « Sambatra ny manome noho ny mandray », non pas pour être égoïste mais pour aimer notre prochain comme nous-mêmes.
+      
+👉️ Un des grands objectifs que j'aimerais réaliser à l'avenir est de pouvoir aider les gens « Sahirana » (en faisant un don financier obtenu d'un autre projet).
+👉️ Ce sont les raisons pour lesquelles j'ai commencé ce projet, lorsque vous êtes vraiment prêt(e) à nous rejoindre, visitez le lien ci-dessous, il existe déjà un "guide pour les débutants" (nous essayons toujours de compléter les instructions étape par étape) en fonction de l'expérience de l'utilisateur du référentiel CNTEMAD...
+
+📢️P/S: Izy ity tsy nasiana fanavankavahana, na mahay ianao na tsy mahay, na lahy na vavy, na L1 ianao na M2, na inona filiaire misy anao, fifanampiana no tena tanjona, tadidio fa rahatrizay hiasa ianareo dia anisany jeren'ny mpampiasa ny "projet personnel" na "projet collectif" nataonareo, ka tsy hay na ato (na tsia) ianareo no hahita opportunité anaovana izany. Efa misy groupe de discussion hafahantsika mifampiresaka mahakasika ity projet ity ...
+
+Mankasitraka antsika rehetra namaky hatramin'ny farany. ❤️
+
 
 # `Fitsipika`:
 
@@ -24,7 +51,7 @@ Ity projet ity dia ...
 
 🛡️ Aza mandefa zavatra (fichier/dossier) ao amin'ny `branche master` ary hamarino tsara ilay zavatra ho alefanao.
 
-🛡️ Azo atao ny mandefa `image|capture(.jpg .png .gif)` fa tsy azo atao kosa ny mandefa `video`, ekena ny `fichier` rehetra ankoatra izay.
+🛡️ Azo atao ny mandefa `image|capture(.jpg .png .gif)` fa tsy azo atao kosa ny mandefa `video`, ekena ny `fichiers` rehetra ankoatra izay.
 
 🛡️ Ny `fichiers` rehetra dia `encodés en UTF-8` avokoa | [utf-8 ?](https://fr.wikipedia.org/wiki/UTF-8)
 
