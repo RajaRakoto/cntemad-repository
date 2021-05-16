@@ -189,8 +189,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 <div align=center>
 
-- [x] exemple 0
-- [ ] exemple 1 
+- [x] exemple 0 | - [ ] exemple 1 
 
 </div>
 
