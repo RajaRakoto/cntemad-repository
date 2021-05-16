@@ -8,9 +8,7 @@
 ### DOCS EN COURS DE REDACTION ... 
 
 <div align="center">
-▀█▀ ▒█▄░▒█ ▒█▀▀▄ ▒█▀▀▀ ▀▄▒▄▀ 
-▒█░ ▒█▒█▒█ ▒█░▒█ ▒█▀▀▀ ░▒█░░ 
-▄█▄ ▒█░░▀█ ▒█▄▄▀ ▒█▄▄▄ ▄▀▒▀▄
+🅸🅽🅳🅴🆇
 
 |[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Firafitra](#firafitry-ny-fitehirizana)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
 |---|---|---|---|---|---|---|
