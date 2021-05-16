@@ -185,7 +185,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
   <img width="250" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/todo_logo.png">
 </p>
 
-Araka izay anarany izay hoe "TODO list" dia ato amin'ity section iray ity no haintantsika mpikambana (na vaovao na tranainy) ireo `tache (principal) a faire` iraisantsika, natao ity mba ahitantsika ny progression amina objectif iray na maromaro. Mety mbola misy fanatsarana atao eo amin'ny lafiny fandaminana... 😉️ 
+Araka izay anarany izay hoe *** "TODO list" *** dia ato amin'ity section iray ity no haintantsika mpikambana (na vaovao na tranainy) ireo `tache (principal) a faire` iraisantsika, natao ity mba ahitantsika ny `progression` amina objectif iray na maromaro. Mety mbola misy fanatsarana atao eo amin'ny lafiny fandaminana... 😉️ 
 
 <br>
 
