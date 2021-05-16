@@ -47,7 +47,7 @@ Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfic
 👉️ Un des grands objectifs que j'aimerais réaliser à l'avenir est de pouvoir aider les gens « Sahirana » (en faisant un don financier obtenu d'un autre projet).
 </p>
 <p>
-👉️ Ce sont les raisons pour lesquelles j'ai commencé ce projet, lorsque vous êtes vraiment prêt(e) à nous rejoindre, veillez completer les formulaires d'inscription ci-dessous (nous essayons toujours de compléter les instructions étape par étape) en fonction de l'expérience de l'utilisateur du référentiel CNTEMAD...
+👉️ Ce sont les raisons pour lesquelles j'ai commencé ce projet, lorsque vous êtes vraiment prêt(e) à nous rejoindre, <b> veillez completer les formulaires d'inscription ci-dessous </b> (nous essayons toujours de compléter les instructions étape par étape) en fonction de l'expérience de l'utilisateur du référentiel CNTEMAD...
 </p>
 
 <i>
