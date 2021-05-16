@@ -62,7 +62,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 <br>
 
 <i>
-📢️ P/S: Izy ity tsy nasiana fanavankavahana, na mahay ianao na tsy mahay, na lahy na vavy, na L1 ianao na M2, na inona filiaire misy anao, fifanampiana no tena tanjona, tadidio fa rahatrizay hiasa ianareo dia anisany jeren'ny mpampiasa ny "projet personnel" na "projet collectif" nataonareo, ka tsy hay na ato (na tsia) ianareo no hahita opportunité anaovana izany. Efa misy groupe de discussion hafahantsika mifampiresaka mahakasika ity projet ity ...
+📢️ P/S: Izy ity tsy nasiana fanavankavahana, na mahay ianao na tsy mahay, na lahy na vavy, na L1 ianao na M2, na inona filiaire misy anao, fifanampiana no tena tanjona, tadidio fa rahatrizay hiasa ianareo dia anisany jeren'ny mpampiasa ny "projet personnel" na "projet collectif" nataonareo, ka tsy hay na ato (na tsia) ianareo no hahita opportunité anaovana izany. Efa misy groupe de discussion (fb) hafahantsika mifampiresaka mahakasika ity projet ity ...
 </i>
 
 <br><br>
@@ -70,7 +70,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 # `Fitsipika`
 
 <p align="center">
-  <img width="300" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/rules_logo.png">
+  <img width="250" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/rules_logo.png">
 </p>
 
 <br>
@@ -99,6 +99,8 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 <br>
 
+<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/gourou_logo.png">
+
 *** Aza adinoana ny tenin'ny razambeantsika manao hoe: ***
 
     📜️ KISS: Keep It Simple, Stupid!
@@ -118,7 +120,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 # `Toro-lalana`
 
 <p align="center">
-  <img width="300" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/help_logo.png">
+  <img width="250" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/help_logo.png">
 </p>
 
 <br>
@@ -158,7 +160,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 # `Mpandray anjara`
 
 <p align="center">
-  <img width="300" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/team_logo.png">
+  <img width="250" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/team_logo.png">
 </p>
 
 <br>
@@ -180,7 +182,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 # `Firafitry ny fitehirizana`
 
 <p align="center">
-  <img width="300" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/branch_logo.png">
+  <img width="240" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/branch_logo.png">
 </p>
 
 <br>
@@ -208,7 +210,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 <div align="center">
 
 <p align="center">
-  <img width="300" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/drive_logo.png">
+  <img width="235" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/drive_logo.png">
 </p>
 
 <br>
