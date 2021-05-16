@@ -167,10 +167,10 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 <div align=center>
 
-| Pseudo       |Poste          | Filiaire | Niveau | Parcours | Github  | Stack/Skill
-|:-------------|:--------------|:---------|:-------|:---------|:--------|:-------------------------------------------------------------------------
-| ♂️ **Raja**   |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
-| ♂️ **Stany**  |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |`Javascript` `Angular` `Ionic`
+| Pseudo       |Poste          | Filiaire | Niveau | Parcours | Github  | Skill(s)
+|:-------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
+| ♂️ **Raja**   |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` other: `dessin` `illustration`
+| ♂️ **Stany**  |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
 | **-**        |       -       |    -     |   -    |    -     |
 
 </div>
