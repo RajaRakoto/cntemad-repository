@@ -129,7 +129,7 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 # `Mpandray anjara`
 
 
-| Pseudo       |Responsabilité | Niveau | Parcours | Github  | Tech
+| Pseudo       |Poste | Niveau | Parcours | Github  | Stack|Skill
 |:-------------|:--------------|:-------|:---------|:--------|:-------------------------------------------------------------------------------------------
 | ♂️ **Raja**   |    `Admin`    |  L3    |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
 | ♂️ **Stany**  |       -       |  L3    |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |`Javascript` `Angular` `Ionic`
