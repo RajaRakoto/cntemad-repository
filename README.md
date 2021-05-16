@@ -162,6 +162,11 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 # `Firafitry ny fitehirizana`
 
+<p align="center">
+  <img width="300" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/branch_logo.png">
+</p>
+
+<br>
 
 > Atreto aloha ny fandaminana napetraka dia `branche` iray isaky ny `Niveau`, izany hoe misy `branche 5 no fitambarany (L1-L2-L3-M1-M2)`.
 > Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa rehetra.
