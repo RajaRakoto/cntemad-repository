@@ -189,7 +189,10 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 <div align=center>
 
-- [x] exemple 0 | - [ ] exemple 1 
+- [x] exemple 0 
+- [ ] exemple 1 
+...
+Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour voir la liste complete 
 
 </div>
 
