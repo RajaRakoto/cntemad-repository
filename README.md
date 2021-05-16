@@ -11,7 +11,7 @@
 <div align="center">
 <h3><b>🅸🅽🅳🅴🆇</b></h3>
 
-|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Firafitra](#firafitry-ny-fitehirizana)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
+|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[TODO](#todo-list)|[Firafitra](#firafitry-ny-fitehirizana)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
 |---|---|---|---|---|---|---|
 </div>
 <br>
@@ -171,7 +171,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 |:-------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
 | ♂️ **Raja**   |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` other: `dessin` `illustration`
 | ♂️ **Stany**  |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
-| **-**        |       -       |    -     |   -    |    -     |    -     |    -     |
+| **-**        |       -       |    -     |   -    |    -     |    -     |    -     |   
 
 </div>
 
