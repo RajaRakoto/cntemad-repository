@@ -9,7 +9,7 @@
 
 <br>
 <div align="center">
-🅸🅽🅳🅴🆇
+<h3><b>🅸🅽🅳🅴🆇</b></h3>
 
 |[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Firafitra](#firafitry-ny-fitehirizana)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
 |---|---|---|---|---|---|---|
@@ -277,6 +277,8 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika k
 
 <br>
 
+__________________________________________________________________________________________________________________
+
 💡️ **Ny fomba fanaovana compression de donnees** [[❓️](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
 
     Ny compression de donnees dia miaro azy amin'ny "programme malveillant" sy manampy @resaka vitesse de "téléversement|telechargement".
@@ -286,13 +288,13 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika k
         [compression]:--->$ tar cvfz <ilay sortie: <mon-fichier>.tar.gz> <ilay entrer: mon-fichier>
         [ohatra]:-------->$ tar cvfz exercices-maths.tar.gz exercices-maths
         [decompression]:->$ tar xvf exercices-maths.tar.gz
-
+__________________________________________________________________________________________________________________
 
 <i>
 📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao atao dia alefaso mailaka na facebook @ rohy eo ambany
 </i>
 
-<br>
+<br><br>
 
 <p align="center">
 <a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="50" width="50" /></a> 
