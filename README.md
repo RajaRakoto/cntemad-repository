@@ -179,6 +179,23 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 <br><br>
 
+# `TODO list`
+
+<p align="center">
+  <img width="250" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/todo_logo.png">
+</p>
+
+<br>
+
+<div align=center>
+
+- [x] exemple 0
+- [ ] exemple 1 
+
+</div>
+
+<br><br>
+
 # `Firafitry ny fitehirizana`
 
 <p align="center">
