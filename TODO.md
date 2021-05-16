@@ -6,6 +6,6 @@
 - [ ] exemple 5 
 - [x] exemple 6 
 - [x] exemple 7
-... 
+
 
 </div>

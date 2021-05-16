@@ -191,6 +191,9 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 - [x] exemple 0 
 - [ ] exemple 1 
+
+<br>
+
 ...
 
 <br>
