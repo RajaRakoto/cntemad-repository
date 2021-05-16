@@ -5,7 +5,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
-### DOCS EN COURS DE REDACTION ... 
+### DOCS EN COURS D'EDITION ... 
 
 <br>
 <div align="center">
@@ -146,6 +146,12 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 # `Mpandray anjara`
 
+<p align="center">
+  <img width="300" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/team_logo.png">
+</p>
+
+<br>
+
 <div align=center>
 
 | Pseudo       |Poste          | Niveau | Parcours | Github  | Stack/Skill
@@ -274,6 +280,8 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika k
 <i>
 📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao atao dia alefaso mailaka na facebook @ rohy eo ambany
 </i>
+
+<br>
 
 <p align="center">
 <a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="50" width="50" /></a> 
