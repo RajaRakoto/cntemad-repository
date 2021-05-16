@@ -116,7 +116,7 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 > outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` avokoa ireo:
 
 | Outil            | Plateforme          | Download                                       | 
-|:-----------------|:--------------------:------------------------------------------------|
+|:-----------------|:--------------------|:------------------------------------------------|
 | **Sourcetree**   | Windows             |[⬇](https://www.sourcetreeapp.com/)             |
 | **Gitbash**      | Windows - GNU/Linux |[⬇](https://git-scm.com/downloads)              |
 | **Gitkraken**    | Windows - GNU/Linux |[⬇](https://www.gitkraken.com/download)         |
