@@ -158,7 +158,7 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 
 <i>
-📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao hatao dia alefaso mailaka na facebook @ rohy eo ambany
+📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao atao dia alefaso mailaka na facebook @ rohy eo ambany
 </i>
 
 <p align="center">
@@ -166,6 +166,40 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 <a href="https://www.facebook.com/raja.rakotonirina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="50" width="50" /></a>
 </p>
 
+# `Tahiry "Google drive"`
+
+> `Google drive` ho an'izay mbola tsy mahalala dia `service de stockage en ligne (cloud)` iray natolotry ny orinasa Google. Inona no hifandraisany amin'ity projet ity ? tsara fantantsika fa misy fetrany ny zavatra azontsika tehirizina ato @github, eo @ `500Mo` (raha tsy diso aho) eo no nomena ny `compte free` iray ka noho izany indrindra no antony hampiasana ity "service Google drive ity" (ary antony nahatonga ilay fitsipika hoe tsy azo atao ny mandefa "video"). `Google drive` dia manana "capacite de stockage" hatramin'ny `15Go` isaky ny compte iray.
+
+> Ny fomba fampiasana azy dia tsotra ihany (misy dingana 5):
+
+    1. Mamorona `compte google (gmail)` ary tonga dia omena anao maimaim-poana avy hatrany io `15go` io vao vita izay. 
+
+    2. Rehefa connectE amin'ilay compte isika dia miditra ao amin'ny [Google DRIVE](https://drive.google.com/).
+
+    3. Rehefa ao ianreo dia mahita `interface "Mon drive"` sahala amin'ireny "gestionnaire de fichier" ny "telephone" na "ordinateur" anareo ireny: Ao ianareo afaka manao `importation/exportation` fichier(s), `creer/supprimer dossier/fichier(s)`, miditra amin'nireo karazana `applications google` hafa (google docs[mitovy @word], google sheets[mitovy @excel], google slides[mitovy @powerpoint], ary mbola misy maro samihafa ...). Ary ny tena ampesaintsika azy dia ilay `stockage de(s) fichier(s)` izay noresahina teo ambony.
+
+    4. Rehefa azoareo ny hilana azy dia sahala amin'izao no fomba fampiasana azy, tsara marihana fa tsy ity `google drive` ity no atao `centre de stockage` fa ampiasaina fotsiny rehefa misy zavatra hifampizarana kanefa mitaky `capacite de stockage ambony` (Ex: >=50Mo).
+
+    5. Ireto avy ary ny atao rehefa hampiditra fichier ao ianareo dia hizara @mpiara mianatra aminareo:
+        
+        * Miditra ao @ app [Google DRIVE](https://drive.google.com/) ianareo.
+        
+        * Click droite > Importer des fichiers.
+        
+        * Safidinareo ilay fichier ho zarainareo (tsara koakoa raha `compressE` ilay izy vao manao importation ianareo): [fomba fanaovana compression de donnees](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)
+
+        N.B: Ny compression de donnees dia miaro azy amin'ny `programme malveillant` sy manampy @resaka vitesse de `téléversement|telechargement`.
+
+        * Rehefa vita ny importation dia stockE zay ilay donnees, click droite eo @ilay fichier ary `Obtenir le lien`, dia afaka mizara azy @alalan'ny "LIEN PUBLIC" ny Google drive ianareo. Manana choix roa ianareo @fomba fizarana azy:
+            
+            1. partage "LimitE": izany hoe izay olona nomenareo autorisation ihany no afaka maka azy.
+            2. partage "Publique": izay olona rehetra mahita ilay LIEN nomenareo ka miditra ao (ity farany no mahaliana antsika).
+
+        * Rehefa vita ny safidy ny mode de partage dia tsindrio ny `copier le lien` ary raha tianareo ho eto @lisitra izany (ho zarainareo en public) dia miresaka @Admin na moderateur (izay hitanareo eo @Mpandray anjara) na alefanareo @adresse e-mail|facebook (@farany ambany ny pejy) dia verifiE ny admin/moderateur ary integrE-ny @CNTEMAD repository avy eo.
+
+        * Tsara raha mba asinareo `description` tsotsotra ny mahakasika ilay zavatra ho zarainareo.
+
+> Ireo tahiry ao @Google drive:
 
 
 <p align="center">
