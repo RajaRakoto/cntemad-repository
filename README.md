@@ -66,7 +66,7 @@ Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfic
 Mankasitraka antsika rehetra namaky hatramin'ny farany. ❤️
 
 
-# `Fitsipika`:
+# `Fitsipika`
 
 
 🛡️ Fifanajana samy "membre", aoka tsy hanisy zavatra hafahafa (Tsy misy hidiran'ny fianarana), soroy ny resaka tsy misy hifandraisany aminy tanjona napetraka.
