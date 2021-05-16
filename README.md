@@ -53,10 +53,6 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 <i>
 📢️ P/S: Izy ity tsy nasiana fanavankavahana, na mahay ianao na tsy mahay, na lahy na vavy, na L1 ianao na M2, na inona filiaire misy anao, fifanampiana no tena tanjona, tadidio fa rahatrizay hiasa ianareo dia anisany jeren'ny mpampiasa ny "projet personnel" na "projet collectif" nataonareo, ka tsy hay na ato (na tsia) ianareo no hahita opportunité anaovana izany. Efa misy groupe de discussion hafahantsika mifampiresaka mahakasika ity projet ity ...
 </i>
-</br>
-<p>
-Mankasitraka antsika rehetra namaky hatramin'ny farany. ❤️
-</p>
 
 
 # `Fitsipika`
@@ -163,7 +159,7 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 > Ny fomba fampiasana azy dia tsotra ihany (misy dingana 5):
 
-    1. Mamorona `compte google (gmail)` ary tonga dia omena anao maimaim-poana avy hatrany io `15go` io vao vita izay. 
+    <b>1. Mamorona `compte google (gmail)` ary tonga dia omena anao maimaim-poana avy hatrany io `15go` io vao vita izay.</b>
 
     2. Rehefa connectE amin'ilay compte isika dia miditra ao amin'ny [Google DRIVE](https://drive.google.com/).
 
