@@ -262,7 +262,7 @@ ________________________________________________________________________________
 
 W3SCHOOL offline | added by ♂️ **Raja**                                         
 
-<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/W3Schools_logo.png">
+<img align="right" width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/W3Schools_logo.png">
 
 |[download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing)
 |---|
@@ -275,7 +275,7 @@ ________________________________________________________________________________
 
 # `Tips & Tricks`
 
-Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay `[?]` izay eo anilan'ilay theme tianao fantarina.
+Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay `[❓️]` izay eo anilan'ilay theme tianao fantarina.
 
 <br>
 
