@@ -188,11 +188,13 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 |[Creer un compte Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp)|[Google DRIVE](https://drive.google.com/)|
 |---|---|
 
+</div>
+
 > `Google drive` ho an'izay mbola tsy mahalala dia `service de stockage en ligne (cloud)` iray natolotry ny orinasa Google. Inona no hifandraisany amin'ity projet ity ? tsara fantantsika fa misy fetrany ny zavatra azontsika tehirizina ato @github, eo @ `500Mo` (raha tsy diso aho) eo no nomena ny `compte free` iray ka noho izany indrindra no antony hampiasana ity "service Google drive ity" (ary antony nahatonga ilay fitsipika hoe tsy azo atao ny mandefa "video"). `Google drive` dia manana "capacite de stockage" hatramin'ny `15Go` isaky ny compte iray.
 
 <br>
 
- *** Ny fomba fampiasana azy dia tsotra ihany (misy dingana 5) ***
+ <b> *** 🄽🅈 🄵🄾🄼🄱🄰 🄵🄰🄼🄿🄸🄰🅂🄰🄽🄰 🄰🅉🅈 (misy dingana 5) *** </b>
 
     1. Mamorona `compte google (gmail)` ary tonga dia omena anao maimaim-poana avy hatrany io `15go` io vao vita izay. 
     
@@ -220,7 +222,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
         * Tsara raha mba asinareo `description` tsotsotra sy precisE-nareo ny `taille totale` mahakasika ilay zavatra ho zarainareo.
 <br>
 
-*** Ireo tahiry ao @Google drive ***
+ <b> *** 🄸🅁🄴🄾 🅃🄰🄷🄸🅁🅈 🄰🄾 @🄶🄾🄾🄶🄻🄴 🄳🅁🄸🅅🄴 ***  </b> 
 
 __________________________________________________________________________________________________________________
 W3SCHOOL offline | added by ♂️ **Raja**                                         
