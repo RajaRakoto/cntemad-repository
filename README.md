@@ -192,7 +192,9 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 - [x] exemple 0 
 - [ ] exemple 1 
 ...
+
 <br>
+
 Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour voir la liste complete 
 
 </div>
