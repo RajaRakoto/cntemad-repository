@@ -115,6 +115,14 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 > outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` avokoa ireo:
 
+| Outil            | Plateforme          | Download                                       |
+|:-----------------|:--------------------:------------------------------------------------:
+| **Sourcetree**   | Windows             |[⬇](https://www.sourcetreeapp.com/)             |
+| **Gitbash**      | Windows - GNU/Linux |[⬇](https://git-scm.com/downloads)              |
+| **Gitkraken**    | Windows - GNU/Linux |[⬇](https://www.gitkraken.com/download)         |
+| **UNGIT**        | GNU/Linux           |[⬇](https://github.com/FredrikNoren/ungit)      |
+| **gitvers-tool** | GNU/Linux           |[⬇](https://github.com/RajaRakoto/gitvers-tool) |
+
 * (Windows): Sourcetree | [download](https://www.sourcetreeapp.com/) ⬇    [tuto](https://grafikart.fr/tutoriels/source-tree-592) 🎬️
 * (Windows|GNU/Linux): Gitbash | [download](https://git-scm.com/downloads) ⬇ 
 * (Windows|GNU/Linux): Gitkraken | [download](https://www.gitkraken.com/download) ⬇   [tuto](https://grafikart.fr/tutoriels/gitkraken-749) 🎬️
