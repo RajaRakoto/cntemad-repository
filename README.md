@@ -200,7 +200,7 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika k
 
 💡️ **Ny fomba fanaovana compression de donnees** [[?](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
 
-    Ny compression de donnees dia miaro azy amin'ny " programme malveillant " sy manampy @resaka vitesse de " téléversement|telechargement ".
+    Ny compression de donnees dia miaro azy amin'ny "programme malveillant" sy manampy @resaka vitesse de "téléversement|telechargement".
 
     Ho an'ny mpampiasa Windows ilay rohy eo ambony, fa raha sous GNU/Linux dia sahala amin'izao no fanaovana compression/decompression:
 
@@ -218,8 +218,9 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika k
 <a href="https://www.facebook.com/raja.rakotonirina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="50" width="50" /></a>
 </p>
 
+</br>
 <p align="center">
-🅜🅘🅡🅐🅡🅨  🅕🅐🅗🅞🅜🅑🅘🅐🅩🅐🅝🅐  🅗🅞  🅐🅝🅣🅢🅘🅚🅐  🅡🅔🅗🅔🅣🅡🅐 ❗
+ℳ𝒾𝓇𝒶𝓇𝓎 𝒻𝒶𝒽ℴ𝓂𝒷𝒾𝒶𝓏𝒶𝓃𝒶 𝒽ℴ 𝒶𝓃𝓉𝓈𝒾𝓀𝒶 𝓇ℯ𝒽ℯ𝓉𝓇𝒶 !
 </p>
 
 
