@@ -8,7 +8,7 @@
 ### DOCS EN COURS DE REDACTION ... 
 
 
-# `Momba ny projet "CNTEMAD repository"`
+# `A propos de "CNTEMAD repository"`
 
 ℂℕ𝕋𝔼𝕄𝔸𝔻 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕪
 𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏
@@ -47,7 +47,7 @@ Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfic
 👉️ Un des grands objectifs que j'aimerais réaliser à l'avenir est de pouvoir aider les gens « Sahirana » (en faisant un don financier obtenu d'un autre projet).
 </p>
 <p>
-👉️ Ce sont les raisons pour lesquelles j'ai commencé ce projet, lorsque vous êtes vraiment prêt(e) à nous rejoindre, visitez le lien ci-dessous, il existe déjà un "guide pour les débutants" (nous essayons toujours de compléter les instructions étape par étape) en fonction de l'expérience de l'utilisateur du référentiel CNTEMAD...
+👉️ Ce sont les raisons pour lesquelles j'ai commencé ce projet, lorsque vous êtes vraiment prêt(e) à nous rejoindre, veillez completer les formulaires d'inscription ci-dessous (nous essayons toujours de compléter les instructions étape par étape) en fonction de l'expérience de l'utilisateur du référentiel CNTEMAD...
 </p>
 
 <i>
@@ -188,9 +188,14 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
         * Rehefa vita ny safidy ny mode de partage dia tsindrio ny `copier le lien` ary raha tianareo ho eto @lisitra izany (ho zarainareo en public) dia miresaka @Admin na moderateur (izay hitanareo eo @Mpandray anjara) na alefanareo @adresse e-mail|facebook (@farany ambany ny pejy) dia verifiE ny admin/moderateur ary integrE-ny @CNTEMAD repository avy eo.
 
-        * Tsara raha mba asinareo `description` tsotsotra ny mahakasika ilay zavatra ho zarainareo.
+        * Tsara raha mba asinareo `description` tsotsotra sy precisE-nareo ny `taille totale` mahakasika ilay zavatra ho zarainareo.
 
 > Ireo tahiry ao @Google drive:
+
+W3SCHOOL offline | [download](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing) ⬇
+
+    w3school - description :
+    Site web fianarana ireo tehno web isankarazany (frontend | backend), ao koa ny mahakasika ny serveur, misy quiz par thème ihany koa. Nalaina tamin'ny HTTrack website copier (mandeha hors ligne), izany hoe tsy mila connexion rehefa avy nalainareo ao @Google drive.
 
 <i>
 📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao atao dia alefaso mailaka na facebook @ rohy eo ambany
