@@ -12,7 +12,7 @@
 <h3><b>🅸🅽🅳🅴🆇</b></h3>
 
 |[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[TODO](#todo-list)|[Firafitra](#firafitry-ny-fitehirizana)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 </div>
 <br>
 
