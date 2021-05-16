@@ -262,7 +262,7 @@ ________________________________________________________________________________
 
 W3SCHOOL offline | added by ♂️ **Raja**                                         
 
-<img align="right" width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/W3Schools_logo.png">
+<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/W3Schools_logo.png">
 
 |[download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing)
 |---|
@@ -282,6 +282,8 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika k
 __________________________________________________________________________________________________________________
 
 💡️ **Ny fomba fanaovana compression de donnees** [[❓️](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
+
+<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/archive_logo.png">
 
     Ny compression de donnees dia miaro azy amin'ny "programme malveillant" sy manampy @resaka vitesse de "téléversement|telechargement".
 
