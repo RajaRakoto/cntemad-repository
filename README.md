@@ -169,7 +169,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 | Pseudo       |Poste          | Niveau | Parcours | Github  | Stack/Skill
 |:-------------|:--------------|:-------|:---------|:--------|:-------------------------------------------------------------------------
-| ♂️ **Raja**   |    `Admin`    |  L3    |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
+| ♂️ **Raja**   |`Admin``TDL`   |  L3    |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
 | ♂️ **Stany**  |       -       |  L3    |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |`Javascript` `Angular` `Ionic`
 | **-**        |       -       |   -    |    -     |
 | **-**        |       -       |   -    |    -     |
@@ -190,6 +190,8 @@ Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray i
 > Ohatra @fampiasana TODO list:
     Misy exercice/sujet mbola tsy natao dia afaka atao anaty TODO list mba ho hitan'ny rehetra.
     Raha misy bug anaty code ohatra dia afaka alefa eto saody misy mahita solution (syteme issues ihany ilay izy)
+
+> P/S: Miresaha amin'ny responsable ny TODO list izay hitanao eo amin'ny section ny "Mpandray anjara" mba hafahany manao MAJ ilay lisitra | izay misy Poste = TDL
 
 <br>
 
