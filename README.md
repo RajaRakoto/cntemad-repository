@@ -13,7 +13,7 @@
 ℂℕ𝕋𝔼𝕄𝔸𝔻 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕪
 𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏
 
-Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui peuvent survenir, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" </b> ... c'est un projet dont on ne sait pas quand il sera achevé mais seulement nous, le(s) membre(s), le(s) participant(e.s) qui le font évoluer. Un projet inspiré d'une autre université que j'ai trouvé (par hasard) sur Github. Je tiens à préciser d'emblée que ce projet s'adresse (principalement) à ceux qui font de l'informatique/télécommunications mais n'empêche pas d'autres domaines de nous rejoindre que vous soyez juridique, management, communication ou autre. Je ne vois aucun mal à s'entraider.
+Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui peuvent survenir, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" </b>... C'est un projet dont on ne sait pas quand il sera achevé mais seulement nous, le(s) membre(s), le(s) participant(e.s) qui le font évoluer. Un projet inspiré d'une autre université que j'ai trouvé (par hasard) sur Github. Je tiens à préciser d'emblée que ce projet s'adresse (principalement) à ceux qui font de l'informatique/télécommunications mais n'empêche pas d'autres domaines de nous rejoindre que vous soyez juridique, management, communication ou autre. Je ne vois aucun mal à s'entraider.
 
 <b> Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfices potentiels que nous pouvons obtenir: </b>
 
@@ -53,7 +53,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 <i>
 📢️ P/S: Izy ity tsy nasiana fanavankavahana, na mahay ianao na tsy mahay, na lahy na vavy, na L1 ianao na M2, na inona filiaire misy anao, fifanampiana no tena tanjona, tadidio fa rahatrizay hiasa ianareo dia anisany jeren'ny mpampiasa ny "projet personnel" na "projet collectif" nataonareo, ka tsy hay na ato (na tsia) ianareo no hahita opportunité anaovana izany. Efa misy groupe de discussion hafahantsika mifampiresaka mahakasika ity projet ity ...
 </i>
-
+</br>
 <p>
 Mankasitraka antsika rehetra namaky hatramin'ny farany. ❤️
 </p>
