@@ -24,6 +24,7 @@
 
 Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui peuvent survenir, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" </b>... C'est un projet dont on ne sait pas quand il sera achevé mais seulement nous, le(s) membre(s), le(s) participant(e.s) qui le font évoluer. Un projet inspiré d'une autre université que j'ai trouvé (par hasard) sur Github. Je tiens à préciser d'emblée que ce projet s'adresse (principalement) à ceux qui font de l'informatique/télécommunications mais n'empêche pas d'autres domaines de nous rejoindre que vous soyez juridique, management, communication ou autre. Je ne vois aucun mal à s'entraider.
 
+<br>
 <b> Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfices potentiels que nous pouvons obtenir: </b>
 
     
@@ -51,18 +52,20 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
     
     ✅️  12. Il nous apprendra ce que signifie réellement cette phase: « Sambatra ny manome noho ny mandray », non pas pour être égoïste mais pour aimer notre prochain comme nous-mêmes.
     
-
+<br>
 <p> 
 👉️ Un des grands objectifs que j'aimerais réaliser à l'avenir est de pouvoir aider les gens « Sahirana » (en faisant un don financier obtenu d'un autre projet).
 </p>
 <p>
 👉️ Ce sont les raisons pour lesquelles j'ai commencé ce projet, lorsque vous êtes vraiment prêt(e) à nous rejoindre, <b> veillez completer les formulaires d'inscription ci-dessous </b> (nous essayons toujours de compléter les instructions étape par étape) en fonction de l'expérience de l'utilisateur du référentiel CNTEMAD...
 </p>
+<br>
 
 <i>
 📢️ P/S: Izy ity tsy nasiana fanavankavahana, na mahay ianao na tsy mahay, na lahy na vavy, na L1 ianao na M2, na inona filiaire misy anao, fifanampiana no tena tanjona, tadidio fa rahatrizay hiasa ianareo dia anisany jeren'ny mpampiasa ny "projet personnel" na "projet collectif" nataonareo, ka tsy hay na ato (na tsia) ianareo no hahita opportunité anaovana izany. Efa misy groupe de discussion hafahantsika mifampiresaka mahakasika ity projet ity ...
 </i>
 
+<br><br>
 
 # `Fitsipika`
 
@@ -89,7 +92,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 🛡️ Mizara mampiasa carnet `TODO list` mba hampilamina (organisation/priorisation des tâches) ny zavatra ho ataonao rehetra (velabelaro raha ilaina izany).
 
-
+<br>
 Aza adinoana ny tenin'ny razambeantsika manao hoe:
 
     📜️ KISS: Keep It Simple, Stupid!
@@ -104,6 +107,7 @@ Aza adinoana ny tenin'ny razambeantsika manao hoe:
     📜️ Don’t be shy, ask!
     Il n’y a pas de honte à demander de l’aide, surtout avant d’attaquer une nouvelle fonctionnalité.
 
+<br><br>
 
 # `Toro-lalana`
 
@@ -121,8 +125,11 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 > [[Hanao Mise a jour ny tahiry efa ao aminao - upstream](https://github.com/RajaRakoto/cntemad/blob/master/guide/upstream_example.gif)]
 
+<br>
 
-> outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` avokoa ireo:
+Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` avokoa ireo:
+
+<div align=center>
 
 | Outil            | Plateforme          | Download                                                  | Tuto                                                       | Github
 |:-----------------|:--------------------|:----------------------------------------------------------|:-----------------------------------------------------------|:------------------------
@@ -132,9 +139,13 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 | **UNGIT**        | GNU/Linux           |[download ⬇](https://github.com/FredrikNoren/ungit)       |[tuto 🎬️](https://grafikart.fr/tutoriels/ungit-437)         |[github 🔗](https://github.com/FredrikNoren/ungit) 
 | **gitvers-tool** | GNU/Linux           |[download ⬇](https://github.com/RajaRakoto/gitvers-tool)  |-                                                           |[github 🔗](https://github.com/RajaRakoto/gitvers-tool)
 
+</div>
+
+<br><br>
 
 # `Mpandray anjara`
 
+<div align=center>
 
 | Pseudo       |Poste          | Niveau | Parcours | Github  | Stack/Skill
 |:-------------|:--------------|:-------|:---------|:--------|:-------------------------------------------------------------------------
@@ -144,6 +155,9 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 | **-**        |       -       |   -    |    -     |
 | **-**        |       -       |   -    |    -     |
 
+</div>
+
+<br><br>
 
 # `Firafitry ny fitehirizana`
 
@@ -164,14 +178,20 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
     STAT => 2 directories, 6 files
 
 
+<br><br>
+
 # `Tahiry "Google drive"`
 
-[Creer un compte Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp) | 
-[Google DRIVE](https://drive.google.com/)  
+<div align="center">
+[Creer un compte Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp)|[Google DRIVE](https://drive.google.com/)|
+|---|---|
+</div>
 
 > `Google drive` ho an'izay mbola tsy mahalala dia `service de stockage en ligne (cloud)` iray natolotry ny orinasa Google. Inona no hifandraisany amin'ity projet ity ? tsara fantantsika fa misy fetrany ny zavatra azontsika tehirizina ato @github, eo @ `500Mo` (raha tsy diso aho) eo no nomena ny `compte free` iray ka noho izany indrindra no antony hampiasana ity "service Google drive ity" (ary antony nahatonga ilay fitsipika hoe tsy azo atao ny mandefa "video"). `Google drive` dia manana "capacite de stockage" hatramin'ny `15Go` isaky ny compte iray.
 
-> Ny fomba fampiasana azy dia tsotra ihany (misy dingana 5):
+<br>
+
+ *** Ny fomba fampiasana azy dia tsotra ihany (misy dingana 5) ***
 
     1. Mamorona `compte google (gmail)` ary tonga dia omena anao maimaim-poana avy hatrany io `15go` io vao vita izay. 
     
@@ -197,21 +217,28 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
         * Rehefa vita ny safidy ny mode de partage dia tsindrio ny `copier le lien` ary raha tianareo ho eto @lisitra izany (ho zarainareo en public) dia miresaka @Admin na moderateur (izay hitanareo eo @Mpandray anjara) na alefanareo @adresse e-mail|facebook (@farany ambany ny pejy) dia verifiE ny admin/moderateur ary integrE-ny @CNTEMAD repository avy eo.
 
         * Tsara raha mba asinareo `description` tsotsotra sy precisE-nareo ny `taille totale` mahakasika ilay zavatra ho zarainareo.
+<br>
 
-> Ireo tahiry ao @Google drive:
+*** Ireo tahiry ao @Google drive ***
 
+__________________________________________________________________________________________________________________
 W3SCHOOL offline | added by ♂️ **Raja**
 |[download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing)
 |---|
 
     w3school - description :
     Site web fianarana ireo tehno web isankarazany (frontend | backend), ao koa ny mahakasika ny serveur, misy quiz par thème ihany koa. Nalaina tamin'ny HTTrack website copier (mandeha hors ligne), izany hoe tsy mila connexion rehefa avy nalainareo ao @Google drive.
+__________________________________________________________________________________________________________________
+
+<br><br>
 
 # `Tips & Tricks`
 
 Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay `[?]` izay eo anilan'ilay theme tianao fantarina.
 
-💡️ **Ny fomba fanaovana compression de donnees** [[?](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
+<br>
+
+💡️ **Ny fomba fanaovana compression de donnees** [[❓️](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
 
     Ny compression de donnees dia miaro azy amin'ny "programme malveillant" sy manampy @resaka vitesse de "téléversement|telechargement".
 
