@@ -185,6 +185,12 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 <div align="center">
 
+<p align="center">
+  <img width="300" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/drive_logo.png">
+</p>
+
+<br>
+
 |[Creer un compte Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp)|[Google DRIVE](https://drive.google.com/)|
 |---|---|
 
@@ -226,6 +232,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
  <b> 🄸🅁🄴🄾 🅃🄰🄷🄸🅁🅈 🄰🄾 @🄶🄾🄾🄶🄻🄴 🄳🅁🄸🅅🄴  </b> 
 
+</div>
 __________________________________________________________________________________________________________________
 W3SCHOOL offline | added by ♂️ **Raja**                                         
 <img align="right" width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/W3Schools_logo.png">
@@ -235,8 +242,6 @@ W3SCHOOL offline | added by ♂️ **Raja**
     w3school - description :
     Site web fianarana ireo tehno web isankarazany (frontend | backend), ao koa ny mahakasika ny serveur, misy quiz par thème ihany koa. Nalaina tamin'ny HTTrack website copier (mandeha hors ligne), izany hoe tsy mila connexion rehefa avy nalainareo ao @Google drive.
 __________________________________________________________________________________________________________________
-
-</div>
 
 <br><br>
 
