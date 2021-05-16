@@ -155,6 +155,9 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 # `Tahiry "Google drive"`
 
+[Creer un compte Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp) 🔗 
+[Google DRIVE](https://drive.google.com/) 🔗 
+
 > `Google drive` ho an'izay mbola tsy mahalala dia `service de stockage en ligne (cloud)` iray natolotry ny orinasa Google. Inona no hifandraisany amin'ity projet ity ? tsara fantantsika fa misy fetrany ny zavatra azontsika tehirizina ato @github, eo @ `500Mo` (raha tsy diso aho) eo no nomena ny `compte free` iray ka noho izany indrindra no antony hampiasana ity "service Google drive ity" (ary antony nahatonga ilay fitsipika hoe tsy azo atao ny mandefa "video"). `Google drive` dia manana "capacite de stockage" hatramin'ny `15Go` isaky ny compte iray.
 
 > Ny fomba fampiasana azy dia tsotra ihany (misy dingana 5):
@@ -173,7 +176,7 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
         
         * Click droite > Importer des fichiers.
         
-        * Safidinareo ilay fichier ho zarainareo (tsara koakoa raha `compressE` ilay izy vao manao importation ianareo - voir section [TIPS & TRICKS])
+        * Safidinareo ilay fichier ho zarainareo (tsara koakoa raha `compressE` ilay izy vao manao importation ianareo - voir section [Tips & Tricks])
 
         * Rehefa vita ny importation dia stockE zay ilay donnees, click droite eo @ilay fichier ary `Obtenir le lien`, dia afaka mizara azy @alalan'ny "LIEN PUBLIC" ny Google drive ianareo. Manana choix roa ianareo @fomba fizarana azy:
             
@@ -191,7 +194,7 @@ W3SCHOOL offline | [download](https://drive.google.com/file/u/5/d/1bYFucI7qihaeL
     w3school - description :
     Site web fianarana ireo tehno web isankarazany (frontend | backend), ao koa ny mahakasika ny serveur, misy quiz par thème ihany koa. Nalaina tamin'ny HTTrack website copier (mandeha hors ligne), izany hoe tsy mila connexion rehefa avy nalainareo ao @Google drive.
 
-# `TIPS & TRICKS`
+# `Tips & Tricks`
 
 Ho itantsika ato amin'ny section `TIPS` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay `[?]` izay eo anilan'ilay theme tianao fantarina.
 
