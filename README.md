@@ -196,7 +196,7 @@ W3SCHOOL offline | [download](https://drive.google.com/file/u/5/d/1bYFucI7qihaeL
 
 # `Tips & Tricks`
 
-Ho itantsika ato amin'ny section `TIPS` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay `[?]` izay eo anilan'ilay theme tianao fantarina.
+Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay `[?]` izay eo anilan'ilay theme tianao fantarina.
 
 💡️ Ny fomba fanaovana compression de donnees - [[?](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
 
