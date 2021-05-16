@@ -188,8 +188,8 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray ity no haintantsika mpikambana (na vaovao na tranainy) ireo `tache (principal) a faire` iraisantsika, natao ity mba ho mora amintsika ny `progression` amina objectif iray na maromaro ka hafahan'ny membre rehetra mandray anjara. Mety mbola misy fanatsarana atao eo amin'ny lafiny fandaminana... 😉️ 
 
 > Ohatra @fampiasana TODO list:
-    - Misy exercice/sujet mbola tsy natao dia afaka atao anaty TODO list mba ho hitan'ny rehetra.
-    - Raha misy bug anaty code ohatra dia afaka alefa eto saody misy mahita solution (syteme issues ihany ilay izy)
+    Misy exercice/sujet mbola tsy natao dia afaka atao anaty TODO list mba ho hitan'ny rehetra.
+    Raha misy bug anaty code ohatra dia afaka alefa eto saody misy mahita solution (syteme issues ihany ilay izy)
 
 <br>
 
