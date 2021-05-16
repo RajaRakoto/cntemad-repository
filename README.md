@@ -159,8 +159,8 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 > Ny fomba fampiasana azy dia tsotra ihany (misy dingana 5):
 
-    <b>1. Mamorona `compte google (gmail)` ary tonga dia omena anao maimaim-poana avy hatrany io `15go` io vao vita izay.</b>
-
+    1. Mamorona `compte google (gmail)` ary tonga dia omena anao maimaim-poana avy hatrany io `15go` io vao vita izay. 
+    
     2. Rehefa connectE amin'ilay compte isika dia miditra ao amin'ny [Google DRIVE](https://drive.google.com/).
 
     3. Rehefa ao ianreo dia mahita `interface "Mon drive"` sahala amin'ireny "gestionnaire de fichier" ny "telephone" na "ordinateur" anareo ireny: Ao ianareo afaka manao `importation/exportation` fichier(s), `creer/supprimer dossier/fichier(s)`, miditra amin'nireo karazana `applications google` hafa (google docs[mitovy @word], google sheets[mitovy @excel], google slides[mitovy @powerpoint], ary mbola misy maro samihafa ...). Ary ny tena ampesaintsika azy dia ilay `stockage de(s) fichier(s)` izay noresahina teo ambony.
@@ -173,9 +173,7 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
         
         * Click droite > Importer des fichiers.
         
-        * Safidinareo ilay fichier ho zarainareo (tsara koakoa raha `compressE` ilay izy vao manao importation ianareo): [fomba fanaovana compression de donnees](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)
-
-        N.B: Ny compression de donnees dia miaro azy amin'ny `programme malveillant` sy manampy @resaka vitesse de `téléversement|telechargement`.
+        * Safidinareo ilay fichier ho zarainareo (tsara koakoa raha `compressE` ilay izy vao manao importation ianareo - voir section [TIPS & TRICKS])
 
         * Rehefa vita ny importation dia stockE zay ilay donnees, click droite eo @ilay fichier ary `Obtenir le lien`, dia afaka mizara azy @alalan'ny "LIEN PUBLIC" ny Google drive ianareo. Manana choix roa ianareo @fomba fizarana azy:
             
@@ -192,6 +190,13 @@ W3SCHOOL offline | [download](https://drive.google.com/file/u/5/d/1bYFucI7qihaeL
 
     w3school - description :
     Site web fianarana ireo tehno web isankarazany (frontend | backend), ao koa ny mahakasika ny serveur, misy quiz par thème ihany koa. Nalaina tamin'ny HTTrack website copier (mandeha hors ligne), izany hoe tsy mila connexion rehefa avy nalainareo ao @Google drive.
+
+# `TIPS & TRICKS`
+
+Ho itantsika ato amin'ny section `TIPS` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay `[?]` izay eo anilan'ilay theme tianao fantarina.
+
+💡️ Ny fomba fanaovana compression de donnees - [?](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)
+    Ny compression de donnees dia miaro azy amin'ny `programme malveillant` sy manampy @resaka vitesse de `téléversement|telechargement`.
 
 <i>
 📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao atao dia alefaso mailaka na facebook @ rohy eo ambany
