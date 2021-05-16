@@ -157,11 +157,6 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
     STAT => 2 directories, 6 files
 
 
-<i>
-📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao atao dia alefaso mailaka na facebook @ rohy eo ambany
-</i>
-
-
 # `Tahiry "Google drive"`
 
 > `Google drive` ho an'izay mbola tsy mahalala dia `service de stockage en ligne (cloud)` iray natolotry ny orinasa Google. Inona no hifandraisany amin'ity projet ity ? tsara fantantsika fa misy fetrany ny zavatra azontsika tehirizina ato @github, eo @ `500Mo` (raha tsy diso aho) eo no nomena ny `compte free` iray ka noho izany indrindra no antony hampiasana ity "service Google drive ity" (ary antony nahatonga ilay fitsipika hoe tsy azo atao ny mandefa "video"). `Google drive` dia manana "capacite de stockage" hatramin'ny `15Go` isaky ny compte iray.
@@ -196,6 +191,10 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
         * Tsara raha mba asinareo `description` tsotsotra ny mahakasika ilay zavatra ho zarainareo.
 
 > Ireo tahiry ao @Google drive:
+
+<i>
+📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao atao dia alefaso mailaka na facebook @ rohy eo ambany
+</i>
 
 <p align="center">
 <a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="50" width="50" /></a> 
