@@ -198,9 +198,16 @@ W3SCHOOL offline | [download](https://drive.google.com/file/u/5/d/1bYFucI7qihaeL
 
 Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay `[?]` izay eo anilan'ilay theme tianao fantarina.
 
-💡️ Ny fomba fanaovana compression de donnees - [[?](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
+💡️ **Ny fomba fanaovana compression de donnees** [[?](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
 
     Ny compression de donnees dia miaro azy amin'ny `programme malveillant` sy manampy @resaka vitesse de `téléversement|telechargement`.
+
+    Ho an'ny mpampiasa Windows ilay rohy eo ambony, fa raha sous GNU/Linux dia sahala amin'izao no fanaovana compression/decompression:
+
+        [compression]:--->$ tar cvfz <ilay sortie: <mon-fichier>.tar.gz> <ilay entrer: mon-fichier>
+        [ohatra]:-------->$ tar cvfz exercices-maths.tar.gz exercices-maths
+        [decompression]:->$ tar xvf exercices-maths.tar.gz
+
 
 <i>
 📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao atao dia alefaso mailaka na facebook @ rohy eo ambany
