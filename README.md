@@ -120,7 +120,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 # `Toro-lalana`
 
 <p align="center">
-  <img width="250" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/help_logo.png">
+  <img width="260" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/help_logo.png">
 </p>
 
 <br>
@@ -182,7 +182,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 # `Firafitry ny fitehirizana`
 
 <p align="center">
-  <img width="240" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/branch_logo.png">
+  <img width="230" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/branch_logo.png">
 </p>
 
 <br>
@@ -210,7 +210,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 <div align="center">
 
 <p align="center">
-  <img width="235" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/drive_logo.png">
+  <img width="210" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/drive_logo.png">
 </p>
 
 <br>
