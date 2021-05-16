@@ -169,7 +169,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 | Pseudo       |Poste          | Filiaire | Niveau | Parcours | Github  | Stack/Skill
 |:-------------|:--------------|:---------|:-------|:---------|:--------|:-------------------------------------------------------------------------
-| ♂️ **Raja**   |`Admin, TDL`   |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
+| ♂️ **Raja**   |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|`Python` `Javascript` `Shell`
 | ♂️ **Stany**  |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |`Javascript` `Angular` `Ionic`
 | **-**        |       -       |    -     |   -    |    -     |
 
