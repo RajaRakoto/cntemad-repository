@@ -234,8 +234,11 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 </div>
 __________________________________________________________________________________________________________________
+
 W3SCHOOL offline | added by ♂️ **Raja**                                         
+
 <img align="right" width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/W3Schools_logo.png">
+
 |[download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing)
 |---|
 
