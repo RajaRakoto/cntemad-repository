@@ -54,7 +54,9 @@ Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfic
 📢️ P/S: Izy ity tsy nasiana fanavankavahana, na mahay ianao na tsy mahay, na lahy na vavy, na L1 ianao na M2, na inona filiaire misy anao, fifanampiana no tena tanjona, tadidio fa rahatrizay hiasa ianareo dia anisany jeren'ny mpampiasa ny "projet personnel" na "projet collectif" nataonareo, ka tsy hay na ato (na tsia) ianareo no hahita opportunité anaovana izany. Efa misy groupe de discussion hafahantsika mifampiresaka mahakasika ity projet ity ...
 </i>
 
+<p>
 Mankasitraka antsika rehetra namaky hatramin'ny farany. ❤️
+</p>
 
 
 # `Fitsipika`
@@ -157,10 +159,10 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 
 📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao hatao dia alefaso mailaka na facebook @ rohy eo ambany
-<p align="center">
+<i align="center">
 <a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="50" width="50" /></a> 
 <a href="https://www.facebook.com/raja.rakotonirina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="50" width="50" /></a>
-</p>
+</i>
 
 
 
