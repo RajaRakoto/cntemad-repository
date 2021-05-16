@@ -69,6 +69,11 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 # `Fitsipika`
 
+<p align="center">
+  <img width="300" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/rules_logo.png">
+</p>
+
+<br>
 
 🛡️ Fifanajana samy "membre", aoka tsy hanisy zavatra hafahafa (Tsy misy hidiran'ny fianarana), soroy ny resaka tsy misy hifandraisany aminy tanjona napetraka.
 
