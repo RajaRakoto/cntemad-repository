@@ -117,9 +117,9 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 | Outil            | Plateforme          | Download                                                  | Tuto                                                       | Github
 |:-----------------|:--------------------|:----------------------------------------------------------|:-----------------------------------------------------------|:------------------------
-| **Sourcetree**   | Windows             |[[download ⬇](https://www.sourcetreeapp.com/)]             |[[tuto 🎬️](https://grafikart.fr/tutoriels/source-tree-592)] | 
-| **Gitbash**      | Windows - GNU/Linux |[[download ⬇](https://git-scm.com/downloads)]              |-                                                           |
-| **Gitkraken**    | Windows - GNU/Linux |[[download ⬇](https://www.gitkraken.com/download)]         |[[tuto 🎬️](https://grafikart.fr/tutoriels/gitkraken-749)]   |
+| **Sourcetree**   | Windows             |[[download ⬇](https://www.sourcetreeapp.com/)]             |[[tuto 🎬️](https://grafikart.fr/tutoriels/source-tree-592)] |- 
+| **Gitbash**      | Windows - GNU/Linux |[[download ⬇](https://git-scm.com/downloads)]              |-                                                           |-
+| **Gitkraken**    | Windows - GNU/Linux |[[download ⬇](https://www.gitkraken.com/download)]         |[[tuto 🎬️](https://grafikart.fr/tutoriels/gitkraken-749)]   |-
 | **UNGIT**        | GNU/Linux           |[[download ⬇](https://github.com/FredrikNoren/ungit)]      |[[tuto 🎬️](https://grafikart.fr/tutoriels/ungit-437)]       |[[github 🔗](https://github.com/FredrikNoren/ungit)] 
 | **gitvers-tool** | GNU/Linux           |[[download ⬇](https://github.com/RajaRakoto/gitvers-tool)] |-                                                           |[[github 🔗](https://github.com/RajaRakoto/gitvers-tool)]
 
