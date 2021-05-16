@@ -228,6 +228,8 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
  <b> 🄽🅈 🄵🄾🄼🄱🄰 🄵🄰🄼🄿🄸🄰🅂🄰🄽🄰 🄰🅉🅈 (misy dingana 5) </b>
 
+</div>
+
     1. Mamorona `compte google (gmail)` ary tonga dia omena anao maimaim-poana avy hatrany io `15go` io vao vita izay. 
     
     2. Rehefa connectE amin'ilay compte isika dia miditra ao amin'ny [Google DRIVE](https://drive.google.com/).
@@ -253,6 +255,8 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
         * Tsara raha mba asinareo `description` tsotsotra sy precisE-nareo ny `taille totale` mahakasika ilay zavatra ho zarainareo.
 <br>
+
+<div align="center">
 
  <b> 🄸🅁🄴🄾 🅃🄰🄷🄸🅁🅈 🄰🄾 @🄶🄾🄾🄶🄻🄴 🄳🅁🄸🅅🄴  </b> 
 
