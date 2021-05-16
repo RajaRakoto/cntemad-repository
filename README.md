@@ -9,8 +9,6 @@
 |[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Firafitra](#firafitry-ny-fitehirizana)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
 |---|---|---|---|---|---|---|
 
-|[Click here](https://github.com/)|[Or here](https://github.com/)|[Or here](https://github.com/)|
-|---|---|---|
 
 # `A propos de "CNTEMAD repository"`
 
