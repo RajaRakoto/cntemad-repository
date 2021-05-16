@@ -185,7 +185,11 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
   <img width="250" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/todo_logo.png">
 </p>
 
-Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray ity no haintantsika mpikambana (na vaovao na tranainy) ireo `tache (principal) a faire` iraisantsika, natao ity mba ahitantsika ny `progression` amina objectif iray na maromaro ka hafahan'ny membre rehetra mandray anjara. Mety mbola misy fanatsarana atao eo amin'ny lafiny fandaminana... 😉️ 
+Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray ity no haintantsika mpikambana (na vaovao na tranainy) ireo `tache (principal) a faire` iraisantsika, natao ity mba ho mora amintsika ny `progression` amina objectif iray na maromaro ka hafahan'ny membre rehetra mandray anjara. Mety mbola misy fanatsarana atao eo amin'ny lafiny fandaminana... 😉️ 
+
+> Ohatra @fampiasana TODO list:
+    - Misy exercice/sujet mbola tsy natao dia afaka atao anaty TODO list mba ho hitan'ny rehetra.
+    - Raha misy bug anaty code ohatra dia afaka alefa eto saody misy mahita solution (syteme issues ihany ilay izy)
 
 <br>
 
