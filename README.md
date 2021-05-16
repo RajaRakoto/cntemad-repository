@@ -19,6 +19,7 @@ Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfic
 
 <p>
 ✅️1. Le succès de chacun dans l'apprentissage qu'il fait à CNTEMAD (c'est l'objectif principal).
+</p>
 ✅️2. Le partage des connaissances.
 ✅️3. Pour que chacun sache ce qu'est le travail d'équipe.
 ✅️4. Une opportunité pour quiconque d'entrer dans le monde de GIT qui est toujours nécessaire (qu'il soit étudiant/ou pas).
