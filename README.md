@@ -194,7 +194,9 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 <br>
 
- <b> *** 🄽🅈 🄵🄾🄼🄱🄰 🄵🄰🄼🄿🄸🄰🅂🄰🄽🄰 🄰🅉🅈 (misy dingana 5) *** </b>
+<div align="center">
+
+ <b> 🄽🅈 🄵🄾🄼🄱🄰 🄵🄰🄼🄿🄸🄰🅂🄰🄽🄰 🄰🅉🅈 (misy dingana 5) </b>
 
     1. Mamorona `compte google (gmail)` ary tonga dia omena anao maimaim-poana avy hatrany io `15go` io vao vita izay. 
     
@@ -222,7 +224,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
         * Tsara raha mba asinareo `description` tsotsotra sy precisE-nareo ny `taille totale` mahakasika ilay zavatra ho zarainareo.
 <br>
 
- <b> *** 🄸🅁🄴🄾 🅃🄰🄷🄸🅁🅈 🄰🄾 @🄶🄾🄾🄶🄻🄴 🄳🅁🄸🅅🄴 ***  </b> 
+ <b> 🄸🅁🄴🄾 🅃🄰🄷🄸🅁🅈 🄰🄾 @🄶🄾🄾🄶🄻🄴 🄳🅁🄸🅅🄴  </b> 
 
 __________________________________________________________________________________________________________________
 W3SCHOOL offline | added by ♂️ **Raja**                                         
@@ -233,6 +235,8 @@ W3SCHOOL offline | added by ♂️ **Raja**
     w3school - description :
     Site web fianarana ireo tehno web isankarazany (frontend | backend), ao koa ny mahakasika ny serveur, misy quiz par thème ihany koa. Nalaina tamin'ny HTTrack website copier (mandeha hors ligne), izany hoe tsy mila connexion rehefa avy nalainareo ao @Google drive.
 __________________________________________________________________________________________________________________
+
+</div>
 
 <br><br>
 
