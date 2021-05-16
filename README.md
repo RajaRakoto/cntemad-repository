@@ -112,6 +112,12 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 # `Toro-lalana`
 
+<p align="center">
+  <img width="300" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/help_logo.png">
+</p>
+
+<br>
+
 Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ...
 
 > [[Amorona compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)]
