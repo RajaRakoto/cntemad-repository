@@ -40,7 +40,7 @@ Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfic
     
     ✅️  11. Partage de types de sujets, d'exercices, de tutoriels, etc ... tout ce qui est lié à nos études ...
     
-    ✅️  12. Il nous apprendra ce que signifie réellement cette phase: « Sambatra ny manome noho ny mandray »,   non pas pour être égoïste mais pour aimer notre prochain comme nous-mêmes.
+    ✅️  12. Il nous apprendra ce que signifie réellement cette phase: « Sambatra ny manome noho ny mandray », non pas pour être égoïste mais pour aimer notre prochain comme nous-mêmes.
     
 
 <p> 
@@ -50,7 +50,9 @@ Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfic
 👉️ Ce sont les raisons pour lesquelles j'ai commencé ce projet, lorsque vous êtes vraiment prêt(e) à nous rejoindre, visitez le lien ci-dessous, il existe déjà un "guide pour les débutants" (nous essayons toujours de compléter les instructions étape par étape) en fonction de l'expérience de l'utilisateur du référentiel CNTEMAD...
 </p>
 
+<i>
 📢️ P/S: Izy ity tsy nasiana fanavankavahana, na mahay ianao na tsy mahay, na lahy na vavy, na L1 ianao na M2, na inona filiaire misy anao, fifanampiana no tena tanjona, tadidio fa rahatrizay hiasa ianareo dia anisany jeren'ny mpampiasa ny "projet personnel" na "projet collectif" nataonareo, ka tsy hay na ato (na tsia) ianareo no hahita opportunité anaovana izany. Efa misy groupe de discussion hafahantsika mifampiresaka mahakasika ity projet ity ...
+</i>
 
 Mankasitraka antsika rehetra namaky hatramin'ny farany. ❤️
 
