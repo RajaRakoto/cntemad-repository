@@ -311,7 +311,7 @@ Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour vo
 
 __________________________________________________________________________________________________________________
 
-W3SCHOOL offline | size: 372Mo | added by ♂️ **Raja**                                         
+**W3SCHOOL** offline | size: **372Mo** | added by ♂️ **Raja**                                         
 
 <img align="right" width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/W3Schools_logo.png">
 
