@@ -249,15 +249,20 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
 
     [master] 
     |
-    ├── guide 📂️
-    │   ├── commit-template
-    │   ├── git-clone_example.gif
-    │   ├── git-config_example.gif
-    │   ├── git-config.py
-    │   ├── ungit-install.md
-    │   └── upstream.py
-    |
-    ├── logo 📂️
+    ├── guide
+    │   ├── gif📂️
+    │   │   ├── git-clone_example.gif
+    │   │   └── git-config_example.gif
+    │   ├── markdown📂️
+    │   │   └── ungit-install.md
+    │   ├── pdf📂️
+    │   │   └── github-git-cheat-sheet.pdf
+    │   ├── script📂️
+    │   │   ├── git-config.py
+    │   │   └── upstream.py
+    │   └── txt📂️
+    │       └── commit-template
+    ├── logo📂️
     │   ├── archive_logo.png
     │   ├── branch_logo.png
     │   ├── commit-logo.png
@@ -273,12 +278,10 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
     │   ├── todo_logo.png
     │   ├── tt_logo.png
     │   └── W3Schools_logo.png
-    |
     ├── README.md
     └── TODO.md
-
-
-  STAT = 2 directories, 23 files
+    
+  STAT = 7 directories, 24 files
 
 
 <br><br>
