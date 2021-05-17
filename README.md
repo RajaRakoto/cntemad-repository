@@ -337,13 +337,13 @@ ________________________________________________________________________________
 <div align="center">
 
 <p align="center">
-  <img width="210" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/tt_logo.png">
+  <img width="240" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/tt_logo.png">
 </p>
 
 </div>
 
 <p align="center">
-Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay `[❓️]` izay eo anilan'ilay theme tianao fantarina.
+Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay [❓️] izay eo anilan'ilay theme tianao fantarina.
 </p>
 
 <br>
