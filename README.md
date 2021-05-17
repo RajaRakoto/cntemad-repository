@@ -222,7 +222,7 @@ Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour vo
 > Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa rehetra.
 > `[CTRL + F]` raha misy zavatra tadiavinao
 
-arborescence de CNTEMAD repository:
+<b> Arborescence de CNTEMAD repository: </b>
 
     [master] 
     |
@@ -246,7 +246,7 @@ arborescence de CNTEMAD repository:
     ├── README.md
     └── TODO.md
 
-  STAT => 2 directories, 17 files
+  STAT = 2 directories, 17 files
 
 
 
