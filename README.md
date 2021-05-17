@@ -11,7 +11,7 @@
 <div align="center">
 
 <p align="center">
-  <img width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/index_logo.gif">
+  <img width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/index_anim_logo.gif">
 </p>
 
 |[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[TODO](#todo-list)|[Firafitra](#firafitry-ny-fitehirizana)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
