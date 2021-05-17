@@ -348,7 +348,9 @@ ________________________________________________________________________________
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/commit-logo.png">
 
-    Tsara foana isika rehefa manao "commit" dia manaraka convention mba ho mora amin'ny rehetra ny mamaky azy aveo
+    Tsara foana isika rehefa manao "commit" dia manaraka convention mba ho mora amin'ny rehetra ny mamaky azy aveo.
+    Mety misy "manipulation specifique" nataonao ka tsy hitanao ao amin'ny "commit-template" ilay "type de commit" dia tsara raha manaraka ilay structure
+    <type> (<specify>): <topic> | <description> dia efa mety. Izany hoe foroninao ilay <type> ...
 __________________________________________________________________________________________________________________
 
 <i>
