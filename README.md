@@ -222,29 +222,33 @@ Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour vo
 > Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa rehetra.
 > `[CTRL + F]` raha misy zavatra tadiavinao
 
- [master]
-  |
-  ├── guide 📂️
-  │   ├── git-clone_example.gif
-  │   ├── git-config_example.gif
-  │   ├── git-config.py
-  │   ├── ungit-install.md
-  │   └── upstream.py
-  ├── logo 📂️
-  │   ├── archive_logo.png
-  │   ├── branch_logo.png
-  │   ├── drive_logo.png
-  │   ├── gourou_logo.png
-  │   ├── help_logo.png
-  │   ├── rules_logo.png
-  │   ├── team_logo.png
-  │   ├── todo_logo.png
-  │   └── W3Schools_logo.png
-  ├── official-logo.png
-  ├── README.md
-  └── TODO.md
+arborescence de CNTEMAD repository:
+
+    [master] 
+    |
+    ├── guide 📂️
+    │   ├── git-clone_example.gif
+    │   ├── git-config_example.gif
+    │   ├── git-config.py
+    │   ├── ungit-install.md
+    │   └── upstream.py
+    ├── logo 📂️
+    │   ├── archive_logo.png
+    │   ├── branch_logo.png
+    │   ├── drive_logo.png
+    │   ├── gourou_logo.png
+    │   ├── help_logo.png
+    │   ├── rules_logo.png
+    │   ├── team_logo.png
+    │   ├── todo_logo.png
+    │   └── W3Schools_logo.png
+    ├── official-logo.png
+    ├── README.md
+    └── TODO.md
 
   STAT => 2 directories, 17 files
+
+
 
 <br><br>
 
