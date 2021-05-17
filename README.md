@@ -311,14 +311,13 @@ Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour vo
 
 __________________________________________________________________________________________________________________
 
-W3SCHOOL offline | added by ♂️ **Raja**                                         
+W3SCHOOL offline | size: 372Mo | added by ♂️ **Raja**                                         
 
 <img align="right" width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/W3Schools_logo.png">
 
 |[download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing)
 |---|
 
-    w3school - description :
     Site web fianarana ireo tehno web isankarazany (frontend | backend), ao koa ny mahakasika ny serveur, misy quiz par thème ihany koa. Nalaina tamin'ny HTTrack website copier (mandeha hors ligne), izany hoe tsy mila connexion rehefa avy nalainareo ao @Google drive.
 __________________________________________________________________________________________________________________
 
