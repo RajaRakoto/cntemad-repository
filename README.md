@@ -384,7 +384,7 @@ ________________________________________________________________________________
 
 💡️ **Aide memoire git** [[❓️](https://github.com/RajaRakoto/cntemad/blob/master/guide/pdf/github-git-cheat-sheet.pdf)]
 
-<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/git_logo.png">
+<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/git_logo.png" href="https://github.com/RajaRakoto/cntemad/blob/master/guide/pdf/github-git-cheat-sheet.pdf">
 
     Ato daholo ny commande de base ny GIT en Cli, raha mbola tsy sur ianao dia testeo en local aloha ilay commande tianao atao ...
 __________________________________________________________________________________________________________________
