@@ -71,14 +71,13 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 <br>
 
 <b>formulaire d'inscription (modele)</b>
-
-   📌️ Pseudo : Rakoto
-   📌️ Niveau : L1 
-   📌 Filiaire : Info 
-   📌️ Parcours : BDGL
-   📌️ Github : https://github.com/Rakoto
-   📌️ stack : HTML/CSS, Boostrap, JQuery, Javascript, PHP, Python, Java, C, Wordpress, Flutter ...
-   📌 others: izay competences/centre d'interet hafa raha misy (Musique, arts, etc...).
+    Pseudo : Rakoto
+    Niveau : L1 
+    Filiaire : Info 
+    Parcours : BDGL
+    Github : https://github.com/Rakoto
+    stack : HTML/CSS, Boostrap, JQuery, Javascript, PHP, Python, Java, C, Wordpress, Flutter ...
+    others: izay competences/centre d'interet hafa raha misy (Musique, arts, etc...).
 
 
 |[Guide d'inscription](https://github.com/RajaRakoto/cntemad/blob/master/guide/gif/signup.gif)
