@@ -86,8 +86,6 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 🛡️ Fifanajana samy "membre", aoka tsy hanisy zavatra hafahafa (Tsy misy hidiran'ny fianarana), soroy ny resaka tsy misy hifandraisany aminy tanjona napetraka.
 
-🛡️ Hajao hatrany ny `convention de commit` fampiasa (ataovy fohy nefa mazava azon'ny rehetra ny "commit" ataonao) | [commit ?](https://fr.wikipedia.org/wiki/Commit)
-
 🛡️ Fifampizarana no mamelona ity "projet" ity ka aoka isika mba hadray anjara araka izay vitan-tsika.
 
 🛡️ Hamarino tsara ny `branche` misy anao alohan'ny hanaovanao zavatra @alalan'ity `$ git branch` (izay misy "etoile" no misy anao, `* L1` ohatra) | [branche ?](https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Les-branches-en-bref)
@@ -96,11 +94,13 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 🛡️ Azo atao ny mandefa `image|capture(.jpg .png .gif)` fa tsy azo atao kosa ny mandefa `video`, ekena ny `fichiers` rehetra ankoatra izay.
 
-🛡️ Ny `fichiers` rehetra dia `encodés en UTF-8` avokoa | [utf-8 ?](https://fr.wikipedia.org/wiki/UTF-8)
+🛡️ Ny `fichiers` izay misy `texte/code` rehetra dia `encodés en UTF-8` avokoa | [utf-8 ?](https://fr.wikipedia.org/wiki/UTF-8)
 
-🛡️ Hilain'ny mpikambana rehetra ny `commentaire` ao @kaody nosoratanao mba hanamorana ny famakiana azy (mais commenter intelligemment).
+🛡️ Ilain'ny mpikambana rehetra ny `commentaire` ao @kaody nosoratanao mba hanamorana ny famakiana azy (commentez intelligemment).
 
 🛡️ Hajao ny `Style d'indentation de code` (ataovy mirindra sy mazava tsara) | [style d'indentation ?](https://fr.wikipedia.org/wiki/Style_d'indentation)
+
+🛡️ Hajao hatrany ny `convention de commit` fampiasa (ataovy fohy nefa mazava azon'ny rehetra ny "commit" ataonao) | [commit ?](https://fr.wikipedia.org/wiki/Commit)
 
 🛡️ Mizara manoratra ny `nom de variable en Anglais` sy mazava tsara, ary manaraka convention sahala @ `camelCase` | [camelCase ?](https://fr.wikipedia.org/wiki/Camel_case)
 
