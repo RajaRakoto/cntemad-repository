@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/RajaRakoto/cntemad/blob/master/official-logo.png" height="427" width="1590" alt="official-logo"></p>
+<p align="center"><img src="https://github.com/RajaRakoto/cntemad/blob/master/logo/official-logo.png" height="427" width="1590" alt="official-logo"></p>
 
 <h2 align="center">Hello world ! 👋</h2>
 
@@ -9,7 +9,10 @@
 
 <br>
 <div align="center">
-<h3><b>🅸🅽🅳🅴🆇</b></h3>
+
+<p align="center">
+  <img width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/index_logo.gif">
+</p>
 
 |[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[TODO](#todo-list)|[Firafitra](#firafitry-ny-fitehirizana)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
 |---|---|---|---|---|---|---|---|
