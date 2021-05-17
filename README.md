@@ -187,6 +187,7 @@ Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra at
 |:-------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
 | ♂️ **Raja**   |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` other: `dessin` `illustration`
 | ♂️ **Stany**  |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
+| ♂️ **a2d**    |       -       |  Info    |L1      |   BDGL   |[Annael007](https://github.com/Annael007)         |stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio`
 | **-**        |       -       |    -     |   -    |    -     |    -     |    -     |   
 
 </div>
