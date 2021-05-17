@@ -134,9 +134,14 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 <br>
 
-Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ...
+<div align="center">
 
-> [[Amorona compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)]
+|[Creer un compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+|---|
+
+</div>
+
+Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ...
 
 > [[Fa inona tokoa ilay GIT ? inona no ilana azy ? dia inona indray izany ilay Github ?](https://kinsta.com/fr/base-de-connaissances/base-de-connaissances-github/)]
 
