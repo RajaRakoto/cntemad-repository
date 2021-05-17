@@ -247,7 +247,7 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
 
 <b> Arborescence de CNTEMAD repository: </b>
 
-    [master] 
+    [master]  
     |
     ├── guide📂️
     │   ├── gif📂️
@@ -262,14 +262,83 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
     │   │   └── upstream.py
     │   └── txt📂️
     │       └── commit-template
+    ├── L1I📂️
+    │   ├── algo📂️
+    │   │   ├── ALGO_boole.alg
+    │   │   ├── EX_COMPTE_MARIE.alg
+    │   │   ├── EX_EQ BICARREE.alg
+    │   │   ├── EX_EQ du 2ND DEGRE.alg
+    │   │   ├── exercices_sous successives.alg
+    │   │   ├── EX_fonction FONCTION_0.alg
+    │   │   ├── EX_fonction FONCTION_1 (FORMULE GEOMETRIQUE).alg
+    │   │   ├── EX_fonction POUR_0.alg
+    │   │   ├── EX_fonction POUR_1.alg
+    │   │   ├── EX_fonction POUR_2.alg
+    │   │   ├── EX_fonction POUR_3.alg
+    │   │   ├── EX_fonction POUR_4.alg
+    │   │   ├── EX_fonction POUR_SUITE(2019)_0.alg
+    │   │   ├── EX_fonction POUR_SUITE(2019)_1.alg
+    │   │   ├── EX_fonction TANT QUE_0.alg
+    │   │   ├── EX_fonction TANT QUE_1.alg
+    │   │   ├── EX_fonction TANT QUE_2.alg
+    │   │   ├── EX_fonction TANT QUE_3.alg
+    │   │   ├── EX_fonction TANT QUE_4.alg
+    │   │   ├── EX_fonction TANT QUE_5.alg
+    │   │   ├── EX_fonction TESTS imbriqué.alg
+    │   │   ├── EX_nfact_POUR.alg
+    │   │   ├── EX_nfact_TANTQUE.alg
+    │   │   ├── EX_Table de multi.alg
+    │   │   └── table📂️
+    │   │       ├── TYPE TABLEAU_calcul moyenne.alg
+    │   │       ├── TYPE TABLEAU_POUR (saisie & affichage).alg
+    │   │       └── TYPE TABLEAU_TANT_QUE (saisie & affichage).alg
+    │   ├── archi📂️
+    │   │   ├── archi_exo.pdf
+    │   │   ├── archi_lesson.pdf
+    │   │   ├── proc_list.pdf
+    │   │   ├── schema0.png
+    │   │   └── schema1.png
+    │   ├── compta📂️
+    │   │   └── PCG.pdf
+    │   ├── elec📂️
+    │   │   ├── img0.jpg
+    │   │   ├── img1.jpg
+    │   │   ├── img2.jpg
+    │   │   ├── img3.jpg
+    │   │   ├── img4.jpg
+    │   │   └── symbole.jpg
+    │   ├── elecNum📂️
+    │   │   ├── elecNum_exo0.pdf
+    │   │   └── elecNum_exo1.pdf
+    │   ├── geosi📂️
+    │   │   └── mathsFi_exo.pdf
+    │   ├── maths📂️
+    │   │   ├── bin_negatif.jpg
+    │   │   ├── boole0.jpg
+    │   │   ├── boole1.jpg
+    │   │   └── boole_exo.pdf
+    │   ├── metrologie📂️
+    │   │   ├── img0.jpg
+    │   │   ├── img1.jpg
+    │   │   ├── img2.jpg
+    │   │   ├── img3.jpg
+    │   │   ├── img4.jpg
+    │   │   └── img5.jpg
+    │   ├── pascal📂️
+    │   │   └── eq_2nd_degre.pas
+    │   └── proba📂️
+    │       ├── img0.jpg
+    │       ├── img1.jpg
+    │       ├── img2.jpg
+    │       └── table_proba.pdf
     ├── logo📂️
     │   ├── archive_logo.png
     │   ├── branch_logo.png
-    │   ├── commit-logo.png
+    │   ├── commit_logo.png
     │   ├── drive_logo.png
+    │   ├── git_logo.png
     │   ├── gourou_logo.png
     │   ├── help_logo.png
-    │   ├── git_logo.png
     │   ├── index_anim_logo.gif
     │   ├── official-logo.png
     │   ├── quote_down_logo.png
@@ -282,8 +351,6 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
     ├── README.md
     └── TODO.md
     
-  STAT = 7 directories, 25 files
-
 
 <br><br>
 
