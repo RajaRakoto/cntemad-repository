@@ -110,7 +110,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/gourou_logo.png">
 
-<b> *** Aza adinoana ny tenin'ny dadatoan'ialahy isany manao hoe *** </b>
+<b> *** Aza adinoana ny tenin'ny dadatoan'ialahy isany manao hoe *** </b> (ho an'ny DEV)
 
     📜️ KISS: Keep It Simple, Stupid!
     La simplicité est la sophistication suprême | un code simple est plus lisible et plus facile à maintenir.
