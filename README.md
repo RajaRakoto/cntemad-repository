@@ -30,8 +30,7 @@
 
 Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui peuvent survenir, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" </b>... C'est un projet dont on ne sait pas quand il sera achevé mais seulement nous, le(s) membre(s), le(s) participant(e.s) qui le font évoluer. Un projet inspiré d'une autre université que j'ai trouvé (par hasard) sur Github. Je tiens à préciser d'emblée que ce projet s'adresse (principalement) à ceux qui font de l'informatique/télécommunications mais n'empêche pas d'autres domaines de nous rejoindre que vous soyez juridique, management, communication ou autre. Je ne vois aucun mal à s'entraider.
 
-</div>
-<img align="right" width="50" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/quote_down_logo.png">
+</div><img align="right" width="50" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/quote_down_logo.png">
 
 <br>
 <b> Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfices potentiels que nous pouvons obtenir: </b>
