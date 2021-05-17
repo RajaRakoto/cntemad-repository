@@ -80,10 +80,14 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
     📌️ stack : HTML/CSS, Boostrap, JQuery, Javascript, PHP, Python, Java, C, Wordpress, Flutter ...
     📌️ others: izay competences/centre d'interet hafa raha misy (Musique, arts, etc...).
 
+<div align="center">
+
 |[Guide d'inscription](https://github.com/RajaRakoto/cntemad/blob/master/guide/gif/signup.gif)
 |---|  
 
+</div>
 
+<br>
 <i>
 📢️ P/S: Izy ity tsy nasiana fanavankavahana, na mahay ianao na tsy mahay, na lahy na vavy, na L1 ianao na M2, na inona filiaire misy anao, fifanampiana no tena tanjona, tadidio fa rahatrizay hiasa ianareo dia anisany jeren'ny mpampiasa ny "projet personnel" na "projet collectif" nataonareo, ka tsy hay na ato (na tsia) ianareo no hahita opportunité anaovana izany. Efa misy groupe de discussion (fb) hafahantsika mifampiresaka mahakasika ity projet ity ...
 </i>
