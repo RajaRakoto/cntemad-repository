@@ -245,27 +245,35 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
     [master] 
     |
     ├── guide 📂️
+    │   ├── commit-template
     │   ├── git-clone_example.gif
     │   ├── git-config_example.gif
     │   ├── git-config.py
     │   ├── ungit-install.md
     │   └── upstream.py
+    |
     ├── logo 📂️
     │   ├── archive_logo.png
     │   ├── branch_logo.png
+    │   ├── commit-logo.png
     │   ├── drive_logo.png
     │   ├── gourou_logo.png
     │   ├── help_logo.png
+    │   ├── index_anim_logo.gif
+    │   ├── official-logo.png
+    │   ├── quote_down_logo.png
+    │   ├── quote_up_logo.png
     │   ├── rules_logo.png
     │   ├── team_logo.png
     │   ├── todo_logo.png
+    │   ├── tt_logo.png
     │   └── W3Schools_logo.png
-    ├── official-logo.png
+    |
     ├── README.md
     └── TODO.md
 
-  STAT = 2 directories, 17 files
 
+  STAT = 2 directories, 23 files
 
 
 <br><br>
