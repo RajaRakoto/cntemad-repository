@@ -215,7 +215,7 @@ Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray i
 
 <div align=center>
 
-- [x] exemple 0 
+- [ ] Bot messenger for CNTEMAD repository
 - [ ] exemple 1 
 
 <br>
