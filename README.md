@@ -249,7 +249,7 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
 
     [master] 
     |
-    ├── guide
+    ├── guide📂️
     │   ├── gif📂️
     │   │   ├── git-clone_example.gif
     │   │   └── git-config_example.gif
@@ -269,6 +269,7 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
     │   ├── drive_logo.png
     │   ├── gourou_logo.png
     │   ├── help_logo.png
+    │   ├── git_logo.png
     │   ├── index_anim_logo.gif
     │   ├── official-logo.png
     │   ├── quote_down_logo.png
@@ -281,7 +282,7 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
     ├── README.md
     └── TODO.md
     
-  STAT = 7 directories, 24 files
+  STAT = 7 directories, 25 files
 
 
 <br><br>
@@ -381,6 +382,22 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika k
 
 __________________________________________________________________________________________________________________
 
+💡️ **Aide memoire git** [[❓️](https://github.com/RajaRakoto/cntemad/blob/master/guide/pdf/github-git-cheat-sheet.pdf)]
+
+<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/git_logo.png">
+
+    Ato daholo ny commande de base ny GIT en Cli, raha mbola tsy sur ianao dia testeo en local aloha ilay commande tianao atao ...
+__________________________________________________________________________________________________________________
+
+💡️ **Ny convention de commit** [[❓️](https://github.com/RajaRakoto/cntemad/blob/master/guide/txt/commit-template)]
+
+<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/commit_logo.png">
+
+    Tsara foana isika rehefa manao "commit" dia manaraka convention mba ho mora amin'ny rehetra ny mamaky azy aveo.
+    Mety misy "manipulation specifique" nataonao ka tsy hitanao ao amin'ny "commit-template" ilay "type de commit" dia tsara raha manaraka ilay structure
+    <type> (<specify>): <topic> | <description> dia efa mety. Izany hoe foroninao ilay <type> ...
+__________________________________________________________________________________________________________________
+
 💡️ **Ny fomba fanaovana compression de donnees** [[❓️](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/archive_logo.png">
@@ -394,14 +411,6 @@ ________________________________________________________________________________
         [decompression]:->$ tar xvf exercices-maths.tar.gz
 __________________________________________________________________________________________________________________
 
-💡️ **Ny convention de commit** [[❓️](https://github.com/RajaRakoto/cntemad/blob/master/guide/txt/commit-template)]
-
-<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/commit-logo.png">
-
-    Tsara foana isika rehefa manao "commit" dia manaraka convention mba ho mora amin'ny rehetra ny mamaky azy aveo.
-    Mety misy "manipulation specifique" nataonao ka tsy hitanao ao amin'ny "commit-template" ilay "type de commit" dia tsara raha manaraka ilay structure
-    <type> (<specify>): <topic> | <description> dia efa mety. Izany hoe foroninao ilay <type> ...
-__________________________________________________________________________________________________________________
 
 <i>
 📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao atao dia alefaso mailaka na facebook @ rohy eo ambany
