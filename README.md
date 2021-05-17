@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/RajaRakoto/cntemad/blob/master/logo/official-logo.png" height="427" width="1590" alt="official-logo"></p>
+<p align="center"><img src="https://github.com/RajaRakoto/cntemad/blob/master/logo/official-logo.png" height="327" width="1590" alt="official-logo"></p>
 
 <h2 align="center">Hello world ! 👋</h2>
 
