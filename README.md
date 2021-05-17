@@ -22,7 +22,9 @@
 ℂℕ𝕋𝔼𝕄𝔸𝔻 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕪
 𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏
 
+<p align="center>
 Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui peuvent survenir, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" </b>... C'est un projet dont on ne sait pas quand il sera achevé mais seulement nous, le(s) membre(s), le(s) participant(e.s) qui le font évoluer. Un projet inspiré d'une autre université que j'ai trouvé (par hasard) sur Github. Je tiens à préciser d'emblée que ce projet s'adresse (principalement) à ceux qui font de l'informatique/télécommunications mais n'empêche pas d'autres domaines de nous rejoindre que vous soyez juridique, management, communication ou autre. Je ne vois aucun mal à s'entraider.
+</p>
 
 <br>
 <b> Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfices potentiels que nous pouvons obtenir: </b>
@@ -185,7 +187,9 @@ Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra at
   <img width="250" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/todo_logo.png">
 </p>
 
+<p align="center>
 Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray ity no haintantsika mpikambana (na vaovao na tranainy) ireo `tache (principal) a faire` iraisantsika, natao ity mba ho mora amintsika no mijery ireo `progression` amina objectif iray na maromaro ka hafahan'ny membre rehetra mandray anjara. Mety mbola misy fanatsarana atao eo amin'ny lafiny fandaminana... 😉️ 
+</p>
 
 > Ohatra @fampiasana TODO list:
     Misy exercice/sujet mbola tsy natao dia afaka atao anaty TODO list mba ho hitan'ny rehetra.
@@ -220,9 +224,10 @@ Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour vo
 
 <br>
 
-> Atreto aloha ny fandaminana napetraka dia `branche` iray isaky ny `Niveau`, izany hoe misy `branche 5 no fitambarany (L1-L2-L3-M1-M2)`.
-> Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa rehetra.
-> `[CTRL + F]` raha misy zavatra tadiavinao
+<p align="center">
+Atreto aloha ny fandaminana napetraka dia `branche` iray isaky ny `Niveau`, izany hoe misy `branche 5 no fitambarany (L1-L2-L3-M1-M2)`.
+Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa rehetra. `[CTRL + F]` raha misy zavatra tadiavinao.
+</p>
 
 <b> Arborescence de CNTEMAD repository: </b>
 
@@ -269,7 +274,9 @@ Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour vo
 
 </div>
 
-> `Google drive` ho an'izay mbola tsy mahalala dia `service de stockage en ligne (cloud)` iray natolotry ny orinasa Google. Inona no hifandraisany amin'ity projet ity ? tsara fantantsika fa misy fetrany ny zavatra azontsika tehirizina ato @github, eo @ `500Mo` (raha tsy diso aho) eo no nomena ny `compte free` iray ka noho izany indrindra no antony hampiasana ity "service Google drive ity" (ary antony nahatonga ilay fitsipika hoe tsy azo atao ny mandefa "video"). `Google drive` dia manana "capacite de stockage" hatramin'ny `15Go` isaky ny compte iray.
+<p align="center">
+`Google drive` ho an'izay mbola tsy mahalala dia `service de stockage en ligne (cloud)` iray natolotry ny orinasa Google. Inona no hifandraisany amin'ity projet ity ? tsara fantantsika fa misy fetrany ny zavatra azontsika tehirizina ato @github, eo @ `500Mo` (raha tsy diso aho) eo no nomena ny `compte free` iray ka noho izany indrindra no antony hampiasana ity "service Google drive ity" (ary antony nahatonga ilay fitsipika hoe tsy azo atao ny mandefa "video"). `Google drive` dia manana "capacite de stockage" hatramin'ny `15Go` isaky ny compte iray.
+</p>
 
 <br>
 
@@ -327,7 +334,17 @@ ________________________________________________________________________________
 
 # `Tips & Tricks`
 
+<div align="center">
+
+<p align="center">
+  <img width="210" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/tt_logo.png">
+</p>
+
+</div>
+
+<p align="center">
 Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay `[❓️]` izay eo anilan'ilay theme tianao fantarina.
+</p>
 
 <br>
 
