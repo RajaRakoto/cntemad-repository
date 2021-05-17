@@ -1,0 +1,41 @@
+ ########################################################################################################################
+ ########################################################################################################################
+ ###                                                                                                                  ###  
+ ###  [COMMIT CONVENTION TEMPLATE]                                                                                    ### 
+ ###  |                                                                                                               ### 
+ ###  |=> <type> (<specify>): <topic> | <description>                                                                 ### 
+ ###        |       |            |          |                                                                         ### 
+ ###        |       |            |          |-> detailed explanation of the modification (optional)                   ### 
+ ###        |       |            |                                                                                    ### 
+ ###        |       |            |-> simple explanation of the change                                                 ### 
+ ###        |       |                                                                                                 ### 
+ ###        |       |-> specify a precise part of the modification | this depends on your project (optional)          ### 
+ ###        |                                                                                                         ### 
+ ###        |-> define the type of your commit                                                                        ### 
+ ###                                                                                                                  ### 
+ ###~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~### 
+ ###                                                                                                                  ### 
+ ###  [type]                                                                                                          ### 
+ ###    |                                                                                                             ### 
+ ###    |- add: add an element (file, directory, ...)                                                                 ### 
+ ###    |- del: delete an element (file, directory, ...)                                                              ### 
+ ###    |- feature: add an new function                                                                               ### 
+ ###    |- fix: bug fix                                                                                               ### 
+ ###    |- perf: performance improvement                                                                              ### 
+ ###    |- refactor: change of the code which does not change anything in operation (without changing the logic)      ### 
+ ###    |- docs: commit concerning a documentation                                                                    ### 
+ ###                                                                                                                  ### 
+ ###  [sujet]                                                                                                         ### 
+ ###     |                                                                                                            ### 
+ ###     |- imperative mod                                                                                            ### 
+ ###     |- no capital letter                                                                                         ### 
+ ###     |- no 'to'                                                                                                   ### 
+ ###     |- no '.' (dot)                                                                                              ### 
+ ###                                                                                                                  ### 
+ ###  [description]                                                                                                   ### 
+ ###        |                                                                                                         ### 
+ ###        |- explain the change (not the content)                                                                   ###
+ ###        |- explain the motivation that pushed you to make the modification                                        ### 
+ ###                                                                                                                  ### 
+ ########################################################################################################################
+ ########################################################################################################################

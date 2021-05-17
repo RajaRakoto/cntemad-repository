@@ -344,6 +344,13 @@ ________________________________________________________________________________
         [decompression]:->$ tar xvf exercices-maths.tar.gz
 __________________________________________________________________________________________________________________
 
+💡️ **Ny convention de commit** [[❓️](https://github.com/RajaRakoto/cntemad/blob/master/guide/commit-template)]
+
+<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/commit-logo.png">
+
+    Tsara foana isika rehefa manao "commit" dia manaraka convention mba ho mora amin'ny rehetra ny mamaky azy aveo
+__________________________________________________________________________________________________________________
+
 <i>
 📢️ P/S: Raha misy soso-kevitra na fanatsarana tianao atao dia alefaso mailaka na facebook @ rohy eo ambany
 </i>
