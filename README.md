@@ -167,6 +167,8 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 <div align=center>
 
+Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra ato amin'ny **CNTEMAD repository**. Entina anamorana ny fitadiavana izay `andraikitra` sahanin'ny tsirairay, mba ho mora amintsika rehetra no mijery hoe inona ny `zavatra manavanana` an'i Rakoto na Rabe, na izay informations rehetra mety ilaina. Ity section ity no antony tsy maintsy hamenoana ilay **formulaire d'inscription** rehefa hiditra ho mpikambana isika.
+
 | Pseudo       |Poste          | Filiaire | Niveau | Parcours | Github  | Skill(s)
 |:-------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
 | ♂️ **Raja**   |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` other: `dessin` `illustration`
