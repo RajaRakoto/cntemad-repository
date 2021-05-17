@@ -188,7 +188,7 @@ Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra at
 </p>
 
 <p align="center">
-Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray ity no haintantsika mpikambana (na vaovao na tranainy) ireo <b> "tache (principal) </b> a faire" iraisantsika, natao ity mba ho mora amintsika no mijery ireo <b> " progression " </b> amina objectif iray na maromaro ka hafahan'ny membre rehetra mandray anjara. Mety mbola misy fanatsarana atao eo amin'ny lafiny fandaminana... 😉️ 
+Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray ity no haintantsika mpikambana (na vaovao na tranainy) ireo <b> "tache (principal)" </b> iraisantsika, natao ity mba ho mora amintsika no mijery ireo <b> " progression " </b> amina objectif iray na maromaro ka hafahan'ny membre rehetra mandray anjara. Mety mbola misy fanatsarana atao eo amin'ny lafiny fandaminana... 😉️ 
 </p>
 
 > Ohatra @fampiasana TODO list:
