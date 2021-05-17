@@ -70,9 +70,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 </p>
 <br>
 
-**formulaire d'inscription (modele)**
-
-<br>
+<b>formulaire d'inscription (modele)</b>
 
    📌️| Pseudo : Rakoto
    📌️| Niveau : L1 
