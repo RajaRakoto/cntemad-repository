@@ -80,19 +80,15 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
     others: izay competences/centre d'interet hafa raha misy (Musique, arts, etc...).
 
 
-<b> *** Aza adinoana ny tenin'ny dadatoan'ialahy isany manao hoe *** </b> (ho an'ny DEV)
+<b> *** formulaire d'inscription (modele) *** </b> 
 
-    📜️ KISS: Keep It Simple, Stupid!
-    La simplicité est la sophistication suprême | un code simple est plus lisible et plus facile à maintenir.
+    📌️ Pseudo : Rakoto
+    
+    📌️ Niveau : L1 
 
-    📜️ DRY: Don’t repeat yourself
-    Si la même portion de code se retrouve deux fois ou plus dans un script, on en fait une fonction. Si la même portion de code se retrouve deux fois ou plus dans une classe, on en fait une méthode.
+    📌️ Filiaire : Info 
 
-    📜️ YAGNI: You aren’t gonna need it
-    Rien ne sert de coder une méthode qui n’a pas d’implémentation ou d’utilité immédiate.
-
-    📜️ Don’t be shy, ask!
-    Il n’y a pas de honte à demander de l’aide, surtout avant d’attaquer une nouvelle fonctionnalité.
+    📌️ Parcours : BDGL
 
 |[Guide d'inscription](https://github.com/RajaRakoto/cntemad/blob/master/guide/gif/signup.gif)
 |---|  
