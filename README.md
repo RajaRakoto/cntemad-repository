@@ -391,7 +391,7 @@ ________________________________________________________________________________
 
 💡️ **Ny convention de commit** [[❓️](https://github.com/RajaRakoto/cntemad/blob/master/guide/txt/commit-template)]
 
-<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/commit_logo.png">
+<a href="https://github.com/RajaRakoto/cntemad/blob/master/guide/txt/commit-template"> <img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/commit_logo.png"></a>
 
     Tsara foana isika rehefa manao "commit" dia manaraka convention mba ho mora amin'ny rehetra ny mamaky azy aveo.
     Mety misy "manipulation specifique" nataonao ka tsy hitanao ao amin'ny "commit-template" ilay "type de commit" dia tsara raha manaraka ilay structure
@@ -400,7 +400,7 @@ ________________________________________________________________________________
 
 💡️ **Ny fomba fanaovana compression de donnees** [[❓️](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
 
-<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/archive_logo.png">
+<a href="https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/"> <img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/archive_logo.png"></a>
 
     Ny compression de donnees dia miaro azy amin'ny "programme malveillant" sy manampy @resaka vitesse de "téléversement|telechargement".
 
