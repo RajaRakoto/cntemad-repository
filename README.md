@@ -374,7 +374,7 @@ ________________________________________________________________________________
 
 <div align="center">
 
-Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay [❓️] izay eo anilan'ilay theme tianao fantarina.
+Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika kely izay hita hoe mety ilain'ny rehetra amin'ny fampiasana ny tahiry <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay [💡️] izay eo anilan'ilay theme tianao fantarina.
 
 </div>
 
@@ -382,14 +382,14 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana fikafika k
 
 __________________________________________________________________________________________________________________
 
-💡️ **Aide memoire git** [[❓️](https://github.com/RajaRakoto/cntemad/blob/master/guide/pdf/github-git-cheat-sheet.pdf)]
+**Aide memoire git** [[💡️](https://github.com/RajaRakoto/cntemad/blob/master/guide/pdf/github-git-cheat-sheet.pdf)]
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/git_logo.png">
 
     Ato daholo ny commande de base ny GIT en Cli, raha mbola tsy sur ianao dia testeo en local aloha ilay commande tianao atao ...
 __________________________________________________________________________________________________________________
 
-💡️ **Ny convention de commit** [[❓️](https://github.com/RajaRakoto/cntemad/blob/master/guide/txt/commit-template)]
+**Ny convention de commit** [[💡️](https://github.com/RajaRakoto/cntemad/blob/master/guide/txt/commit-template)]
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/commit_logo.png">
 
@@ -398,7 +398,7 @@ ________________________________________________________________________________
     <type> (<specify>): <topic> | <description> dia efa mety. Izany hoe foroninao ilay <type> ...
 __________________________________________________________________________________________________________________
 
-💡️ **Ny fomba fanaovana compression de donnees** [[❓️](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
+**Ny fomba fanaovana compression de donnees** [[💡️](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/archive_logo.png">
 
