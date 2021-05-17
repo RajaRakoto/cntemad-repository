@@ -167,7 +167,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 <br>
 
-<div align=center>
+<div align="center">
 
 Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra ato amin'ny **CNTEMAD repository**. Entina anamorana ny fitadiavana izay `andraikitra` sahanin'ny tsirairay, mba ho mora amintsika rehetra no mijery hoe inona ny `zavatra manavanana` an'i Rakoto na Rabe, na izay informations rehetra mety ilaina. Ity section ity no antony tsy maintsy hamenoana ilay **formulaire d'inscription** rehefa hiditra ho mpikambana isika.
 
@@ -187,7 +187,7 @@ Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra at
   <img width="250" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/todo_logo.png">
 </p>
 
-<p align="center>
+<p align="center">
 Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray ity no haintantsika mpikambana (na vaovao na tranainy) ireo `tache (principal) a faire` iraisantsika, natao ity mba ho mora amintsika no mijery ireo `progression` amina objectif iray na maromaro ka hafahan'ny membre rehetra mandray anjara. Mety mbola misy fanatsarana atao eo amin'ny lafiny fandaminana... 😉️ 
 </p>
 
