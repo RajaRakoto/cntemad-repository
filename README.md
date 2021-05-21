@@ -167,6 +167,8 @@ Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ..
 
 > [[Miara-mamindra | Projet iray mifantoka koakoa amin'ny fampiasana GIT](https://github.com/RajaRakoto/miara-mamindra)]
 
+Ireto manaraka ireto indray natokana ho an'ireo efa mahazo ny concept ny Git ...
+
 > [[Zavatra atao voalohany rehefa vita ny compte - git config](https://github.com/RajaRakoto/cntemad/blob/master/guide/gif/git-config_example.gif)]
 
 > [[Haka ny tahiry ao @branche master - git clone](https://github.com/RajaRakoto/cntemad/blob/master/guide/gif/git-clone_example.gif)]
