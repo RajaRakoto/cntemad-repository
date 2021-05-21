@@ -449,6 +449,39 @@ ________________________________________________________________________________
 
 <br><br>
 
+# `Toolkit`
+
+<div align="center">
+
+<p align="center">
+  <img width="240" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/toolkit_logo.png">
+</p>
+
+</div>
+
+<div align="center">
+
+Ireo outil (maivamaivana) mety hiasa amintsika ...
+
+</div>
+
+<br>
+
+__________________________________________________________________________________________________________________
+
+**HTML5 toolkit** | size: **180Ko** | added by ♂️ **Raja**                                         
+
+<img align="right" width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/toolkit/html-toolkit/src/logo.png">
+
+|[download ⬇](https://github.com/RajaRakoto/cntemad/tree/master/toolkit/html-toolkit)|[demo](https://github.com/RajaRakoto/cntemad/blob/master/toolkit/html-toolkit/src/demo.gif)|
+|---|---|
+
+    Outil kely fianarana HTML5 ho an'ireo hiditra @developpement web.
+__________________________________________________________________________________________________________________
+
+
+<br><br>
+
 # `Tips & Tricks`
 
 <div align="center">
