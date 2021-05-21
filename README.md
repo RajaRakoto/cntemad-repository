@@ -461,7 +461,7 @@ ________________________________________________________________________________
 
 <div align="center">
 
-Ireo outil (maivamaivana) mety hiasa amintsika ...
+Ireo **outil** (maivamaivana) mety hiasa amintsika ...
 
 </div>
 
@@ -471,9 +471,9 @@ ________________________________________________________________________________
 
 **HTML5 toolkit** | size: **180Ko** | added by ♂️ **Raja**                                         
 
-<img align="right" width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/toolkit/html-toolkit/src/logo.png">
+<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/toolkit/html-toolkit/src/logo.png">
 
-|[download ⬇](https://github.com/RajaRakoto/cntemad/tree/master/toolkit/html-toolkit)|[demo](https://github.com/RajaRakoto/cntemad/blob/master/toolkit/html-toolkit/src/demo.gif)|
+|[download ⬇](https://github.com/RajaRakoto/cntemad/tree/master/toolkit/html-toolkit)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/toolkit/html-toolkit/src/demo.gif)|
 |---|---|
 
     Outil kely fianarana HTML5 ho an'ireo hiditra @developpement web.
