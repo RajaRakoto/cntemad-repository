@@ -461,7 +461,7 @@ ________________________________________________________________________________
 
 <div align="center">
 
-Ireo outil (maivamaivana) mety hiasa amintsika ...
+Ireo **outil** (maivamaivana) mety hiasa amintsika ...
 
 </div>
 
