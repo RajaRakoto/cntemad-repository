@@ -161,6 +161,8 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ...
 
+> [[Tutoriel complet pour debutant - video 1h15 version Malagasy](https://fb.watch/5DM7FKnt_q/)]
+
 > [[Fa inona tokoa ilay GIT ? inona no ilana azy ? dia inona indray izany ilay Github ?](https://kinsta.com/fr/base-de-connaissances/base-de-connaissances-github/)]
 
 > [[Miara-mamindra | Projet iray mifantoka koakoa amin'ny fampiasana GIT](https://github.com/RajaRakoto/miara-mamindra)]
@@ -540,7 +542,7 @@ ________________________________________________________________________________
 
 <p align="center">
 <a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="50" width="50" /></a> 
-<a href="https://www.facebook.com/raja.rakotonirina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="50" width="50" /></a>
+<a href="https://web.facebook.com/cntemad.agent" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="50" width="50" /></a>
 </p>
 
 <br>
