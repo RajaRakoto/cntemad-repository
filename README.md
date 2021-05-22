@@ -445,8 +445,8 @@ ________________________________________________________________________________
 
 <img align="right" width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/W3Schools_logo.png">
 
-|[download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing)
-|---|
+|[download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/guide/demo/w3school_demo.gif)|
+|---|---|
 
     Site web fianarana ireo tehno web isankarazany (frontend | backend), ao koa ny mahakasika ny serveur, misy quiz par thème ihany koa. Nalaina tamin'ny HTTrack website copier (mandeha hors ligne), izany hoe tsy mila connexion rehefa avy nalainareo ao @Google drive.
 __________________________________________________________________________________________________________________
@@ -477,7 +477,7 @@ ________________________________________________________________________________
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/toolkit/html-toolkit/src/logo.png">
 
-|[download ⬇](https://github.com/RajaRakoto/cntemad/tree/L1I/compressed/html-toolkit)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/L1I/guide/demo/html-toolkit_demo.gif)|
+|[download ⬇](https://github.com/RajaRakoto/cntemad/tree/master/compressed/html-toolkit)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/guide/demo/html-toolkit_demo.gif)|
 |---|---|
 
     Outil kely fianarana HTML5 ho an'ireo hiditra @developpement web.
