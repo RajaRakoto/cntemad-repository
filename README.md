@@ -205,14 +205,14 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra ato amin'ny **CNTEMAD repository**. Entina anamorana ny fitadiavana izay `andraikitra` sahanin'ny tsirairay, mba ho mora amintsika rehetra no mijery hoe inona ny `zavatra manavanana` an'i Rakoto na Rabe, na izay informations rehetra mety ilaina. Ity section ity no antony tsy maintsy hamenoana ilay **formulaire d'inscription** rehefa hiditra ho mpikambana isika.
 
-| Pseudo           |Poste          | Filiaire | Niveau | Parcours | Github  | Skill(s)
-|:-----------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
-| ♂️ **Stany**      |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
-| ♂️ **a2d**        |       -       |  Info    |L1      |   BDGL   |[Annael007](https://github.com/Annael007)         |stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio`
-| ♀️ **Fahendrena** |       -       |  Info    |L2      |    -     |[Fahendrena](https://github/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
-| ♀️ **Naingo**     |       -       |  Info    |L2      |   RS     |[Fanaingo](https://github/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C`
-| ♂️ **Raja**       |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` other: `dessin` `illustration`
-| **-**            |       -       |    -     |   -    |    -     |    -     |    -     |   
+| Pseudo            |Poste          | Filiaire | Niveau | Parcours | Github  | Skill(s)
+|:------------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
+| ♂️ **Stany**       |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
+| ♂️ **a2d**         |       -       |  Info    |L1      |   BDGL   |[Annael007](https://github.com/Annael007)         |stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio`
+| ♀️  **Fahendrena** |       -       |  Info    |L2      |    -     |[Fahendrena](https://github/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
+| ♀️ **Naingo**      |       -       |  Info    |L2      |   RS     |[Fanaingo](https://github/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C`
+| ♂️ **Raja**        |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` other: `dessin` `illustration`
+| **-**             |       -       |    -     |   -    |    -     |    -     |    -     |   
 
 </div>
 
