@@ -272,12 +272,20 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
 
 <b> Arborescence de CNTEMAD repository: </b>
 
-    [master]  
+  
+    [master] 
     |
+    ├── compressed📂️
+    │   └── html-toolkit📂️
+    │       └── html-toolkit.tar.gz
     ├── guide📂️
+    │   ├── demo📂️
+    │   │   ├── html-toolkit_demo.gif
+    │   │   └── w3school_demo.gif
     │   ├── gif📂️
     │   │   ├── git-clone_example.gif
-    │   │   └── git-config_example.gif
+    │   │   ├── git-config_example.gif
+    │   │   └── signup.gif
     │   ├── markdown📂️
     │   │   └── ungit-install.md
     │   ├── pdf📂️
@@ -371,10 +379,145 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
     │   ├── rules_logo.png
     │   ├── team_logo.png
     │   ├── todo_logo.png
+    │   ├── toolkit_logo.png
     │   ├── tt_logo.png
     │   └── W3Schools_logo.png
     ├── README.md
-    └── TODO.md
+    ├── tmp📂️
+    │   └── tree.log
+    ├── TODO.md
+    └── toolkit📂️
+        └── html-toolkit📂️
+            ├── index.html
+            └── src📂️
+                ├── code📂️
+                │   ├── abrreviations_and_acronyms.html
+                │   ├── alignement_of_text.html
+                │   ├── aligning_images.html
+                │   ├── all_font_styles.html
+                │   ├── base_struct.html
+                │   ├── border_aroung_form-data.html
+                │   ├── cell_padding.html
+                │   ├── check_boxes.html
+                │   ├── create_a_button.html
+                │   ├── create_hyperlinks.html
+                │   ├── create_password_fields.html
+                │   ├── create_text_fields.html
+                │   ├── definition_list.html
+                │   ├── division.html
+                │   ├── drop_down_list.html
+                │   ├── font_color_of_text.html
+                │   ├── font_of_text.html
+                │   ├── font_size_of_text.html
+                │   ├── formulaire.html
+                │   ├── image_as_link.html
+                │   ├── images.html
+                │   ├── insert_comment.html
+                │   ├── insert_contact_info.html
+                │   ├── insert_horizontal_lines.html
+                │   ├── line_break_tag.html
+                │   ├── links.html
+                │   ├── link_to_mail_message.html
+                │   ├── mark_deleted_and_inserted_text.html
+                │   ├── nested_list1.html
+                │   ├── nested_list2.html
+                │   ├── open_link_in_new_window.html
+                │   ├── ordered_list.html
+                │   ├── ordered_list_types.html
+                │   ├── paragraphs1.html
+                │   ├── paragraphs2.html
+                │   ├── paragraphs3.html
+                │   ├── paragraphs4.html
+                │   ├── paragraphs5.html
+                │   ├── paragraphs6.html
+                │   ├── poem_problem.html
+                │   ├── preformatted_text.html
+                │   ├── programming_tags.html
+                │   ├── radio_buttons.html
+                │   ├── section.html
+                │   ├── simple_document.html
+                │   ├── simple_table.html
+                │   ├── style_background_color.html
+                │   ├── style_element.html
+                │   ├── tableau.html
+                │   ├── table_cells_spans.html
+                │   ├── table_headers.html
+                │   ├── table_with_caption.html
+                │   ├── table_without_border.html
+                │   ├── tags_inside_table.html
+                │   ├── text_area.html
+                │   ├── text_directions.html
+                │   ├── text_formatting.html
+                │   ├── title.html
+                │   ├── unordered_list.html
+                │   ├── unordered_list_types.html
+                │   └── ununderlined_link.html
+                ├── logo.png
+                └── result📂️
+                    ├── abrreviations_and_acronyms.html
+                    ├── alignement_of_text.html
+                    ├── aligning_images.html
+                    ├── all_font_styles.html
+                    ├── base_struct.html
+                    ├── border_aroung_form-data.html
+                    ├── cell_padding.html
+                    ├── check_boxes.html
+                    ├── create_a_button.html
+                    ├── create_hyperlinks.html
+                    ├── create_password_fields.html
+                    ├── create_text_fields.html
+                    ├── definition_list.html
+                    ├── division.html
+                    ├── drop_down_list.html
+                    ├── font_color_of_text.html
+                    ├── font_of_text.html
+                    ├── font_size_of_text.html
+                    ├── formulaire.html
+                    ├── image_as_link.html
+                    ├── images.html
+                    ├── insert_comment.html
+                    ├── insert_contact_info.html
+                    ├── insert_horizontal_lines.html
+                    ├── line_break_tag.html
+                    ├── links.html
+                    ├── link_to_mail_message.html
+                    ├── mark_deleted_and_inserted_text.html
+                    ├── nested_list1.html
+                    ├── nested_list2.html
+                    ├── open_link_in_new_window.html
+                    ├── ordered_list.html
+                    ├── ordered_list_types.html
+                    ├── paragraphs1.html
+                    ├── paragraphs2.html
+                    ├── paragraphs3.html
+                    ├── paragraphs4.html
+                    ├── paragraphs5.html
+                    ├── paragraphs6.html
+                    ├── poem_problem.html
+                    ├── preformatted_text.html
+                    ├── programming_tags.html
+                    ├── radio_buttons.html
+                    ├── section.html
+                    ├── simple_document.html
+                    ├── simple_table.html
+                    ├── style_background_color.html
+                    ├── style_element.html
+                    ├── tableau.html
+                    ├── table_cells_spans.html
+                    ├── table_headers.html
+                    ├── table_with_caption.html
+                    ├── table_without_border.html
+                    ├── tags_inside_table.html
+                    ├── text_area.html
+                    ├── text_directions.html
+                    ├── text_formatting.html
+                    ├── title.html
+                    ├── unordered_list.html
+                    ├── unordered_list_types.html
+                    └── ununderlined_link.html
+
+    28 directories, 212 files
+
     
 
 <br><br>
