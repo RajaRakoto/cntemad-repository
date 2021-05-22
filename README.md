@@ -158,15 +158,13 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 </div>
 
-Toro-lalana vitsivitsy ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ...
+Toro-lalana ho an'ireo vaovao eto amin'ny `Github` sy ny tontolony ...
 
 > [[Tutoriel complet pour debutant - video 1h15 version Malagasy](https://fb.watch/5DM7FKnt_q/)]
 
-> [[Fa inona tokoa ilay GIT ? inona no ilana azy ? dia inona indray izany ilay Github ?](https://kinsta.com/fr/base-de-connaissances/base-de-connaissances-github/)]
+Ireto manaraka ireto indray natokana ho an'ireo efa mahazo ny concept ny Git ...
 
 > [[Miara-mamindra | Projet iray mifantoka koakoa amin'ny fampiasana GIT](https://github.com/RajaRakoto/miara-mamindra)]
-
-Ireto manaraka ireto indray natokana ho an'ireo efa mahazo ny concept ny Git ...
 
 > [[Zavatra atao voalohany rehefa vita ny compte - git config](https://github.com/RajaRakoto/cntemad/blob/master/guide/gif/git-config_example.gif)]
 
