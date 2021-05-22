@@ -477,7 +477,7 @@ ________________________________________________________________________________
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/toolkit/html-toolkit/src/logo.png">
 
-|[download ⬇](https://github.com/RajaRakoto/cntemad/tree/master/toolkit/html-toolkit)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/toolkit/html-toolkit/src/demo.gif)|
+|[download ⬇](https://github.com/RajaRakoto/cntemad/tree/master/compressed/html-toolkit/)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/guide/demo/html-toolkit_demo.gif)|
 |---|---|
 
     Outil kely fianarana HTML5 ho an'ireo hiditra @developpement web.
