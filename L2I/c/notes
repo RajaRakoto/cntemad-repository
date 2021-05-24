@@ -1,0 +1,60 @@
+#VALEUR ALEATOIRE
+{
+int ranOm = 1 + rand()%10 //valeur aleatoire de 1 a 10	
+}
+
+#PRINTF et SCANF
+{
+%s pour une chaine de caractere
+%c pour un caractere
+}
+
+#FORMAT
+{
+int (decimal) = %d
+float (point decimal) = %f (mais pas %fd)
+}
+
+#QUALIFICATION
+{
+////var global ou local
+static
+register
+
+////tjrs var global
+extern
+}
+
+#TABLEAU
+{
+////declaration
+int tab_i[10]; //tableau de 10 entiers
+char tab_c[10]; //tableau de 10 caracteres
+static char tc[] = ""; //tableau de caractere statique, taille aleatoire
+static int ti[] = ""; //tableau d'entier statique, taille aleatoire
+}
+
+#POINTEUR
+{
+////var simple
+int i;
+int ti[10];
+char tc[10];
+float f;
+
+////var pointeur
+char *ptc 
+int *pti;
+
+////operation sur char
+char *ptc = tab; //initialisation avec le premier element du tableau (exemple 1)
+char ptc = &tab[0]; //initialisation avec le premier element du tableau (exemple 2)
+
+////affectation sur int
+pti = 0;
+
+////convertion (casts)
+pt = (char*) &i; //convertion d'un int vers char
+pti = (int*) tc //convertion d'un tableau char en int
+ptc = (char*) ti //convertion d'un tableau int en char
+}
