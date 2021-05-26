@@ -13,8 +13,8 @@
   <img width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/index_anim_logo.gif">
 </p>
 
-|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[TODO](#todo-list)|[Firafitra](#firafitry-ny-fitehirizana)|[Drive](#tahiry-google-drive)|[Toolkit](#toolkit)|[Tips&Tricks](#tips--tricks)|
-|---|---|---|---|---|---|---|---|---|
+|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[TODO](#todo-list)|[Firafitra](#firafitry-ny-fitehirizana)|[Drive](#tahiry-google-drive)|[OC](#oc)|[Toolkit](#toolkit)|[Tips&Tricks](#tips--tricks)|
+|---|---|---|---|---|---|---|---|---|---|
 </div>
 <br>
 
@@ -140,6 +140,18 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
     📜️ Don’t be shy, ask!
     Il n’y a pas de honte à demander de l’aide, surtout avant d’attaquer une nouvelle fonctionnalité.
+
+    📜️ Erik Buck: "write less code" ou "Écrire moins de code" pour rendre une source plus simple et plus facile à maintenir. 
+
+    📜️ Obie Fernandez: toujours prendre le temps de réfléchir quand on a une erreur avant de rajouter du code supplémentaire. 
+
+    📜️ Danny Kalev: il faut lire des livres, lire des magazines, apprendre encore et toujours de nouvelles techniques. Il conclut avec cette phrase : "read much more than you write" ou "Lisez plus que vous ne codez". 
+
+    📜️ Eric Lippert: pour devenir meilleur, participer sur des forums ou des groupes de discussions en aidant ceux qui ont des questions, si vous avez la réponse, dites là, si vous ne l'avez pas, rechercher sa réponse sur Internet. 
+
+    📜️ Mark Summerfield: rendre le code plus facile à comprendre et donc à maintenir. Le deuxième : écrire des tests unitaires pour son code avant de l'intégrer au projet. 
+
+    📜️ Bill Wagner: d'abord rendre son code fonctionnel avant de vouloir l'améliorer ! Ça peut paraitre stupide mais il faut toujours garder cela en tête !
 
 <br><br>
 
