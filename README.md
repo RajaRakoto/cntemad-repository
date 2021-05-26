@@ -626,7 +626,7 @@ ________________________________________________________________________________
 
 **HTML5 & CSS3** | size: **43.7Mo** | added by ♂️ **Raja**                                         
 
-<img align="center" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/OC/html5|css3/oc_html5_css3.png">
+<img align="center" width="1076" height="185" src="https://github.com/RajaRakoto/cntemad/blob/master/OC/html5|css3/oc_html5_css3.png">
 
 |[download ⬇]("https://github.com/RajaRakoto/cntemad/blob/master/OC/html5|css3/html5|css3.tar.gz")|[demo 💻️]("https://github.com/RajaRakoto/cntemad/blob/master/OC/html5|css3/demo.gif")|
 |---|---|
