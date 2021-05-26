@@ -276,7 +276,7 @@ Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour vo
 
 <div align="center">
 
-Atreto aloha ny fandaminana napetraka dia `branche` iray isaky ny `Niveau`, izany hoe misy `branche 5 no fitambarany (L1-L2-L3-M1-M2)`.
+Atreto aloha ny fandaminana napetraka dia `branche` iray isaky ny `Filiaire`, izany hoe raha misy filiaire hafa miditra dia amoronana branche vaovao, ny `niveau (L1-L2-L3-M1-M2)` dia akambana ao @branche mifanaraka @filiaire tsirairay avy.
 Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa rehetra. `[CTRL + F]` raha misy zavatra tadiavinao.
 
 </div>
