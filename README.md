@@ -284,7 +284,7 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
 
   
     [master] 
-    |
+    .
     ├── compressed📂️
     │   └── html-toolkit📂️
     │       └── html-toolkit.tar.gz
@@ -374,6 +374,90 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
     │       ├── img1.jpg
     │       ├── img2.jpg
     │       └── table_proba.pdf
+    ├── L2I📂️
+    │   ├── c📂️
+    │   │   ├── alpha.c
+    │   │   ├── data_struct📂️
+    │   │   │   ├── file.c
+    │   │   │   ├── list.c
+    │   │   │   └── pile.c
+    │   │   ├── eq2ndD.c
+    │   │   ├── exo📂️
+    │   │   │   ├── exo10_operateur_logique.c
+    │   │   │   ├── exo11_resultat_intermediaire_int.c
+    │   │   │   ├── exo11_resultat_normal.PNG
+    │   │   │   ├── exo12_operateur_ternaire_boole_ET logique.c
+    │   │   │   ├── exo13_multi_incrementation_affectation_decalage(res.intermediaire).c
+    │   │   │   ├── exo14_plus_grande_valeur_absolue_2int.c
+    │   │   │   ├── exo15_saisie_tab_int_FOR_WHILE.c
+    │   │   │   ├── exo1_variable_global_local.c
+    │   │   │   ├── exo2_pointeur1&tableau1.c
+    │   │   │   ├── exo3_conversion_implicite_cast.c
+    │   │   │   ├── exo4_declaration_init_var_hex_octal_long.c
+    │   │   │   ├── exo5_formant_printf_hex_oct_unsigned.c
+    │   │   │   ├── exo6_retour_chariot.c
+    │   │   │   ├── exo7_saisie_multiple.c
+    │   │   │   ├── exo8_pointeur_objet pointé_tableau_increment_negation.c
+    │   │   │   ├── exo9_algo_modulo_hex.c
+    │   │   │   ├── #Incrementation_verification.c
+    │   │   │   ├── #operateur_ternaire_exemple 2.c
+    │   │   │   └── #operateur_ternaire_exemple.c
+    │   │   ├── fact.c
+    │   │   ├── init_var.c
+    │   │   ├── notes
+    │   │   ├── nPremier.c
+    │   │   ├── occ.c
+    │   │   ├── pi_bmi.c
+    │   │   ├── pointeur.c
+    │   │   ├── read.c
+    │   │   ├── reverse.c
+    │   │   ├── tri.c
+    │   │   └── vc_number.c
+    │   ├── probastat📂️
+    │   │   └── TABLE DE PROBABILITE - CNTEMAD.pdf
+    │   ├── reseau📂️
+    │   │   ├── lesson📂️
+    │   │   │   ├── ETUDE DE CAS.pdf
+    │   │   │   ├── exo_synthese(reseaux_locaux).pdf
+    │   │   │   ├── Théorie des réseaux (materiel).pdf
+    │   │   │   ├── Théorie des réseaux (modeleOSI).pdf
+    │   │   │   ├── Théorie des réseaux (resume).pdf
+    │   │   │   └── Théorie des réseaux (TCP|IP).pdf
+    │   │   ├── reseau_2018 (2).pdf
+    │   │   ├── reseau_2018.pdf
+    │   │   ├── reseau_2019 (2).pdf
+    │   │   ├── reseau_2019.pdf
+    │   │   ├── reseauLocaux_2017.pdf
+    │   │   ├── reseauLocaux_2018.pdf
+    │   │   └── reseauLocaux_2019.pdf
+    │   ├── se📂️
+    │   │   ├── crontab.txt
+    │   │   ├── SE_2017.txt
+    │   │   ├── se_2018 (2).pdf
+    │   │   ├── se_2018.pdf
+    │   │   ├── se_2019 (2).pdf
+    │   │   ├── se_2019.pdf
+    │   │   └── suid-sgid-stiky bit.txt
+    │   └── techweb📂️
+    │       ├── hello-L2.html
+    │       ├── hello-L2.js
+    │       ├── html-resume.xlsx
+    │       ├── letter-number.html
+    │       ├── letter-number.js
+    │       ├── maj-min.html
+    │       ├── maj-min.js
+    │       ├── moyenne_rang.html
+    │       ├── moyenne_rang.js
+    │       ├── pair-impair.html
+    │       ├── pair-impair.js
+    │       ├── password.html
+    │       ├── password.js
+    │       ├── popup.html
+    │       ├── popup.js
+    │       ├── uppercase.html
+    │       ├── uppercase.js
+    │       ├── vc.html
+    │       └── vc.js
     ├── logo📂️
     │   ├── archive_logo.png
     │   ├── branch_logo.png
@@ -383,6 +467,7 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
     │   ├── gourou_logo.png
     │   ├── help_logo.png
     │   ├── index_anim_logo.gif
+    │   ├── oc_logo.png
     │   ├── official-logo.png
     │   ├── quote_down_logo.png
     │   ├── quote_up_logo.png
@@ -392,9 +477,13 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
     │   ├── toolkit_logo.png
     │   ├── tt_logo.png
     │   └── W3Schools_logo.png
+    ├── OC📂️
+    │   └── html5|css3📂️
+    │       ├── demo.gif
+    │       ├── html5|css3.tar.gz
+    │       ├── msg.txt
+    │       └── oc_html5_css3.png
     ├── README.md
-    ├── tmp📂️
-    │   └── tree.log
     ├── TODO.md
     └── toolkit📂️
         └── html-toolkit📂️
@@ -526,7 +615,8 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
                     ├── unordered_list_types.html
                     └── ununderlined_link.html
 
-    28 directories, 212 files
+39 directories, 292 files
+
 
     
 
