@@ -220,8 +220,9 @@ Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra at
 | ♂️ **a2d**         |       -       |  Info    |L1      |   BDGL   |[Annael007](https://github.com/Annael007)         |stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio`
 | ♀️  **Fahendrena** |       -       |  Info    |L2      |    -     |[Fahendrena](https://github.com/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
 | ♂️  **Wenceslas-Angelo** |       -       |  Info    |L1      |    BDGL     |[Angelo](https://github.com/Wenceslas-Angelo)           |stack: `HTML` `CSS` `Javascript` `Python`
+| ♂️ **ChristianoDc7**        |-  |  Info    |L2      |   RS   |[ChristianoDc7](https://github.com/­ChristianoDc7)|stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C`
 | ♀️ **Naingo**      |       -       |  Info    |L2      |   RS     |[Fanaingo](https://github.com/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C`
-| ♂️ **Raja**        |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` other: `dessin` `illustration`
+| ♂️ **Raja**        |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack:`HTML` `CSS` `MarkDown` `Python` `Javascript` `Shell` other: `dessin` `illustration`
 | **-**             |       -       |    -     |   -    |    -     |    -     |    -     |   
 
 </div>
@@ -275,7 +276,7 @@ Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour vo
 
 <div align="center">
 
-Atreto aloha ny fandaminana napetraka dia `branche` iray isaky ny `Niveau`, izany hoe misy `branche 5 no fitambarany (L1-L2-L3-M1-M2)`.
+Atreto aloha ny fandaminana napetraka dia `branche` iray isaky ny `Filiaire`, izany hoe raha misy filiaire hafa miditra dia amoronana branche vaovao, ny `niveau (L1-L2-L3-M1-M2)` dia akambana ao @branche mifanaraka @filiaire tsirairay avy.
 Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa rehetra. `[CTRL + F]` raha misy zavatra tadiavinao.
 
 </div>
@@ -730,7 +731,7 @@ ________________________________________________________________________________
 
 <img align="center" width="1076" height="170" src="https://github.com/RajaRakoto/cntemad/blob/master/OC/html5|css3/oc_html5_css3.png">
 
-|[download ⬇](https://github.com/RajaRakoto/cntemad/blob/master/OC/html5%7Ccss3/msg.txt)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/OC/html5%7Ccss3/demo.gif)|
+|[download ⬇](https://github.com/RajaRakoto/cntemad/blob/master/OC/html5%7Ccss3/html5%css3.tar.gz)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/OC/html5%7Ccss3/demo.gif)|
 |---|---|
 __________________________________________________________________________________________________________________
 
