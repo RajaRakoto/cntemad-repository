@@ -673,7 +673,16 @@ ________________________________________________________________________________
 |[download ⬇](https://github.com/RajaRakoto/cntemad/raw/master/compressed/html-toolkit/html-toolkit.tar.gz)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/guide/demo/html-toolkit_demo.gif)|
 |---|---|
 
-    Outil kely fianarana HTML5 ho an'ireo hiditra @developpement web.
+    Outil kely fianarana HTML5 ho an'ireo hiditra @developpement web 🕸️.
+__________________________________________________________________________________________________________________
+**PY-TOOLKIT** | added by ♂️ **Raja**                                         
+
+<img align="right" width="100" src="https://github.com/RajaRakoto/py-toolkit/raw/master/py-toolkit-logo.png">
+
+|[Github 🔗️](https://github.com/RajaRakoto/py-toolkit)|
+|---|
+
+    Scripting toolkits collection for Python lovers 🐍️🛠️.
 __________________________________________________________________________________________________________________
 
 
