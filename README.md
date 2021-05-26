@@ -600,7 +600,7 @@ ________________________________________________________________________________
 <div align="center">
 
 <p align="center">
-  <img width="240" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/oc_logo.png">
+  <img width="210" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/oc_logo.png">
 </p>
 
 </div>
@@ -628,7 +628,7 @@ ________________________________________________________________________________
 
 <img align="center" width="1076" height="170" src="https://github.com/RajaRakoto/cntemad/blob/master/OC/html5|css3/oc_html5_css3.png">
 
-|[download ⬇](https://github.com/RajaRakoto/cntemad/raw/master/compressed/html-toolkit/html-toolkit.tar.gz)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/guide/demo/html-toolkit_demo.gif)|
+|[download ⬇](https://github.com/RajaRakoto/cntemad/blob/master/OC/html5%7Ccss3/msg.txt)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/OC/html5%7Ccss3/demo.gif)|
 |---|---|
 __________________________________________________________________________________________________________________
 
