@@ -206,8 +206,9 @@ Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra at
 |:------------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
 | ♂️ **Stany**       |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
 | ♂️ **a2d**         |       -       |  Info    |L1      |   BDGL   |[Annael007](https://github.com/Annael007)         |stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio`
-| ♀️  **Fahendrena** |       -       |  Info    |L2      |    -     |[Fahendrena](https://github/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
-| ♀️ **Naingo**      |       -       |  Info    |L2      |   RS     |[Fanaingo](https://github/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C`
+| ♀️  **Fahendrena** |       -       |  Info    |L2      |    -     |[Fahendrena](https://github.com/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
+| ♂️  **Wenceslas-Angelo** |       -       |  Info    |L1      |    BDGL     |[Angelo](https://github.com/Wenceslas-Angelo)           |stack: `HTML` `CSS` `Javascript` `Python`
+| ♀️ **Naingo**      |       -       |  Info    |L2      |   RS     |[Fanaingo](https://github.com/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C`
 | ♂️ **Raja**        |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` other: `dessin` `illustration`
 | **-**             |       -       |    -     |   -    |    -     |    -     |    -     |   
 
@@ -590,6 +591,45 @@ ________________________________________________________________________________
 |---|---|
 
     Site web fianarana ireo tehno web isankarazany (frontend | backend), ao koa ny mahakasika ny serveur, misy quiz par thème ihany koa. Nalaina tamin'ny HTTrack website copier (mandeha hors ligne), izany hoe tsy mila connexion rehefa avy nalainareo ao @Google drive.
+__________________________________________________________________________________________________________________
+
+<br><br>
+
+# `OC`
+
+<div align="center">
+
+<p align="center">
+  <img width="240" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/oc_logo.png">
+</p>
+
+</div>
+
+<div align="center">
+
+"OpenClassrooms" dia `site web (educatif)` iray izay manolotra ny mpikambana ao aminy karazana fanofanana sy fampianarana maro isankarazany izay hazahoana `diplome` na `certificat`. Ny `contenu` rehetra ao dia novokarina avy amin'ny **sekoly**, **oniversite**, mpiara-miasa toa an'i **Microsoft** na **IBM**, na **mpilatsaka an-tsitrapo** (bénévoles).
+
+**NOTE:** Maro ireo `Cours en libre acces` ao @OC fa saingy ny fahazoana ny certificat @farany kosa no andoavam-bola. Tahaka izany koa ny `Formations diplômantes`...
+
+|[Visiter OpenClassrooms](https://openclassrooms.com/fr/)|
+|---|
+
+</div>
+
+**Cours OFFLINE d'OpenClassrooms:**
+Hitanao ato ireo `Cours en libre acces` ny OC izay afaka alainao (telecharger) ary tsy mila connexion internet (OFFLINE).
+
+
+<br>
+
+__________________________________________________________________________________________________________________
+
+**HTML5 & CSS3** | size: **43.7Mo** | added by ♂️ **Raja**                                         
+
+<img align="center" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/OC/html5|css3/oc_html5_css3.png">
+
+|[download ⬇]("https://github.com/RajaRakoto/cntemad/blob/master/OC/html5|css3/html5|css3.tar.gz")|[demo 💻️]("https://github.com/RajaRakoto/cntemad/blob/master/OC/html5|css3/demo.gif")|
+|---|---|
 __________________________________________________________________________________________________________________
 
 <br><br>
