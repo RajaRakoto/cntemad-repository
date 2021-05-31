@@ -217,6 +217,7 @@ Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra at
 | Pseudo            |Poste          | Filiaire | Niveau | Parcours | Github  | Skill(s)
 |:------------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
 | ♂️ **Stany**       |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
+| ♂️ **Xoder**       |       -       |  Info    |L1      |   BDGL   |[Mr xoder](https://github.com/­mrxoder)  |stack: `HTML` `CSS` `Javascipt` `PHP` `Python`
 | ♂️ **a2d**         |       -       |  Info    |L1      |   BDGL   |[Annael007](https://github.com/Annael007)         |stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio`
 | ♀️  **Fahendrena** |       -       |  Info    |L2      |    -     |[Fahendrena](https://github.com/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
 | ♂️  **Wenceslas-Angelo** |       -       |  Info    |L1      |    BDGL     |[Angelo](https://github.com/Wenceslas-Angelo)           |stack: `HTML` `CSS` `Javascript` `Python`
