@@ -1,4 +1,4 @@
-public class sujet2019 {
+public class Sujet2018 {
 
   private static void exo1(){
 
@@ -32,7 +32,7 @@ public class sujet2019 {
 
     for (int j=0; j<6; j++){
       for (int e=j; e<5; e++){ //parcours e = parcous complet de j - 1
-        System.out.print("-"); //diff sujet2018
+        System.out.print(" "); //diff sujet2019
       }
       for (int i=6-j ; i<7; i++){
         System.out.print(i);
@@ -41,8 +41,11 @@ public class sujet2019 {
     }
   }
   
-
   private static void exo3(){
+    
+  }
+
+  private static void exo4(){
 
     System.out.println("############");
     System.out.println("####EXO3####");
@@ -87,17 +90,20 @@ public class sujet2019 {
       exo2();
       /*
       OUTPUT {
-        -----6
-        ----56
-        ---456
-        --3456
-        -23456
+             6
+            56
+           456
+          3456
+         23456
         123456
       }
       */
       
       System.out.println();
       exo3();
+
+      System.out.println();
+      exo4();
       
       System.out.println();
     }
