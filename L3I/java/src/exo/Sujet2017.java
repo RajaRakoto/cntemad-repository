@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sujet2017 {
+public class Sujet2017 {
 
   public static void exo1(){
     System.out.println("############");
