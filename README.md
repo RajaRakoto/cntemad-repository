@@ -216,6 +216,7 @@ Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra at
 
 | Pseudo            |Poste          | Filiaire | Niveau | Parcours | Github  | Skill(s)
 |:------------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
+| ♂️ **Toky**       |       -       |  Info    |M2      |   BDGL   |[Gituxmanjaka](https://github.com/gituxmanjaka)  |stack: `HTML` `CSS` `Bootstrap` `Javascript` `Typescript` `Python` `Java` 
 | ♂️ **Stany**       |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
 | ♂️ **Xoder**       |       -       |  Info    |L1      |   BDGL   |[Mr xoder](https://github.com/­mrxoder)  |stack: `HTML` `CSS` `Javascipt` `PHP` `Python`
 | ♂️ **a2d**         |       -       |  Info    |L1      |   BDGL   |[Annael007](https://github.com/Annael007)         |stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio`
@@ -223,7 +224,7 @@ Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra at
 | ♂️  **Wenceslas-Angelo** |       -       |  Info    |L1      |    BDGL     |[Angelo](https://github.com/Wenceslas-Angelo)           |stack: `HTML` `CSS` `Javascript` `Python`
 | ♂️ **ChristianoDc7**        |-  |  Info    |L2      |   RS   |[ChristianoDc7](https://github.com/­ChristianoDc7)|stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C`
 | ♀️ **Naingo**      |       -       |  Info    |L2      |   RS     |[Fanaingo](https://github.com/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C`
-| ♂️ **Raja**        |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack:`HTML` `CSS` `MarkDown` `Python` `PHP` `Java` `Javascript` `Shell` other: `dessin` `illustration`
+| ♂️ **Raja**        |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` other: `dessin` `illustration`
 | **-**             |       -       |    -     |   -    |    -     |    -     |    -     |   
 
 </div>
