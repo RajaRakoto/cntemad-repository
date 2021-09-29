@@ -1,0 +1,269 @@
+###RUN & DEBUG{
+  - sha-bang: #!/bin/bash //indique le nom du shell a utiliser
+  - permission: chmod +x my_script.sh //ajouter un droit d'execution au script
+  - debug: bash -x my_script.sh //entrer en mode debug
+  - run: ./my_script //exécuter le script
+}
+
+###VARIABLE{
+  - pas d'espace sur l'operation d'affectation (ex: ma_var=0;) si vous n'utilise pas le mot cle "let"
+
+  @declaration{
+    - let "a"; //sans valeur initiale
+    - b=; //sans valeur initiale
+    - let "c = 10"; //avec valeur initiale
+    - d=20; //avec valeur initiale
+  }
+
+  @variable_d'environement{
+    - env: afficher toutes les variables globales que vous avez actuellement en mémoire
+    - les variables globales utiles {
+
+      > SHELL: indique quel type de shell est en cours d'utilisation (sh, bash, ksh…).
+
+      > PATH: une liste des répertoires qui contiennent des exécutables que vous souhaitez pouvoir lancer sans indiquer leurrépertoire. Nous en avons parlé un peu plus tôt. Si un programme se trouve dans un de ces dossiers, vous pourrezl'invoquer quel que soit le dossier dans lequel vous vous trouvez.
+
+      > EDITOR: l'éditeur de texte par défaut qui s'ouvre lorsque cela est nécessaire.
+
+      > HOME: la position de votre dossierhome.
+
+      > PWD: le dossier dans lequel vous vous trouvez.
+
+      > OLDPWD: le dossier dans lequel vous vous trouviez auparavant.
+    }
+    - args {
+
+      vos scripts bash peuvent eux aussi accepter des paramètres. Ainsi, on pourrait appeler notrescript comme ceci :
+
+      ./my_script.sh arg1 arg2 arg3
+
+      $#: contient le nombre de paramètres (args)
+      $0: contient le nom du script exécuté (ici ./my_script.sh)
+      $1: contient le premier paramètre 
+      $2: contient le second paramètre 
+      …
+      $9 : contient le 9e paramètre
+
+    }
+
+  }
+
+  @operateurs{
+    - l'addition : + 
+    - la soustraction : - 
+    - la multiplication : * 
+    - la division : / 
+    - la puissance : ** 
+    - le modulo (renvoie le reste de la division entière) : %
+  }
+
+  @operation(expr){
+    echo `expr <operation>`;
+    //ex: echo `$tmp + 1`;
+  }
+
+}
+
+###READ & WRITE (echo & read){
+
+    @cas1(echo){
+      echo word1 word2 word3;
+
+      //equal
+
+      echo "word1";
+      echo "word2";
+      echo "word3";
+    }
+
+    @cas2(echo -e){
+      echo -e "ligne1 \n ligne2"; //retour chariot manuel
+    }
+
+    @cas3(read){
+      echo "Entrer votre nom: ";
+      read name;
+      echo "Bonjour $name";
+    }
+
+    @cas4(read){
+      echo "Entrer votre nom et prenom: ";
+      read name surname;
+      echo "Bonjour $name $surname";
+
+      @note: read lit ce que vous tapez mot par mot (en considérant que les mots sont séparés par des espaces). Il assigne chaquemot à une variable différente, d'où le fait que le nom et le prénom ont été correctement et respectivement assignés à $name $surname.
+    }
+
+    @cas5(read -p){
+      read -p "Entrer un nombre: " number; //pas de retour chariot auto)
+    }
+
+    @cas6(read -n){
+      read -p "Entrer votre login (5 caracteres max): " -n 5 login; //limiter le nombre de caracteres a saisir
+    }
+
+    @cas7(read -t){
+      read -p "Entrer le code d'acces (vous avez 5 seconde): " -t 5 code; //ajouter un delai X seconde au saisi
+    }
+
+    @cas8(read -s){
+      read -p "Entrer votre mot de passe: " -s password; //cacher la valeur a saisir
+    }
+
+    @note(les quotes){
+      - simple quote '': la variable n'est pas analysée et le$est affiché tel quel.
+
+      - double quotes "": la variable est analysée et la contenu avec $ est affiché. 
+
+      - back quotes ``: demandent à bash d'exécuter tout les commandes natives qui lui est propre (qui se trouve à l'intérieur).
+    }
+}
+
+###CONDITION{
+
+  //important: il y a toujours des espaces à l'intérieur des crochets
+
+  //else + if = elif [ <condition> ]
+
+  @if...else...fi{
+    if [ <condition> ]; then
+      <instruction>;
+    else
+      <instruction>;
+    fi
+  }
+
+  @case{
+
+    case $1 in 
+      #test1
+      "Rakoto")
+        echo "Bonjour Rakoto !";;
+      #test2
+      "Rabe")
+        echo "Bonjour Rabe";;
+      #test3
+      "Rasoa")
+        echo "Bonjour Rasoa";;
+      #default
+      *)
+        echo "je ne te connais pas, ouste !";;
+    esac
+
+  }
+
+  @boolean(&& ||){
+    if [ <condition> ] && [ <condition> ]; then
+      <instruction>;
+    elif [ <condition> ] || [ <condition> ]; then
+      <instruction>;
+    else
+      <instruction>;
+    fi
+  }
+
+  @negation(!){
+    Il est possible d'inverser un test en utilisant la négation. En bash, celle-ci est exprimée par le point d'exclamation «!».
+
+    if [ ! -e fichier ]; then
+      echo "Le fichier n'existe pas";
+    else
+      echo "Le fichier existe";
+    fi
+  }
+
+  @regular_expression(char){
+
+    $chaine1 = $chaine2: vérifie si les deux chaînes sont identiques. Notez que bash est sensible à la casse : « b » estdonc différent de « B ».Il est aussi possible d'écrire « == » pour les habitués du langage C.
+    
+    $chaine1 != $chaine2: vérifie si les deux chaînes sont différentes
+
+    -z $chaine: vérifie si la chaîne est vide.
+
+    -n $chaine: vérifie si la chaîne est non vide.
+
+    exemple{
+      if [ -z $1 ]; then
+        echo "Pas de paramètre";
+      else
+        echo "Paramètre présent";
+      fi
+    }
+  }
+
+  @regular_expression(int){
+    $num1 -eq $num2: vérifie si les nombres sont égaux (equal). À ne pas confondre avec le « = » qui, lui, compare deux chaînes de caractères.
+    
+    $num1 -ne $num2: vérifie si les nombres sont différents (non equal).Encore une fois, ne confondez pas avec « != » qui est censé être utilisé sur des chaînes de caractères.
+    
+    $num1 -lt $num2: vérifie si num1 est inférieur ( < ) à num2 (lower than).
+    
+    $num1 -le $num2: vérifie si num1 est inférieur ou égal ( <= ) à num2 (lower or equal).
+
+    $num1 -gt $num2: vérifie si num1 est supérieur ( > ) à num2 (greater than).
+    
+    $num1 -ge $num2: vérifie si num1 est supérieur ou égal ( >= ) à num2 (greater or equal).
+  }
+
+  @regular_expression(file){
+    -e $nomfichier: vérifie si le fichier existe.
+
+    -d $nomfichier: vérifie si le fichier est un répertoire. N'oubliez pas que sous Linux, tout est considéré comme unfichier, même un répertoire 
+    
+    -f $nomfichier: vérifie si le fichier est un… fichier. Un vrai fichier cette fois, pas un dossier.
+    
+    -L $nomfichier: vérifie si le fichier est un lien symbolique (raccourci).
+    
+    -r $nomfichier: vérifie si le fichier est lisible (r).
+    
+    -w $nomfichier: vérifie si le fichier est modifiable (w).
+    
+    -x $nomfichier: vérifie si le fichier est exécutable (x).
+    
+    $fichier1 -nt $fichier2: vérifie sifichier1est plus récent quefichier2(newer than).
+    
+    $fichier1 -ot $fichier2: vérifie sifichier1est plus vieux quefichier2(older than).
+  }
+}
+
+###BOUBLE{
+  while [ <condition> ]; do
+    <instruction>;
+  done
+
+  @exemple(while){ //tant que l'utilisateur ne repond "oui"
+    while [ -z $reponse ] || [ $reponse != 'oui' ]; do 
+      read -p 'Dites oui : ' reponse;
+    done
+  }
+
+  Avertissement pour ceux qui ont déjà fait de la programmation : le for en bash ne se comporte pas de la même manièreq ue le for auquel vous êtes habitués dans un autre langage, comme le C ou le PHP. 
+
+  for variable in 'valeur1' 'valeur2' 'valeur3'; do
+    echo "La variable vaut $variable" //fonctionne comme foreach d'un autre langage
+  done
+}
+
+###TABLEAU{
+  @declaration{
+    - array=('value1' 'value2' 'value3'); //ce syntax ne peut pas etre utiliser avec le mot cle "let"
+    - array[0]=;
+    - array[21]=1;
+    - let "array[7] = 65478";
+  }
+
+  @get array{
+    echo "tableau d'indice 4 = ${array[4]}"; //get one element
+
+    echo "toue les elements = ${array[*]}"; //get all element
+  }
+
+  @array length{
+    ${#<array_name[@]>}
+  }
+
+  @incrementation/decrementation{
+    ((i++));
+    ((j--));
+  }
+}
