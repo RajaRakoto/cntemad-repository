@@ -28,7 +28,7 @@
 
       </form>
     </section>
-    <div class="container3">
+    <section class="container3">
       <h3>- OUTPUT -</h3>
       <center>
         <?php
@@ -56,7 +56,7 @@
         }
         ?>
       </center>
-    </div>
+    </section>
   </div>
 </body>
 
