@@ -1,4 +1,3 @@
-
 -- database = php_2016 --
 
 DROP TABLE `Post` IF EXISTS;
