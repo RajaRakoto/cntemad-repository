@@ -14,7 +14,7 @@
 </p>
 
 |[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[TODO](#todo-list)|[Drive](#tahiry-google-drive)|[OC](#oc)|[Toolkit](#toolkit)|[Tips&Tricks](#tips--tricks)|
-|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|
 </div>
 <br>
 
