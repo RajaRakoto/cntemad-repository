@@ -1,0 +1,29 @@
+Reponse 1:
+ * Lire v
+ * v <- (nombre entier)
+
+Reponse 2:
+i. n := 1+2+3+...+20 ; (FAUX)
+> Parce qu'il y a la presence des 3 points de supontion dont l'ordinateur ne connais pas, le programmeur doit alors preciser et monter exactement toute l'operation pour que l'affectaion soit correcte.
+
+ii. b := -b+1 ; (FAUX)
+> Car...
+
+iii. if c-3 then writlen(c); (FAUX)
+> il y a une erreur syntaxique sur l'instruction "writlen(c)", ce dernier s'ecrit "writeln(c)"
+> On utilise une structure de contrôle "IF...THEN" or, la condition "c-3" ne peux pas être vérifié car elle ne donne pas les deux valeurs booléennees VRAI(1) ou FAUX(0) pour que l'instruction "writenln(c)" soit éxecuté ou pas.
+
+iv for k <= 5 do k := k+1; (FAUX)
+> On ne peux pas utiliser les operateurs de type comparaison dans une boucle "FOR" et k est incomparable parcequ'on ne lui effecte  pas de valeur.
+
+Reponse 3:
+i. V = 7
+
+ii.v = 1>0
+
+Reponse 4:
+Voir rep > C:\Users\Raja\Desktop\ALL_PROJET\ETUDES_files\INFORMATIQUE_CNTEMAD\L1\EXERCICES\SUJET TYPES & EX_sythèse\infoL1 2015\mes_reponses\Exo4_algo_2015_L1.pas
+
+Reponse 5:
+Voir rep > C:\Users\Raja\Desktop\ALL_PROJET\ETUDES_files\INFORMATIQUE_CNTEMAD\L1\EXERCICES\SUJET TYPES & EX_sythèse\infoL1 2015\mes_reponses\Exo5_algo_2015_L1.pas
+
