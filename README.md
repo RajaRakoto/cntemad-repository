@@ -13,7 +13,7 @@
   <img width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/index_anim_logo.gif">
 </p>
 
-|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[TODO](#todo-list)|[Firafitra](#firafitry-ny-fitehirizana)|[Drive](#tahiry-google-drive)|[OC](#oc)|[Toolkit](#toolkit)|[Tips&Tricks](#tips--tricks)|
+|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[TODO](#todo-list)|[Drive](#tahiry-google-drive)|[OC](#oc)|[Toolkit](#toolkit)|[Tips&Tricks](#tips--tricks)|
 |---|---|---|---|---|---|---|---|---|---|
 </div>
 <br>
@@ -27,7 +27,7 @@
 
 
 <img align="left" width="50" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/quote_up_logo.png"><br>
-Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui peuvent survenir, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" </b>... C'est un projet dont on ne sait pas quand il sera achevé mais seulement nous, le(s) membre(s), le(s) participant(e.s) qui le font évoluer. Un projet inspiré d'une autre université que j'ai trouvé (par hasard) sur Github. Je tiens à préciser d'emblée que ce projet s'adresse (principalement) à ceux qui font de l'informatique/télécommunications mais n'empêche pas d'autres domaines de nous rejoindre que vous soyez juridique, management, communication ou autre. Je ne vois aucun mal à s'entraider.
+Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui peuvent survenir, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" </b>... C'est un projet dont on ne sait pas quand il sera achevé mais seulement nous, le(s) membre(s), le(s) participant(e.s) qui le font évoluer. Un projet inspiré d'une autre université que j'ai trouvé (par hasard) sur Github. Je tiens à préciser d'emblée que ce projet s'adresse (principalement) à ceux qui font de l'informatique mais n'empêche pas d'autres domaines de nous rejoindre que vous soyez juridique, management, communication ou autre. Je ne vois aucun mal à s'entraider.
 <img align="right" width="50" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/quote_down_logo.png">
 
 
@@ -127,7 +127,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/gourou_logo.png">
 
-<b> *** Aza adinoana ny tenin'ny dadatoan'ialahy isany manao hoe *** </b> (ho an'ny DEV)
+<b> *** QUOTES *** </b> 
 
     📜️ KISS: Keep It Simple, Stupid!
     La simplicité est la sophistication suprême | un code simple est plus lisible et plus facile à maintenir.
@@ -253,8 +253,8 @@ Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray i
 
 <div align=center>
 
-- [ ] Bot messenger for CNTEMAD repository
 - [ ] exemple 1 
+- [ ] exemple 2 
 
 <br>
 
@@ -265,363 +265,6 @@ Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray i
 Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour voir la liste complete de `TODO list`
 
 </div>
-
-<br><br>
-
-# `Firafitry ny fitehirizana`
-
-<p align="center">
-  <img width="230" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/branch_logo.png">
-</p>
-
-<br>
-
-<div align="center">
-
-Atreto aloha ny fandaminana napetraka dia `branche` iray isaky ny `Filiaire`, izany hoe raha misy filiaire hafa miditra dia amoronana branche vaovao, ny `niveau (L1-L2-L3-M1-M2)` dia akambana ao @branche mifanaraka @filiaire tsirairay avy.
-Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa rehetra. `[CTRL + F]` raha misy zavatra tadiavinao.
-
-</div>
-
-<b> Arborescence de CNTEMAD repository: </b>
-
-  
-    [master] 
-    .
-    ├── compressed📂️
-    │   └── html-toolkit📂️
-    │       └── html-toolkit.tar.gz
-    ├── guide📂️
-    │   ├── demo📂️
-    │   │   ├── html-toolkit_demo.gif
-    │   │   └── w3school_demo.gif
-    │   ├── gif📂️
-    │   │   ├── git-clone_example.gif
-    │   │   ├── git-config_example.gif
-    │   │   └── signup.gif
-    │   ├── markdown📂️
-    │   │   └── ungit-install.md
-    │   ├── pdf📂️
-    │   │   └── github-git-cheat-sheet.pdf
-    │   ├── script📂️
-    │   │   ├── git-config.py
-    │   │   └── upstream.py
-    │   └── txt📂️
-    │       └── commit-template
-    ├── L1I📂️
-    │   ├── algo📂️
-    │   │   ├── ALGO_boole.alg
-    │   │   ├── EX_COMPTE_MARIE.alg
-    │   │   ├── EX_EQ BICARREE.alg
-    │   │   ├── EX_EQ du 2ND DEGRE.alg
-    │   │   ├── exercices_sous successives.alg
-    │   │   ├── EX_fonction FONCTION_0.alg
-    │   │   ├── EX_fonction FONCTION_1 (FORMULE GEOMETRIQUE).alg
-    │   │   ├── EX_fonction POUR_0.alg
-    │   │   ├── EX_fonction POUR_1.alg
-    │   │   ├── EX_fonction POUR_2.alg
-    │   │   ├── EX_fonction POUR_3.alg
-    │   │   ├── EX_fonction POUR_4.alg
-    │   │   ├── EX_fonction POUR_SUITE(2019)_0.alg
-    │   │   ├── EX_fonction POUR_SUITE(2019)_1.alg
-    │   │   ├── EX_fonction TANT QUE_0.alg
-    │   │   ├── EX_fonction TANT QUE_1.alg
-    │   │   ├── EX_fonction TANT QUE_2.alg
-    │   │   ├── EX_fonction TANT QUE_3.alg
-    │   │   ├── EX_fonction TANT QUE_4.alg
-    │   │   ├── EX_fonction TANT QUE_5.alg
-    │   │   ├── EX_fonction TESTS imbriqué.alg
-    │   │   ├── EX_nfact_POUR.alg
-    │   │   ├── EX_nfact_TANTQUE.alg
-    │   │   ├── EX_Table de multi.alg
-    │   │   └── table📂️
-    │   │       ├── TYPE TABLEAU_calcul moyenne.alg
-    │   │       ├── TYPE TABLEAU_POUR (saisie & affichage).alg
-    │   │       └── TYPE TABLEAU_TANT_QUE (saisie & affichage).alg
-    │   ├── archi📂️
-    │   │   ├── archi_exo.pdf
-    │   │   ├── archi_lesson.pdf
-    │   │   ├── proc_list.pdf
-    │   │   ├── schema0.png
-    │   │   └── schema1.png
-    │   ├── compta📂️
-    │   │   └── PCG.pdf
-    │   ├── elec📂️
-    │   │   ├── img0.jpg
-    │   │   ├── img1.jpg
-    │   │   ├── img2.jpg
-    │   │   ├── img3.jpg
-    │   │   ├── img4.jpg
-    │   │   └── symbole.jpg
-    │   ├── elecNum📂️
-    │   │   ├── elecNum_exo0.pdf
-    │   │   └── elecNum_exo1.pdf
-    │   ├── geosi📂️
-    │   │   └── mathsFi_exo.pdf
-    │   ├── maths📂️
-    │   │   ├── bin_negatif.jpg
-    │   │   ├── boole0.jpg
-    │   │   ├── boole1.jpg
-    │   │   └── boole_exo.pdf
-    │   ├── metrologie📂️
-    │   │   ├── img0.jpg
-    │   │   ├── img1.jpg
-    │   │   ├── img2.jpg
-    │   │   ├── img3.jpg
-    │   │   ├── img4.jpg
-    │   │   └── img5.jpg
-    │   ├── pascal📂️
-    │   │   └── eq_2nd_degre.pas
-    │   └── proba📂️
-    │       ├── img0.jpg
-    │       ├── img1.jpg
-    │       ├── img2.jpg
-    │       └── table_proba.pdf
-    ├── L2I📂️
-    │   ├── c📂️
-    │   │   ├── alpha.c
-    │   │   ├── data_struct📂️
-    │   │   │   ├── file.c
-    │   │   │   ├── list.c
-    │   │   │   └── pile.c
-    │   │   ├── eq2ndD.c
-    │   │   ├── exo📂️
-    │   │   │   ├── exo10_operateur_logique.c
-    │   │   │   ├── exo11_resultat_intermediaire_int.c
-    │   │   │   ├── exo11_resultat_normal.PNG
-    │   │   │   ├── exo12_operateur_ternaire_boole_ET logique.c
-    │   │   │   ├── exo13_multi_incrementation_affectation_decalage(res.intermediaire).c
-    │   │   │   ├── exo14_plus_grande_valeur_absolue_2int.c
-    │   │   │   ├── exo15_saisie_tab_int_FOR_WHILE.c
-    │   │   │   ├── exo1_variable_global_local.c
-    │   │   │   ├── exo2_pointeur1&tableau1.c
-    │   │   │   ├── exo3_conversion_implicite_cast.c
-    │   │   │   ├── exo4_declaration_init_var_hex_octal_long.c
-    │   │   │   ├── exo5_formant_printf_hex_oct_unsigned.c
-    │   │   │   ├── exo6_retour_chariot.c
-    │   │   │   ├── exo7_saisie_multiple.c
-    │   │   │   ├── exo8_pointeur_objet pointé_tableau_increment_negation.c
-    │   │   │   ├── exo9_algo_modulo_hex.c
-    │   │   │   ├── #Incrementation_verification.c
-    │   │   │   ├── #operateur_ternaire_exemple 2.c
-    │   │   │   └── #operateur_ternaire_exemple.c
-    │   │   ├── fact.c
-    │   │   ├── init_var.c
-    │   │   ├── notes
-    │   │   ├── nPremier.c
-    │   │   ├── occ.c
-    │   │   ├── pi_bmi.c
-    │   │   ├── pointeur.c
-    │   │   ├── read.c
-    │   │   ├── reverse.c
-    │   │   ├── tri.c
-    │   │   └── vc_number.c
-    │   ├── probastat📂️
-    │   │   └── TABLE DE PROBABILITE - CNTEMAD.pdf
-    │   ├── reseau📂️
-    │   │   ├── lesson📂️
-    │   │   │   ├── ETUDE DE CAS.pdf
-    │   │   │   ├── exo_synthese(reseaux_locaux).pdf
-    │   │   │   ├── Théorie des réseaux (materiel).pdf
-    │   │   │   ├── Théorie des réseaux (modeleOSI).pdf
-    │   │   │   ├── Théorie des réseaux (resume).pdf
-    │   │   │   └── Théorie des réseaux (TCP|IP).pdf
-    │   │   ├── reseau_2018 (2).pdf
-    │   │   ├── reseau_2018.pdf
-    │   │   ├── reseau_2019 (2).pdf
-    │   │   ├── reseau_2019.pdf
-    │   │   ├── reseauLocaux_2017.pdf
-    │   │   ├── reseauLocaux_2018.pdf
-    │   │   └── reseauLocaux_2019.pdf
-    │   ├── se📂️
-    │   │   ├── crontab.txt
-    │   │   ├── SE_2017.txt
-    │   │   ├── se_2018 (2).pdf
-    │   │   ├── se_2018.pdf
-    │   │   ├── se_2019 (2).pdf
-    │   │   ├── se_2019.pdf
-    │   │   └── suid-sgid-stiky bit.txt
-    │   └── techweb📂️
-    │       ├── hello-L2.html
-    │       ├── hello-L2.js
-    │       ├── html-resume.xlsx
-    │       ├── letter-number.html
-    │       ├── letter-number.js
-    │       ├── maj-min.html
-    │       ├── maj-min.js
-    │       ├── moyenne_rang.html
-    │       ├── moyenne_rang.js
-    │       ├── pair-impair.html
-    │       ├── pair-impair.js
-    │       ├── password.html
-    │       ├── password.js
-    │       ├── popup.html
-    │       ├── popup.js
-    │       ├── uppercase.html
-    │       ├── uppercase.js
-    │       ├── vc.html
-    │       └── vc.js
-    ├── logo📂️
-    │   ├── archive_logo.png
-    │   ├── branch_logo.png
-    │   ├── commit_logo.png
-    │   ├── drive_logo.png
-    │   ├── git_logo.png
-    │   ├── gourou_logo.png
-    │   ├── help_logo.png
-    │   ├── index_anim_logo.gif
-    │   ├── oc_logo.png
-    │   ├── official-logo.png
-    │   ├── quote_down_logo.png
-    │   ├── quote_up_logo.png
-    │   ├── rules_logo.png
-    │   ├── team_logo.png
-    │   ├── todo_logo.png
-    │   ├── toolkit_logo.png
-    │   ├── tt_logo.png
-    │   └── W3Schools_logo.png
-    ├── OC📂️
-    │   └── html5|css3📂️
-    │       ├── demo.gif
-    │       ├── html5|css3.tar.gz
-    │       ├── msg.txt
-    │       └── oc_html5_css3.png
-    ├── README.md
-    ├── TODO.md
-    └── toolkit📂️
-        └── html-toolkit📂️
-            ├── index.html
-            └── src📂️
-                ├── code📂️
-                │   ├── abrreviations_and_acronyms.html
-                │   ├── alignement_of_text.html
-                │   ├── aligning_images.html
-                │   ├── all_font_styles.html
-                │   ├── base_struct.html
-                │   ├── border_aroung_form-data.html
-                │   ├── cell_padding.html
-                │   ├── check_boxes.html
-                │   ├── create_a_button.html
-                │   ├── create_hyperlinks.html
-                │   ├── create_password_fields.html
-                │   ├── create_text_fields.html
-                │   ├── definition_list.html
-                │   ├── division.html
-                │   ├── drop_down_list.html
-                │   ├── font_color_of_text.html
-                │   ├── font_of_text.html
-                │   ├── font_size_of_text.html
-                │   ├── formulaire.html
-                │   ├── image_as_link.html
-                │   ├── images.html
-                │   ├── insert_comment.html
-                │   ├── insert_contact_info.html
-                │   ├── insert_horizontal_lines.html
-                │   ├── line_break_tag.html
-                │   ├── links.html
-                │   ├── link_to_mail_message.html
-                │   ├── mark_deleted_and_inserted_text.html
-                │   ├── nested_list1.html
-                │   ├── nested_list2.html
-                │   ├── open_link_in_new_window.html
-                │   ├── ordered_list.html
-                │   ├── ordered_list_types.html
-                │   ├── paragraphs1.html
-                │   ├── paragraphs2.html
-                │   ├── paragraphs3.html
-                │   ├── paragraphs4.html
-                │   ├── paragraphs5.html
-                │   ├── paragraphs6.html
-                │   ├── poem_problem.html
-                │   ├── preformatted_text.html
-                │   ├── programming_tags.html
-                │   ├── radio_buttons.html
-                │   ├── section.html
-                │   ├── simple_document.html
-                │   ├── simple_table.html
-                │   ├── style_background_color.html
-                │   ├── style_element.html
-                │   ├── tableau.html
-                │   ├── table_cells_spans.html
-                │   ├── table_headers.html
-                │   ├── table_with_caption.html
-                │   ├── table_without_border.html
-                │   ├── tags_inside_table.html
-                │   ├── text_area.html
-                │   ├── text_directions.html
-                │   ├── text_formatting.html
-                │   ├── title.html
-                │   ├── unordered_list.html
-                │   ├── unordered_list_types.html
-                │   └── ununderlined_link.html
-                ├── logo.png
-                └── result📂️
-                    ├── abrreviations_and_acronyms.html
-                    ├── alignement_of_text.html
-                    ├── aligning_images.html
-                    ├── all_font_styles.html
-                    ├── base_struct.html
-                    ├── border_aroung_form-data.html
-                    ├── cell_padding.html
-                    ├── check_boxes.html
-                    ├── create_a_button.html
-                    ├── create_hyperlinks.html
-                    ├── create_password_fields.html
-                    ├── create_text_fields.html
-                    ├── definition_list.html
-                    ├── division.html
-                    ├── drop_down_list.html
-                    ├── font_color_of_text.html
-                    ├── font_of_text.html
-                    ├── font_size_of_text.html
-                    ├── formulaire.html
-                    ├── image_as_link.html
-                    ├── images.html
-                    ├── insert_comment.html
-                    ├── insert_contact_info.html
-                    ├── insert_horizontal_lines.html
-                    ├── line_break_tag.html
-                    ├── links.html
-                    ├── link_to_mail_message.html
-                    ├── mark_deleted_and_inserted_text.html
-                    ├── nested_list1.html
-                    ├── nested_list2.html
-                    ├── open_link_in_new_window.html
-                    ├── ordered_list.html
-                    ├── ordered_list_types.html
-                    ├── paragraphs1.html
-                    ├── paragraphs2.html
-                    ├── paragraphs3.html
-                    ├── paragraphs4.html
-                    ├── paragraphs5.html
-                    ├── paragraphs6.html
-                    ├── poem_problem.html
-                    ├── preformatted_text.html
-                    ├── programming_tags.html
-                    ├── radio_buttons.html
-                    ├── section.html
-                    ├── simple_document.html
-                    ├── simple_table.html
-                    ├── style_background_color.html
-                    ├── style_element.html
-                    ├── tableau.html
-                    ├── table_cells_spans.html
-                    ├── table_headers.html
-                    ├── table_with_caption.html
-                    ├── table_without_border.html
-                    ├── tags_inside_table.html
-                    ├── text_area.html
-                    ├── text_directions.html
-                    ├── text_formatting.html
-                    ├── title.html
-                    ├── unordered_list.html
-                    ├── unordered_list_types.html
-                    └── ununderlined_link.html
-
-39 directories, 292 files
-
-
-    
 
 <br><br>
 
@@ -642,7 +285,7 @@ Ny `branche master` kosa no apetraka ho fitehirizana (archive) ireo branche hafa
 
 <div align="center">
 
-`Google drive` ho an'izay mbola tsy mahalala dia `service de stockage en ligne (cloud)` iray natolotry ny orinasa Google. Inona no hifandraisany amin'ity projet ity ? tsara fantantsika fa misy fetrany ny zavatra azontsika tehirizina ato @github, eo @ `500Mo` (raha tsy diso aho) eo no nomena ny `compte free` iray ka noho izany indrindra no antony hampiasana ity "service Google drive ity" (ary antony nahatonga ilay fitsipika hoe tsy azo atao ny mandefa "video"). `Google drive` dia manana "capacite de stockage" hatramin'ny `15Go` isaky ny compte iray.
+`Google drive` ho an'izay mbola tsy mahalala dia `service de stockage en ligne (cloud)` iray natolotry ny orinasa Google. Inona no hifandraisany amin'ity projet ity ? tsara fantantsika fa misy fetrany ny zavatra azontsika tehirizina ato @github, eo @ `500Mo` eo no nomena ny `compte free` iray ka noho izany indrindra no antony hampiasana ity "service Google drive ity" (ary antony nahatonga ilay fitsipika hoe tsy azo atao ny mandefa "video"). `Google drive` dia manana "capacite de stockage" hatramin'ny `15Go` isaky ny compte iray.
 
 </div>
 
