@@ -1,7 +1,7 @@
 ----------- [LESSON] -----------
 ### Les modificateurs de classe (ClassModifiers)
-> abstract: la classe contient une ou des méthodes abstraites, qui n'ont pas de définition explicite. Une classe déclarée abstract ne peut pas être instanciée : il faut définir une classe qui hérite de cette classe et qui implémente les méthodes nécessaires pour ne plus être abstraite.
-> final: la classe/variable ne peut pas être modifiée, sa redéfinition grâce à l'héritage est interdite. Les classes déclarées final ne peuvent donc pas avoir de classes filles.
+    > abstract: la classe contient une ou des méthodes abstraites, qui n'ont pas de définition explicite. Une classe déclarée abstract ne peut pas être instanciée : il faut définir une classe qui hérite de cette classe et qui implémente les méthodes nécessaires pour ne plus être abstraite.
+    > final: la classe/variable ne peut pas être modifiée, sa redéfinition grâce à l'héritage est interdite. Les classes déclarées final ne peuvent donc pas avoir de classes filles.
 
 ### Le mot-clé  Static
 Nous utilisons le mot-clé Java static principalement lorsque nous voulons accéder aux membres sans créer d'instance de la classe. Cela signifie que les membres statiques font partie de la classe et n'appartiennent pas à l'instance de classe. Chaque fois que nous créons ce qui précède avec un mot-clé statique, nous pouvons y accéder directement sans créer d'objet. Nous pouvons utiliser le mot-clé Java static pour les éléments suivants :
@@ -36,7 +36,7 @@ Le constructeur est appelé lorsqu’un objet d’une classe est créé.
 Il peut être utilisé pour définir les valeurs initiales des attributs d’un objet.
 
 Q2: Que signifie le mot private, static, final ?
-R2:
+R2: <voir ligne 14,6,4>
 
 Q3: Que se passerait-il si la classe Point ne disposait pas des methodes getX et getY?
 R3:
