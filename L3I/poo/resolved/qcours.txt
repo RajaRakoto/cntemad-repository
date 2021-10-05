@@ -39,7 +39,7 @@ Q2: Que signifie le mot private, static, final ?
 R2: <voir ligne 14,6,4>
 
 Q3: Que se passerait-il si la classe Point ne disposait pas des methodes getX et getY?
-R3:
+R3: les methodes getX et getY sont utiles pour manipuler les attributs d'accessibilitEs "private", on ne peut pas acceder aux valeurs de X et Y sans ces accesseurs 'getters'
 --------------------------------
 ------------ [2018] ------------
 Q1: Une interface peut elle contenir des attributs ?
