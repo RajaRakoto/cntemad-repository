@@ -1,0 +1,51 @@
+#1) qu'affiche la commande "ls -l" et donnez la signification de chaque colonne ?
+=> la commande "ls -l" affiche les informations de maniere detaillE sous forme de 10 colonnes divisEs par des espaces qui concerne les fichiers ou dossiers du repertoire courant ou du repertoire en argument de la commande.
+=> signification de chaque colonne:
+    > 1er colonne: montre le type de l'element (dossier ou fichier) et le droit de lecture, ecriture et execution de l'element pour chaque utilisateur du systeme.
+    > 2e colonne: montre le proprietaire de l'element
+    > 3e colonne: montre le groupe proprietaire de l'element
+    > 4e colonne: montre la taille en octet de l'element
+    > 5e colonne: montre le dernier nom du jour ou l'element a ete modifiE
+    > 6e colonne: montre le dernier mois ou l'element a ete modifiE
+    > 7e colonne: montre le dernier jour ou l'element a ete modifiE
+    > 8e colonne: montre le dernier heure ou l'element a ete modifiE
+    > 9e colonne: montre la derniere annee ou l'element a ete modifiE
+    > 10e colonne: montre le nom complet de l'element avec son extension
+
+#2) comment on change de date avec l'invite de commande
+=> Pour changer la date du systeme, il faut utiliser la commande "date" de la maniere suivante:
+[commande]: sudo date -s 'aaaa-mm-jj hh:mm:ss'
+[exemple]: sudo date -s '2012-12-21 12:34:56'
+
+#3) changer le droit d'un fichier en lecture seule pour le groupe et les autres et tout les droits pour le proprietaire
+=> Pour attribuer ce type de droit a un fichier, on execute la commande "chmod" de la maniere suivante:
+[commande]: sudo chmod 744 fichier
+
+#4) automatiser l'affichage de la date tous les deux heures avec crontab
+=> * */2 * * * date (tous les heures paires i-e 0h 2h 4h 6h 8h ...)
+
+**** CRONTAB rappel ****
+> crontab -e
+
+mm jj MMM JJJ tache>log
+
+mm: les minutes (0 à 59)
+jj: l heure (0 à 23)
+MMM: num du mois (1 à 12)
+JJJ: nomdujour (0 à 6)
+tâche: commande à executer
+log: journalisation
+
+> Notation:
+Pour chaque unite de temps:
+  * : A chaque unité de temps
+  2-5 : les unites de temps (2,3,4,5)
+  */3 : tous les 3 unites de temps(0,3,6,...)
+  5,8 : les unites de temps 5 et 8
+
+> Exemple
+Afficher espace libre tout les jours a 23h30:
+30 23 * * * df >> /temp/log.txt
+
+Chaque minute
+*/1 * * * * df >> /home/user/tp/log.txt
