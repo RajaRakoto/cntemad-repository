@@ -1,0 +1,27 @@
+1. Architecture generale d'un microprocesseur
+
+2. Quelques definition
+    |
+    |_  Horloge: Cristal de quartz vibrant a une freq determinee, produisant des signaux periodiques qui servent a synchroniser les taches d'un microprocesseur
+    |
+    |_  Circuit integrE: Ensemble de circuit gravEs sur une plaque de silicium
+    |
+    |_  Systeme d'exploitation: Programme necessaire a la gestion des ressources materielles et logiciels d'un ordinateur
+    |
+    |_  Transistor: Sorte de commutateur electronique servant a controler le passage du courant electrique
+    |
+    |_  Bus: Ensemble des lignes trasportant les signaux qui permettent au microprocesseur de communiquer avec ses memoires et ses peripheriques
+    |
+    |_  Antememoire (memoire cache): Petite memoire contenue dans le microprocesseur destinE a stocker de maniere tres temporaire un certain nombre d'informations comme les resultats intermediaires d'un calcul ou l'adresse de la prochaine instruction a executer
+    |
+    |_  UC de traitement: Dispositif d'E/S du micro-ordinateur accessible par un programme qui transporte sumultanement les 8 bits d'un mot au travers d'un ensemble de conducteurs
+    |
+    |_  RAM (Random Access Memory): Type de memoire volatile, lisible et reinscriptible, dont chaque cellule est directement accessible
+    |
+    |_  Registre: Circuit specialisE comportant une petite quantitE de memoire ultra rapide pour rendre les informations frequement demandEes immediatement accessibles au processeur
+    |
+    |_  Microprocesseur (UCT ou CPU): UnitE Principale de traitement d'un ordinateur, generalement contenue dans un circuit integrE unique
+    |
+    |_  Carte mere: Principale carte de circuits imprimEs dans un ordinateur
+    |
+    |_  Memoire morte (ROM = Read Only Memory): Memoire interne dont le contenu peut etre lu mais non modifiE
