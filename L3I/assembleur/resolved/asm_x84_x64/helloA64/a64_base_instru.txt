@@ -1,0 +1,39 @@
+/* CE PROGRAMME PERMET D'AFFICHER 'hello world !' */
+
+/*
+NOTES: execution d'un programme en langage d'assemblage en 64bits
+  > nasm -f elf64 <file.asm> -o <output.o>
+  > ld <output.o> -o <final>
+*/
+
+/* indiquer l'architecture a utiliser */
+bits 64 
+
+/** SEGMENTATION (definition des sections) **/
+/* permet d avoir des donnees initialisEes */ 
+section .data
+  message db 'Hello world !', 10 /* '10' permet de faire un retour a la ligne */
+
+/* corps du code */
+section .text
+  /** MAIN (line 14 - 15) **/
+  global _start
+  _start:
+
+    /*-- ACCUMULATEUR --*/
+    mov rax, 1 /* mov: deplacement de donnee | rax: signifie registre | 1: appel systeme pour la fonction 'write' */
+
+    /** ARGS du 'write' (line 22 - 26) **/
+    /*-- DESCRIPTEUR --*/
+    mov rdi, 1 /* le flux a lire (sortie standard) | ici '1' signifie 'stdout' */
+
+    mov rsi, message /* input */
+
+    mov rdx, 13+1 /* '13' indique la taille de 'message' et '1' pour la fin de la chaine de caractere '\0' */
+
+    syscall /* fait appel au noyau pour executer l'instruction ci-dessus */
+
+    /** Fait appel au EXIT (line 25 - 27) **/
+    mov rax, 60
+    mov rdi, 0 /* sans argument */
+    syscall
