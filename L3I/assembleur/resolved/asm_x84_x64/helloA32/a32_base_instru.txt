@@ -1,0 +1,31 @@
+bits 32
+
+/*
+NOTES: execution d'un programme en langage d'assemblage en 32bits
+  > nasm -f elf32 <file.asm> -o <output.o>
+  > ld -m elf_i386 <output.o> -o <final>
+
+P.S: certain explicaiton se trouve dans le fichier a64_base_instru.txt
+*/
+
+section .data
+  message .db 'Hello world !', 10
+
+section .text
+  global _start
+  _start:
+    /* appel de la fonction write */
+    mov eax, 4
+    /* stdout */
+    mov ebx, 1
+    /* stdin */
+    mov ecx, message
+    /* taille */
+    mov edx, 13+1
+    /* interruption du code */
+    int 0x80
+    
+    /* EXIT */
+    mov eax, 1
+    mov ebx, 0
+    int 0x80
