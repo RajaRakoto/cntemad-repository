@@ -5,7 +5,6 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
-
 <br>
 <div align="center">
 
@@ -13,8 +12,8 @@
   <img width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/index_anim_logo.gif">
 </p>
 
-|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[TODO](#todo-list)|[Drive](#tahiry-google-drive)|[OC](#oc)|[Toolkit](#toolkit)|[Tips&Tricks](#tips--tricks)|
-|---|---|---|---|---|---|---|---|---|
+|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Drive](#tahiry-google-drive)|[OC](#oc)|[Toolkit](#toolkit)|[Tips&Tricks](#tips--tricks)|
+|---|---|---|---|---|---|---|---|
 </div>
 <br>
 
@@ -214,8 +213,9 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra ato amin'ny **CNTEMAD repository**. Entina anamorana ny fitadiavana izay `andraikitra` sahanin'ny tsirairay, mba ho mora amintsika rehetra no mijery hoe inona ny `zavatra manavanana` an'i Rakoto na Rabe, na izay informations rehetra mety ilaina. Ity section ity no antony tsy maintsy hamenoana ilay **formulaire d'inscription** rehefa hiditra ho mpikambana isika.
 
-| Pseudo            |Poste          | Filiaire | Niveau | Parcours | Github  | Skill(s)
+| Pseudo            |Role          | Filiaire | Niveau | Parcours | Github  | Skill(s)
 |:------------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
+| ♂️ **Brillant**       |       -       |  Info    |L3      |   BDGL   |[Bri11ant](https://github.com/Bri11ant)  |stack: `Python` `Javascript` `Angular` `Ionic` `PHP` `Java` other: `Infographiste` `designer` 
 | ♂️ **Toky**       |       -       |  Info    |M2      |   BDGL   |[Gituxmanjaka](https://github.com/gituxmanjaka)  |stack: `HTML` `CSS` `Bootstrap` `Javascript` `Typescript` `Python` `Java` 
 | ♂️ **Stany**       |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
 | ♂️ **Xoder**       |       -       |  Info    |L1      |   BDGL   |[Mr xoder](https://github.com/­mrxoder)  |stack: `HTML` `CSS` `Javascipt` `PHP` `Python`
@@ -224,45 +224,8 @@ Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra at
 | ♂️  **Wenceslas-Angelo** |       -       |  Info    |L1      |    BDGL     |[Angelo](https://github.com/Wenceslas-Angelo)           |stack: `HTML` `CSS` `Javascript` `Python`
 | ♂️ **ChristianoDc7**        |-  |  Info    |L2      |   RS   |[ChristianoDc7](https://github.com/­ChristianoDc7)|stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C`
 | ♀️ **Naingo**      |       -       |  Info    |L2      |   RS     |[Fanaingo](https://github.com/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C`
-| ♂️ **Raja**        |`Admin` `TDL`  |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` other: `dessin` `illustration`
+| ♂️ **Raja**        |`ADMIN` |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` other: `dessin` `illustration`
 | **-**             |       -       |    -     |   -    |    -     |    -     |    -     |   
-
-</div>
-
-<br><br>
-
-# `TODO list`
-
-<p align="center">
-  <img width="250" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/todo_logo.png">
-</p>
-
-<div align="center">
-
-Araka izay anarany izay hoe <b> "TODO list" </b> dia ato amin'ity section iray ity no haintantsika mpikambana (na vaovao na tranainy) ireo <b> "tache (principal)" </b> iraisantsika, natao ity mba ho mora amintsika no mijery ireo `progression` amina objectif iray na maromaro ka hafahan'ny membre rehetra mandray anjara. Mety mbola misy fanatsarana atao eo amin'ny lafiny fandaminana... 😉️ 
-
-</div>
-
-> Ohatra @fampiasana TODO list:
-    Misy exercice/sujet mbola tsy natao dia afaka atao anaty TODO list mba ho hitan'ny rehetra.
-    Raha misy bug anaty code ohatra dia afaka alefa eto saody misy mahita solution (syteme issues ihany ilay izy)
-
-> P/S: Miresaha amin'ny responsable ny TODO list izay hitanao eo amin'ny section ny "Mpandray anjara" mba hafahany manao MAJ ilay lisitra | izay misy Poste = TDL
-
-<br>
-
-<div align=center>
-
-- [ ] exemple 1 
-- [ ] exemple 2 
-
-<br>
-
-... 
-
-<br>
-
-Cliquez [ICI](https://github.com/RajaRakoto/cntemad/blob/master/TODO.md) pour voir la liste complete de `TODO list`
 
 </div>
 
