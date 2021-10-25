@@ -27,13 +27,13 @@ Tandis que l'unitE de traitement qui est egalement le coeur du microprocesseur r
     |
     |_  Bus: Ensemble des lignes trasportant les signaux qui permettent au microprocesseur de communiquer avec ses memoires et ses peripheriques
     |
-    |_  Antememoire (memoire cache): Petite memoire contenue dans le microprocesseur destinE a stocker de maniere tres temporaire un certain nombre d'informations comme les resultats intermediaires d'un calcul ou l'adresse de la prochaine instruction a executer
+    |_  Antememoire (memoire cache): Circuit specialisE comportant une petite quantitE de memoire ultra rapide pour rendre les informations frequement demandEes immediatement accessibles au processeur
     |
     |_  UC de traitement: Dispositif d'E/S du micro-ordinateur accessible par un programme qui transporte sumultanement les 8 bits d'un mot au travers d'un ensemble de conducteurs
     |
     |_  RAM (Random Access Memory): Type de memoire volatile, lisible et reinscriptible, dont chaque cellule est directement accessible
     |
-    |_  Registre: Circuit specialisE comportant une petite quantitE de memoire ultra rapide pour rendre les informations frequement demandEes immediatement accessibles au processeur
+    |_  Registre: Petite memoire contenue dans le microprocesseur destinE a stocker de maniere tres temporaire un certain nombre d'informations comme les resultats intermediaires d'un calcul ou l'adresse de la prochaine instruction a executer
     |
     |_  Microprocesseur (UCT ou CPU): UnitE Principale de traitement d'un ordinateur, generalement contenue dans un circuit integrE unique
     |
