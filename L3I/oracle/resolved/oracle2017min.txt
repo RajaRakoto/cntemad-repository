@@ -1,0 +1,63 @@
+1- Quels sont les specificités d'Oracle par rapport aux autre S.G.B.D ?
+=====>Les specificités de base Oracle par rapport aux autres systeme de gestion de base de donnée sont :
+ 	- Savoire utiliser le dictionnaire des données;
+	- S.G.B.D professionnelle largement repandu et plus complet;
+	- Experimenter l'usage de langage SQL;
+	- Connaitre les commandes de bases SQL*Plus.
+
+2- Quels sont les composants d'une base Oracle ? Expliquer brievement chaque composant ?
+=====>Les composants d'une base oracle sont les suivants :
+	- composants fichiers : Constituer des fichiers qui contiennent les information necessaire sur le fonctionnement de base de donnée Oracle comme les fichier de
+	  donnée, fichier redo log, fichier de controle et fichier de administration;
+	- composants programmes: Ces composants constituent les programmes exeecutables qui assurrent le fonctionnement de base de donnée et resalisent les actions 
+	  sur les composants fichiers.
+	- Composants memoire : Ces composant assurent la performance de base de données et stockent tous les fichiers du base oracle
+	  (composants fichiers et composant programmmes).
+
+3- Donner les signification des termes suivants: redo log, PMON, instance, tablespace ;
+=======> - redo log : Ces sont des fichiers qui stockent tous les modifications effectués dans la base de donnée
+ 	 - PMON : C'est un thread chargé de nettoyer les ressources et en vue de recuperer les ressources associer a des deffaillances de processus.
+	 - instance : C'est un base de donnée en actions.
+	 - tablespace: C'est une espace de stockage des données dans la base de donnée.
+4- 
+5- Qu'est ce qu'un index Oracle ? A quoi sert-il ? Donner la syntaxe qui permet de le crée.
+=======> L'index est un structure de donnée qui reprend la liste ordonnée des valeurs auxquelles il se rapporte.
+	 Il sert pour accelerer le requete de recherche dans un fichier(table)
+	 Pour créer un index simple la syntaxe est le suivant: CREATE INDEX `nom_index` ON `nom_table`(colonne);
+
+6- Pour les requetes SQL suivantes ,donner les requetes utilisateurs (R.U)correspondants:
+=====> - Requete 1: SELECT * FROM employees WHERE manager_id= 122 AND job_id='ST_CLERK';
+	 R.U : Liste les employées dont le numero de manager egale a 122 et l'identification de post est 'ST_CLERK'.
+ 
+       - Requete 2: SELECT employee_id, first_name, last_name,manager_id FROM employees ORDER BY manager_id DESC;
+	 R.U : Liste les numeros, les noms des employées et le numero de manager par ordre decroissante selon le numero de manager.
+
+       - Requete 3: SELECT employee_id, first_name, last_name, department_id, department_name, manager_id FROM employees NATURAL JOIN department;
+	 R.U : Liste les numeros et les noms des employées avec leur departement(numero et noms) et leur manager respectifs. 
+
+
+       - Requete 4: SELECT e.employee_id, e.first_name, e.last_name,e.manager_id, department_id, d.department_name, d.manager_id, location_id, l.country_id 
+		    FROM employees e JOIN department d USING(department-id) JOIN location l USING(location_id);
+	 R.U : Liste les numeros et les noms des employées avec leur departement(numero et noms) et leur manager respectifs(numeero et nom). 
+	       Mais de plus, la requete affiche les numeros locaux ainsi que leur pays.
+
+7 - Pour les RU suivantes, donner les requetes SQL correspondants
+======> - R.U 1 : Liste les numeros et les noms des employées avec leur manager respectifs(numero et nom) etleur departement(numero et noms).
+  	  Requete SQL 1: SELECT employee_id, first_name, last_name, department_id, department_name, manager_id FROM employees NATURAL JOIN department;
+
+	 -R.U 2 : Liste les numeros et les noms des employées avec leur departement(numero et noms) et leur manager respectifs(numeero et nom). 
+	       Mais de plus, la requete affiche les numeros locaux ainsi que leur pays.
+          Requete SQL 2: SELECT e.employee_id, e.first_name, e.last_name,e.manager_id, department_id, d.department_name, d.manager_id, location_id, l.country_id 
+		    FROM employees e JOIN department d USING(department-id) JOIN location l USING(location_id);
+	- R U 3 : Liste de nom des employée par ordre alphabetique
+	  Requete SQL 3: SELECT last_name, first_name FROM employees ORDER BY first_name;
+
+	- R U 4 : Donne le salaire journalier a 2 chiffres pree de chaque employé
+	  Requete SQL 4 : SELECT employee_id, ROUND(salary/30,2) 'Salaire journalier' FROM employees;
+	
+
+
+ 
+ 
+
+ 
