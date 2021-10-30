@@ -1,11 +1,12 @@
 import java.util.Scanner;
 
+
 class Notes {
 
 	final static Scanner sc = new Scanner(System.in);
 
 	 double[][] note = new double[100][5];
-	//  double[] sumPerStudent = new double[100];
+	 double[] sumPerStudent = new double[100];
 
 	public void setNote (int numberOfStudent){
 
