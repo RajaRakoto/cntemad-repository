@@ -178,6 +178,24 @@ public class sujet2018 {
 	    //output nullValue
 	    System.out.print("Nombres de valeurs nulles: "+ nullValue);
 	  }
+	
+	private static void exo4Solution2() {
+		Object[][][] tab = { { { 12, 0, 10.5 }, { 13, 7.5, 0 }, { 14, 6, 8 }, { 14, 6, 8 }, { 17, 0, 10 },
+				{ 15, 13, 12.5 }, { 0, 19, 6 } } };
+
+		int nullValue = 0;
+
+		for (int i = 0; i < tab.length; i++) {
+			for (int j = 0; j < tab[i].length; j++) {
+				for (int k = 0; k < tab[i][j].length; k++) {
+					if (tab[i][j][k].equals(0))
+						nullValue++;
+				}
+			}
+		}
+
+		System.out.println(zero);
+	}
 
 	    public static void main (String[] args){
 
