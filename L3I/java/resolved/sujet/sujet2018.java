@@ -194,7 +194,7 @@ public class sujet2018 {
 			}
 		}
 
-		System.out.println(zero);
+		System.out.println(nullValue);
 	}
 
 	    public static void main (String[] args){
