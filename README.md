@@ -331,6 +331,15 @@ ________________________________________________________________________________
 **Cours OFFLINE d'OpenClassrooms:**
 Hitanao ato ireo `Cours en libre acces` ny OC izay afaka alainao (telecharger) ary tsy mila connexion internet (OFFLINE).
 
+__________________________________________________________________________________________________________________
+
+**HTML5 & CSS3** | size: **43.7Mo** | added by ♂️ **Raja**                                         
+
+<img align="center" width="1076" height="170" src="https://github.com/RajaRakoto/cntemad/blob/master/OC/html5|css3/oc_html5_css3.png">
+
+|[download ⬇](https://github.com/RajaRakoto/cntemad/raw/info/OC/html5%7Ccss3/html5%7Ccss3.tar.gz)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/OC/html5%7Ccss3/demo.gif)|
+|---|---|
+__________________________________________________________________________________________________________________
 
 <br><br>
 
