@@ -59,15 +59,16 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
     
     ✅️  12. Il nous apprendra ce que signifie réellement cette phase: « Sambatra ny manome noho ny mandray », non pas pour être égoïste mais pour aimer notre prochain comme nous-mêmes.
     
-<br>
+<!-- <br>
 <p> 
 👉️ Un des grands objectifs que j'aimerais réaliser à l'avenir est de pouvoir aider les gens « Sahirana » (en faisant un don financier obtenu d'un autre projet).
 </p>
 <p>
 👉️ Ce sont les raisons pour lesquelles j'ai commencé ce projet, lorsque vous êtes vraiment prêt(e) à nous rejoindre, <b> veillez completer les formulaires d'inscription ci-dessous </b> (nous essayons toujours de compléter les instructions étape par étape) en fonction de l'expérience de l'utilisateur du référentiel CNTEMAD...
 </p>
-<br>
+<br> -->
 
+<br>
 <b> *** formulaire d'inscription (modele) *** </b> 
 
     📌️ Pseudo : Rakoto
@@ -75,7 +76,7 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
     📌️ Filiaire : Info 
     📌️ Parcours : BDGL
     📌️ Github : https://github.com/Rakoto
-    📌️ stack : HTML/CSS, Boostrap, JQuery, Javascript, PHP, Python, Java, C, Wordpress, Flutter ...
+    📌️ stack : HTML/CSS, Boostrap, Javascript, Python ...
     📌️ others: izay competences/centre d'interet hafa raha misy (Musique, arts, etc...).
 
 <div align="center">
@@ -85,10 +86,10 @@ Bonjour, je m'excuse pour les fautes d'orthographe et quelques confusions qui pe
 
 </div>
 
-<br>
+<!-- <br>
 <i>
 📢️ P/S: Izy ity tsy nasiana fanavankavahana, na mahay ianao na tsy mahay, na lahy na vavy, na L1 ianao na M2, na inona filiaire misy anao, fifanampiana no tena tanjona, tadidio fa rahatrizay hiasa ianareo dia anisany jeren'ny mpampiasa ny "projet personnel" na "projet collectif" nataonareo, ka tsy hay na ato (na tsia) ianareo no hahita opportunité anaovana izany. Efa misy groupe de discussion (fb) hafahantsika mifampiresaka mahakasika ity projet ity ...
-</i>
+</i> -->
 
 <br><br>
 
@@ -329,60 +330,6 @@ ________________________________________________________________________________
 
 **Cours OFFLINE d'OpenClassrooms:**
 Hitanao ato ireo `Cours en libre acces` ny OC izay afaka alainao (telecharger) ary tsy mila connexion internet (OFFLINE).
-
-
-<br>
-
-__________________________________________________________________________________________________________________
-
-**HTML5 & CSS3** | size: **43.7Mo** | added by ♂️ **Raja**                                         
-
-<img align="center" width="1076" height="170" src="https://github.com/RajaRakoto/cntemad/blob/master/OC/html5|css3/oc_html5_css3.png">
-
-|[download ⬇](https://github.com/RajaRakoto/cntemad/raw/info/OC/html5%7Ccss3/html5%7Ccss3.tar.gz)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/OC/html5%7Ccss3/demo.gif)|
-|---|---|
-__________________________________________________________________________________________________________________
-
-<br><br>
-
-# `Toolkit`
-
-<div align="center">
-
-<p align="center">
-  <img width="240" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/toolkit_logo.png">
-</p>
-
-</div>
-
-<div align="center">
-
-Ireo **outil** (maivamaivana) mety hiasa amintsika ...
-
-</div>
-
-<br>
-
-__________________________________________________________________________________________________________________
-
-**HTML5 toolkit** | size: **180Ko** | added by ♂️ **Raja**                                         
-
-<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad/blob/master/toolkit/html-toolkit/src/logo.png">
-
-|[download ⬇](https://github.com/RajaRakoto/cntemad/raw/master/compressed/html-toolkit/html-toolkit.tar.gz)|[demo 💻️](https://github.com/RajaRakoto/cntemad/blob/master/guide/demo/html-toolkit_demo.gif)|
-|---|---|
-
-    Outil kely fianarana HTML5 ho an'ireo hiditra @developpement web 🕸️.
-__________________________________________________________________________________________________________________
-**PY-TOOLKIT** | added by ♂️ **Raja**                                         
-
-<img align="right" width="100" src="https://github.com/RajaRakoto/py-toolkit/raw/master/py-toolkit-logo.png">
-
-|[Github 🔗️](https://github.com/RajaRakoto/py-toolkit)|
-|---|
-
-    Scripting toolkits collection for Python lovers 🐍️🛠️.
-__________________________________________________________________________________________________________________
 
 
 <br><br>
