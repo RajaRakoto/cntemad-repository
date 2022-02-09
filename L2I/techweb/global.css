@@ -55,15 +55,15 @@ body {
 }
 
 main {
-  background-color: rgb(238, 217, 97);
-  padding: 30px;
-  border-radius: 10px;
-  min-width: 331px;
-  margin-left: 100px;
-  margin-right: 100px;
+	background-color: rgb(238, 217, 97);
+	padding: 30px;
+	border-radius: 10px;
+	min-width: 331px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
-.box { 
+.box {
 	margin: auto;
 	margin: 20px;
 	padding: 10px;
@@ -73,7 +73,7 @@ main {
 }
 
 .link {
-  text-align: center;
+	text-align: center;
 }
 
 input {
