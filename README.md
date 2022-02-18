@@ -12,8 +12,8 @@
   <img width="200" src="https://github.com/RajaRakoto/cntemad/blob/master/logo/index_anim_logo.gif">
 </p>
 
-|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Drive](#tahiry-google-drive)|[OC](#oc)|[Toolkit](#toolkit)|[Tips&Tricks](#tips--tricks)|
-|---|---|---|---|---|---|---|---|
+|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Drive](#tahiry-google-drive)|[Toolkit](#toolkit)|[Tips&Tricks](#tips--tricks)|
+|---|---|---|---|---|---|---|
 </div>
 <br>
 
@@ -216,6 +216,7 @@ Ato amin'ity section iray ity no haitantsika ireo `mpikambana inscri` rehetra at
 
 | Pseudo            |Role          | Filiaire | Niveau | Parcours | Github  | Skill(s)
 |:------------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
+| ♂️ **Moratiana**       |       -       |  Info    |L1      |   BDGL   |[Moratiana](https://github.com/Moratiana)  |stack: `HTML` `CSS` `Bootstrap` other: `Reseau` 
 | ♂️ **Brillant**       |       -       |  Info    |L3      |   BDGL   |[Bri11ant](https://github.com/Bri11ant)  |stack: `Python` `Javascript` `Angular` `Ionic` `PHP` `Java` other: `Infographiste` `designer` 
 | ♂️ **Toky**       |       -       |  Info    |M2      |   BDGL   |[Gituxmanjaka](https://github.com/gituxmanjaka)  |stack: `HTML` `CSS` `Bootstrap` `Javascript` `Typescript` `Python` `Java` 
 | ♂️ **Stany**       |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
@@ -307,7 +308,7 @@ ________________________________________________________________________________
 
 <br><br>
 
-# `OC`
+<!-- # `OC`
 
 <div align="center">
 
@@ -329,7 +330,7 @@ ________________________________________________________________________________
 </div>
 
 **Cours OFFLINE d'OpenClassrooms:**
-Hitanao ato ireo `Cours en libre acces` ny OC izay afaka alainao (telecharger) ary tsy mila connexion internet (OFFLINE).
+Hitanao ato ireo `Cours en libre acces` ny OC izay afaka alainao (telecharger) ary tsy mila connexion internet (OFFLINE). -->
 
 __________________________________________________________________________________________________________________
 
