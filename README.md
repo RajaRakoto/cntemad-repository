@@ -12,8 +12,8 @@
   <img width="200" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/index_anim_logo.gif">
 </p>
 
-|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Drive](#tahiry-google-drive)|[Toolkit](#toolkit)|[Tips&Tricks](#tips--tricks)|
-|---|---|---|---|---|---|---|
+|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
+|---|---|---|---|---|---|
 </div>
 <br>
 
@@ -165,9 +165,13 @@ Toro-lalana ho an'ireo vaovao eto amin'ny `Github`...
 
 > [[Gérez du code avec Git et GitHub - OpenClassrooms](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)]
 
-Ity indray natokana ho an'ireo efa mahazo ny concept ny Git ...
+Ity indray natokana ho an'ireo efa mahazo tsara ny concept ny Git ...
 
 > [[gitvers-tool](https://github.com/RajaRakoto/gitvers-tool-guide)]
+
+Rehefa manao clone ny "CNTEMAD repository"
+
+> Tapeo amin terminal/console ity commande ity: `$ git clone --depth 1 https://github.com/RajaRakoto/cntemad-repository`
 
 <br>
 
