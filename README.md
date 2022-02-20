@@ -79,6 +79,8 @@ Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" <
     📌️ stack : HTML/CSS, Boostrap, Javascript, Python ...
     📌️ others: Competences/centre d'interet hafa raha misy (Musique, arts, etc...).
 
+P/S: Tsara kokoa ilay `stack` raha ireo izay tena fampiasanao ihany no soratana eo @formulaire 
+
 <div align="center">
 
 |[Guide d'inscription](https://github.com/RajaRakoto/cntemad-repository/blob/master/guide/gif/signup.gif)
@@ -210,6 +212,9 @@ Ato amin'ity section ity no haitantsika ireo mpikambana rehetra ato amin'ny **CN
 
 | Pseudo            |Role          | Filiaire | Niveau | Parcours | Github  | Skill(s)
 |:------------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
+| ♂️  **Mendrika**       |       -       |  Info    |L3      |   BDGL   |[Mendrika](https://github.com/Mendrika)  |stack: `HTML` `C` other: `Psychologie`
+| ♂️  **Rivo**       |       -       |  Info    |L2      |   BDGL   |[Rivo](https://github.com/Rivo)  |stack: `HTML` `CSS` `Bootstrap` `Javascript` `Jquery` `PHP` `Python` `Java` `C` `Wordpress` others: `Anglais`
+| ♂️  **Sarobidy**       |       -       |  Info    |L2      |   -   |[Sarobidy](https://github.com/Sarobidy)  |stack: `HTML` `CSS` `Visual basic` `Javascript` `C` 
 | ♀️ **Woutnak**       |       -       |  Info    |L3      |   BDGL   |[Woutnak](https://github.com/Woutnak)  |stack: `HTML` `CSS` `Bootstrap` `Javascript` other: `Management` 
 | ♂️ **Moratiana**       |       -       |  Info    |L1      |   BDGL   |[Moratiana](https://github.com/Moratiana)  |stack: `HTML` `CSS` `Bootstrap` other: `Reseau` 
 | ♂️ **Brillant**       |       -       |  Info    |L3      |   BDGL   |[Bri11ant](https://github.com/Bri11ant)  |stack: `Python` `Javascript` `Angular` `Ionic` `PHP` `Java` other: `Infographiste` `designer` 
@@ -220,8 +225,8 @@ Ato amin'ity section ity no haitantsika ireo mpikambana rehetra ato amin'ny **CN
 | ♀️  **Fahendrena** |       -       |  Info    |L3      |    -     |[Fahendrena](https://github.com/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
 | ♂️  **Wenceslas-Angelo** |       -       |  Info    |L1      |    BDGL     |[Angelo](https://github.com/Wenceslas-Angelo)           |stack: `HTML` `CSS` `Javascript` `Python`
 | ♂️ **ChristianoDc7**        |-  |  Info    |L3      |   BDGL   |[ChristianoDc7](https://github.com/­ChristianoDc7)|stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C`
-| ♀️ **Naingo**      |       -       |  Info    |L2      |   BDGL     |[Fanaingo](https://github.com/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C`
-| ♂️ **Raja**        |`ADMIN` |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` `Bootstrap` `SemanticUI` other: `Photoshop`
+| ♀️ **Naingo**      |       -       |  Info    |L2      |   BDGL     |[Fanaingo](https://github.com/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C` `PHP`
+| ♂️ **Raja**        |`ADMIN` |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `HTML` `CSS` `SASS` `Python` `Javascript` `Bash` `Bootstrap` `SemanticUI` other: `Photoshop` `Illustrator`
 | **-**             |       -       |    -     |   -    |    -     |    -     |    -     |   
 
 </div>
