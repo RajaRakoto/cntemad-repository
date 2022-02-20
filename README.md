@@ -226,7 +226,6 @@ Ato amin'ity section ity no haitantsika ireo mpikambana rehetra ato amin'ny **CN
 | ♂️ **ChristianoDc7**        |-  |  Info    |L3      |   BDGL   |[ChristianoDc7](https://github.com/­ChristianoDc7)|stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C`
 | ♀️ **Naingo**      |       -       |  Info    |L2      |   BDGL     |[Fanaingo](https://github.com/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C` `PHP` `Bootstrap`
 | ♂️ **Raja**        |`ADMIN` |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `HTML` `CSS` `SASS` `Python` `Javascript` `Bash` `Bootstrap` `SemanticUI` other: `Photoshop` `Illustrator`
-| **-**             |       -       |    -     |   -    |    -     |    -     |    -     |   
 
 </div>
 
