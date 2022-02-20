@@ -222,7 +222,7 @@ Ireo `membres` sy `utilisateurs` ato amin'ny **CNTEMAD repository**.
 | ♂️ **Stany**       |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
 | ♂️ **Xoder**       |       -       |  Info    |L1      |   BDGL   |[Mr xoder](https://github.com/­mrxoder)  |stack: `HTML` `CSS` `Javascipt` `PHP` `Python`
 | ♂️ **a2d**         |       -       |  Info    |L1      |   BDGL   |[Annael007](https://github.com/Annael007)         |stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio`
-| ♀️  **Fahendrena** |       -       |  Info    |L3      |    -     |[Fahendrena](https://github.com/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
+| ♀️  **Fahendrena** |       -       |  Info    |L3      |    RS     |[Fahendrena](https://github.com/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
 | ♂️  **Wenceslas-Angelo** |       -       |  Info    |L1      |    BDGL     |[Angelo](https://github.com/Wenceslas-Angelo)           |stack: `HTML` `CSS` `Javascript` `Python`
 | ♂️ **ChristianoDc7**        |-  |  Info    |L3      |   BDGL   |[ChristianoDc7](https://github.com/­ChristianoDc7)|stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C`
 | ♀️ **Fanaingo**      |       -       |  Info    |L2      |   BDGL     |[Fanaingo](https://github.com/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C` `PHP` `Bootstrap`
