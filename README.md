@@ -106,6 +106,8 @@ P/S: Tsara kokoa ilay `stack` raha ireo izay tena fampiasanao ihany no soratana 
 
 🛡️ Tsy azo atao ny mandefa `video`, ekena ny `fichiers` rehetra ankoatra izay, tsara kokoa raha compressE ho an'ireo fichier >= 50Mo, raha gros fichier (>=200Mo) dia mapiasa `service de stockage` sahala amin `google drive` ary ilay lien an'ilay fichier no alefa ato amin "CNTEMAD repository".
 
+🛡️ Ny `nom de dossier & fichier` rehetra dia tsy tokony hisy `caracteres speciaux`, tsara kokoa raha `miniscule` daholo ary soloina `underscore "_"` na `tiret "-"` ny espace.
+
 🛡️ Ilain'ny mpikambana rehetra ny `commentaire` ao @kaody nosoratanao mba hanamorana ny famakiana azy (commentez intelligemment).
 
 🛡️ Hajao ny `Style d'indentation de code`, ataovy mirindra sy mazava tsara | [style d'indentation ?](https://fr.wikipedia.org/wiki/Style_d'indentation)
