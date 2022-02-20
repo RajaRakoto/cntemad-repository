@@ -1,15 +1,20 @@
 
-<p align="center"><img src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/official-logo.png" height="327" width="1590" alt="official-logo"></p>
+<p align="center"><img src="./img/official-logo.png" height="300" width="370" alt="official-logo"></p>
 
-<h2 align="center">Hello world ! 👋</h2>
+<h2 align="center">Hello world ! 👋<img src="./img/dago.gif" width="30"></h2>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff) ![Python](https://img.shields.io/badge/-Python-777?style=flat&logo=python&labelColor=ffffff) ![Shell](https://img.shields.io/badge/-Shell-777?style=flat&logo=shell&labelColor=333)  ![PHP](https://img.shields.io/badge/-PHP-777?style=flat&logo=php&labelColor=ffffff)  ![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff) ![MariaDB](https://img.shields.io/badge/-mariaDB-777?style=flat&logo=mariaDB&labelColor=brown) ![C](https://img.shields.io/badge/-C-777?style=flat&logo=c&labelColor=blue) ![C++](https://img.shields.io/badge/-C++-777?style=flat&logo=#&labelColor=purple) ![Java](https://img.shields.io/badge/-Java-777?style=flat&logo=java&labelColor=orange) 
+</div>
 
 <br>
 <div align="center">
 
 <p align="center">
-  <img width="200" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/index_anim_logo.gif">
+  <img width="100" src="./img/index_anim_logo.gif">
 </p>
 
 |[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
@@ -25,9 +30,9 @@
 <br>
 
 
-<img align="left" width="50" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/quote_up_logo.png"><br>
+<img align="left" width="30" src="./img/quote_up_logo.png"><br>
 Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" </b>... C'est un projet dont on ne sait pas quand il sera achevé mais seulement nous, le(s) membre(s), le(s) participant(e.s) qui le font évoluer. Un projet inspiré d'une autre université que j'ai trouvé (par hasard) sur Github. Je tiens à préciser que ce projet s'adresse (principalement) à ceux qui font de l'informatique mais n'empêche pas d'autres domaines de nous rejoindre que vous soyez juridique, management, communication ou autre...
-<img align="right" width="50" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/quote_down_logo.png">
+<img align="right" width="30" src="./img/quote_down_logo.png">
 
 
 
@@ -85,7 +90,7 @@ Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" <
 # `Fitsipika`
 
 <p align="center">
-  <img width="250" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/rules_logo.png">
+  <img width="250" src="./img/rules_logo.png">
 </p>
 
 <br>
@@ -114,7 +119,7 @@ Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" <
 
 <br>
 
-<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/gourou_logo.png">
+<img align="right" width="100" src="./img/gourou_logo.png">
 
 <b> *** Ireto misy principe tsara adopte-na rehefa mi-code *** </b> 
 
@@ -147,7 +152,7 @@ Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" <
 # `Toro-lalana`
 
 <p align="center">
-  <img width="260" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/help_logo.png">
+  <img width="260" src="./img/help_logo.png">
 </p>
 
 <br>
@@ -194,7 +199,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 # `Mpandray anjara`
 
 <p align="center">
-  <img width="250" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/team_logo.png">
+  <img width="250" src="./img/team_logo.png">
 </p>
 
 <br>
@@ -228,7 +233,7 @@ Ato amin'ity section ity no haitantsika ireo mpikambana rehetra ato amin'ny **CN
 <div align="center">
 
 <p align="center">
-  <img width="210" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/drive_logo.png">
+  <img width="210" src="./img/drive_logo.png">
 </p>
 
 <br>
@@ -285,7 +290,7 @@ ________________________________________________________________________________
 
 **W3SCHOOL** offline | size: **372Mo** | added by ♂️ **Raja**                                         
 
-<img align="right" width="200" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/W3Schools_logo.png">
+<img align="right" width="200" src="./img/W3Schools_logo.png">
 
 |[download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing)|[demo 💻️](https://github.com/RajaRakoto/cntemad-repository/blob/master/guide/demo/w3school_demo.gif)|
 |---|---|
@@ -300,7 +305,7 @@ ________________________________________________________________________________
 <div align="center">
 
 <p align="center">
-  <img width="240" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/tt_logo.png">
+  <img width="240" src="./img/tt_logo.png">
 </p>
 
 </div>
@@ -317,14 +322,14 @@ ________________________________________________________________________________
 
 **Aide memoire git** [[💡️](https://github.com/RajaRakoto/cntemad-repository/blob/master/guide/pdf/github-git-cheat-sheet.pdf)]
 
-<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/git_logo.png">
+<img align="right" width="100" src="./img/git_logo.png">
 
     Ato daholo ny commande de base ny GIT, tsara raha manao test en local rehefa manandrana commande...
 __________________________________________________________________________________________________________________
 
 **Ny convention de commit** [[💡️](https://github.com/RajaRakoto/cntemad-repository/blob/master/guide/txt/commit-template)]
 
-<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/commit_logo.png">
+<img align="right" width="100" src="./img/commit_logo.png">
 
     Tsara foana isika rehefa manao "commit" dia manaraka convention mba ho mora amin'ny rehetra ny mamaky azy aveo.
     Mety misy "manipulation specifique" nataonao ka tsy hitanao ao amin'ny "modele de commit" ilay "type de commit" dia tsara raha manaraka ilay structure
@@ -333,7 +338,7 @@ ________________________________________________________________________________
 
 **Ny fomba fanaovana compression de donnees** [[💡️](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
 
-<img align="right" width="100" src="https://github.com/RajaRakoto/cntemad-repository/blob/master/logo/archive_logo.png">
+<img align="right" width="100" src="./img/archive_logo.png">
 
     Ny compression de donnees dia miaro azy amin'ny "programme malveillant" sy manampy @resaka vitesse de "upload|download".
 
