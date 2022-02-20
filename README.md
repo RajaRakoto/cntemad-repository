@@ -3,9 +3,9 @@
 
 <h2 align="center">Hello world ! 👋<img src="./img/dago.gif" width="30"></h2>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-
 <div align="center">
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](./img/for-dago.svg)](https://forthebadge.com) [![forthebadge](./img/build-by.svg)](https://forthebadge.com) 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff) ![Python](https://img.shields.io/badge/-Python-777?style=flat&logo=python&labelColor=ffffff) ![Shell](https://img.shields.io/badge/-Shell-777?style=flat&logo=shell&labelColor=333)  ![PHP](https://img.shields.io/badge/-PHP-777?style=flat&logo=php&labelColor=ffffff)  ![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff) ![MariaDB](https://img.shields.io/badge/-mariaDB-777?style=flat&logo=mariaDB&labelColor=brown) ![C](https://img.shields.io/badge/-C-777?style=flat&logo=c&labelColor=blue) ![C++](https://img.shields.io/badge/-C++-777?style=flat&logo=#&labelColor=purple) ![Java](https://img.shields.io/badge/-Java-777?style=flat&logo=java&labelColor=orange) 
 </div>
