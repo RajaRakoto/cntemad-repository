@@ -201,16 +201,17 @@ Ato amin'ity section ity no haitantsika ireo mpikambana rehetra ato amin'ny **CN
 
 | Pseudo            |Role          | Filiaire | Niveau | Parcours | Github  | Skill(s)
 |:------------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
+| ♀️ **Woutnak**       |       -       |  Info    |L3      |   BDGL   |[Woutnak](https://github.com/Woutnak)  |stack: `HTML` `CSS` `Bootstrap` `Javascript` other: `Management` 
 | ♂️ **Moratiana**       |       -       |  Info    |L1      |   BDGL   |[Moratiana](https://github.com/Moratiana)  |stack: `HTML` `CSS` `Bootstrap` other: `Reseau` 
 | ♂️ **Brillant**       |       -       |  Info    |L3      |   BDGL   |[Bri11ant](https://github.com/Bri11ant)  |stack: `Python` `Javascript` `Angular` `Ionic` `PHP` `Java` other: `Infographiste` `designer` 
 | ♂️ **Toky**       |       -       |  Info    |M2      |   BDGL   |[Gituxmanjaka](https://github.com/gituxmanjaka)  |stack: `HTML` `CSS` `Bootstrap` `Javascript` `Typescript` `Python` `Java` 
 | ♂️ **Stany**       |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
 | ♂️ **Xoder**       |       -       |  Info    |L1      |   BDGL   |[Mr xoder](https://github.com/­mrxoder)  |stack: `HTML` `CSS` `Javascipt` `PHP` `Python`
 | ♂️ **a2d**         |       -       |  Info    |L1      |   BDGL   |[Annael007](https://github.com/Annael007)         |stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio`
-| ♀️  **Fahendrena** |       -       |  Info    |L2      |    -     |[Fahendrena](https://github.com/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
+| ♀️  **Fahendrena** |       -       |  Info    |L3      |    -     |[Fahendrena](https://github.com/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
 | ♂️  **Wenceslas-Angelo** |       -       |  Info    |L1      |    BDGL     |[Angelo](https://github.com/Wenceslas-Angelo)           |stack: `HTML` `CSS` `Javascript` `Python`
-| ♂️ **ChristianoDc7**        |-  |  Info    |L2      |   RS   |[ChristianoDc7](https://github.com/­ChristianoDc7)|stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C`
-| ♀️ **Naingo**      |       -       |  Info    |L2      |   RS     |[Fanaingo](https://github.com/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C`
+| ♂️ **ChristianoDc7**        |-  |  Info    |L3      |   BDGL   |[ChristianoDc7](https://github.com/­ChristianoDc7)|stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C`
+| ♀️ **Naingo**      |       -       |  Info    |L2      |   BDGL     |[Fanaingo](https://github.com/Fanaingo)               |stack: `HTML` `CSS` `Javascript` `C`
 | ♂️ **Raja**        |`ADMIN` |  Info    |L3      |   BDGL   |[Raja Rakotonirina](https://github.com/RajaRakoto)|stack: `Python` `Javascript` `Shell` `Bootstrap` `SemanticUI` other: `Photoshop`
 | **-**             |       -       |    -     |   -    |    -     |    -     |    -     |   
 
