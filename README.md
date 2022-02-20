@@ -17,7 +17,7 @@
   <img width="100" src="./img/index_anim.gif">
 </p>
 
-|[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
+|[A propos](#a-propos-de-cntemad-repository)|[Regles](#regles)|[Guides](#guides)|[Membres et utilisateurs](#membres--et--utilisateurs)|[Drive](#drive)|[Tips&Tricks](#tips--tricks)|
 |---|---|---|---|---|---|
 </div>
 <br>
@@ -86,7 +86,7 @@ P/S: Tsara kokoa ilay `stack` raha ireo izay tena fampiasanao ihany no soratana 
 </div>
 <br><br>
 
-# `Fitsipika`
+# `Regles`
 
 <p align="center">
   <img width="250" src="./img/rules.png">
@@ -150,7 +150,7 @@ P/S: Tsara kokoa ilay `stack` raha ireo izay tena fampiasanao ihany no soratana 
 
 <br><br>
 
-# `Toro-lalana`
+# `Guides`
 
 <p align="center">
   <img width="260" src="./img/help.png">
@@ -197,7 +197,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 <br><br>
 
-# `Mpandray anjara`
+# `Membres et utilisateurs`
 
 <p align="center">
   <img width="250" src="./img/team.png">
@@ -207,10 +207,11 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 <div align="center">
 
-Ato amin'ity section ity no haitantsika ireo mpikambana rehetra ato amin'ny **CNTEMAD repository**.
+Ireo `membres` sy `utilisateurs` ato amin'ny **CNTEMAD repository**.
 
 | Pseudo            |Role          | Filiaire | Niveau | Parcours | Github  | Skill(s)
 |:------------------|:--------------|:---------|:-------|:---------|:--------|:--------------------------------------------------------------------------------------------------------------
+| ♂️  **Ma Ranaivoson**       |       -       |  Info    |L3      |   BDGL   |[Ma Ranaivoson](https://github.com/ma-ranaivoson)  |stack: `Javascript` `Typescript` `Java`
 | ♂️  **Mendrika**       |       -       |  Info    |L3      |   BDGL   |[Mendrika](https://github.com/Mendrika)  |stack: `HTML` `C` other: `Psychologie`
 | ♂️  **Rivo**       |       -       |  Info    |L2      |   BDGL   |[Rivo](https://github.com/Rivo)  |stack: `HTML` `CSS` `Bootstrap` `Javascript` `Jquery` `PHP` `Python` `Java` `C` `Wordpress` others: `Anglais`
 | ♂️  **Sarobidy**       |       -       |  Info    |L2      |   -   |[Sarobidy](https://github.com/Sarobidy)  |stack: `HTML` `CSS` `Visual basic` `Javascript` `C` 
@@ -231,7 +232,7 @@ Ato amin'ity section ity no haitantsika ireo mpikambana rehetra ato amin'ny **CN
 
 <br><br>
 
-# `Tahiry "Google drive"`
+# `Drive"`
 
 <div align="center">
 
