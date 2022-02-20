@@ -14,7 +14,7 @@
 <div align="center">
 
 <p align="center">
-  <img width="100" src="./img/index_anim_logo.gif">
+  <img width="100" src="./img/index_anim.gif">
 </p>
 
 |[A propos](#a-propos-de-cntemad-repository)|[Fitsipika](#fitsipika)|[Toro-lalana](#toro-lalana)|[Mpandray anjara](#mpandray-anjara)|[Drive](#tahiry-google-drive)|[Tips&Tricks](#tips--tricks)|
