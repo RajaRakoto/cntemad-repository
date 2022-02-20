@@ -30,9 +30,9 @@
 <br>
 
 
-<img align="left" width="30" src="./img/quote_up_logo.png"><br>
+<img align="left" width="30" src="./img/quote_up.png"><br>
 Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" </b>... C'est un projet dont on ne sait pas quand il sera achevé mais seulement nous, le(s) membre(s), le(s) participant(e.s) qui le font évoluer. Un projet inspiré d'une autre université que j'ai trouvé (par hasard) sur Github. Je tiens à préciser que ce projet s'adresse (principalement) à ceux qui font de l'informatique mais n'empêche pas d'autres domaines de nous rejoindre que vous soyez juridique, management, communication ou autre...
-<img align="right" width="30" src="./img/quote_down_logo.png">
+<img align="right" width="30" src="./img/quote_down.png">
 
 
 
@@ -90,7 +90,7 @@ Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" <
 # `Fitsipika`
 
 <p align="center">
-  <img width="250" src="./img/rules_logo.png">
+  <img width="250" src="./img/rules.png">
 </p>
 
 <br>
@@ -119,7 +119,7 @@ Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" <
 
 <br>
 
-<img align="right" width="100" src="./img/gourou_logo.png">
+<img align="right" width="100" src="./img/gourou.png">
 
 <b> *** Ireto misy principe tsara adopte-na rehefa mi-code *** </b> 
 
@@ -152,7 +152,7 @@ Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" <
 # `Toro-lalana`
 
 <p align="center">
-  <img width="260" src="./img/help_logo.png">
+  <img width="260" src="./img/help.png">
 </p>
 
 <br>
@@ -199,7 +199,7 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 # `Mpandray anjara`
 
 <p align="center">
-  <img width="250" src="./img/team_logo.png">
+  <img width="250" src="./img/team.png">
 </p>
 
 <br>
@@ -233,7 +233,7 @@ Ato amin'ity section ity no haitantsika ireo mpikambana rehetra ato amin'ny **CN
 <div align="center">
 
 <p align="center">
-  <img width="210" src="./img/drive_logo.png">
+  <img width="210" src="./img/drive.png">
 </p>
 
 <br>
@@ -290,7 +290,7 @@ ________________________________________________________________________________
 
 **W3SCHOOL** offline | size: **372Mo** | added by ♂️ **Raja**                                         
 
-<img align="right" width="200" src="./img/W3Schools_logo.png">
+<img align="right" width="200" src="./img/W3Schools.png">
 
 |[download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing)|[demo 💻️](https://github.com/RajaRakoto/cntemad-repository/blob/master/guide/demo/w3school_demo.gif)|
 |---|---|
@@ -305,7 +305,7 @@ ________________________________________________________________________________
 <div align="center">
 
 <p align="center">
-  <img width="240" src="./img/tt_logo.png">
+  <img width="240" src="./img/tt.png">
 </p>
 
 </div>
@@ -322,14 +322,14 @@ ________________________________________________________________________________
 
 **Aide memoire git** [[💡️](https://github.com/RajaRakoto/cntemad-repository/blob/master/guide/pdf/github-git-cheat-sheet.pdf)]
 
-<img align="right" width="100" src="./img/git_logo.png">
+<img align="right" width="100" src="./img/git.png">
 
     Ato daholo ny commande de base ny GIT, tsara raha manao test en local rehefa manandrana commande...
 __________________________________________________________________________________________________________________
 
 **Ny convention de commit** [[💡️](https://github.com/RajaRakoto/cntemad-repository/blob/master/guide/txt/commit-template)]
 
-<img align="right" width="100" src="./img/commit_logo.png">
+<img align="right" width="100" src="./img/commit.png">
 
     Tsara foana isika rehefa manao "commit" dia manaraka convention mba ho mora amin'ny rehetra ny mamaky azy aveo.
     Mety misy "manipulation specifique" nataonao ka tsy hitanao ao amin'ny "modele de commit" ilay "type de commit" dia tsara raha manaraka ilay structure
@@ -338,7 +338,7 @@ ________________________________________________________________________________
 
 **Ny fomba fanaovana compression de donnees** [[💡️](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
 
-<img align="right" width="100" src="./img/archive_logo.png">
+<img align="right" width="100" src="./img/archive.png">
 
     Ny compression de donnees dia miaro azy amin'ny "programme malveillant" sy manampy @resaka vitesse de "upload|download".
 
