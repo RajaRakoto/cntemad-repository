@@ -1,0 +1,96 @@
+.zoomIn {
+	-webkit-animation-name: zoomIn;
+	animation-name: zoomIn;
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+@-webkit-keyframes zoomIn {
+	0% {
+		opacity: 0;
+		-webkit-transform: scale3d(0.3, 0.3, 0.3);
+		transform: scale3d(0.3, 0.3, 0.3);
+	}
+	50% {
+		opacity: 1;
+	}
+}
+@keyframes zoomIn {
+	0% {
+		opacity: 0;
+		-webkit-transform: scale3d(0.3, 0.3, 0.3);
+		transform: scale3d(0.3, 0.3, 0.3);
+	}
+	50% {
+		opacity: 1;
+	}
+}
+
+@font-face {
+	font-family: cascadia;
+	src: url('./font/CascadiaCode.ttf');
+}
+
+* {
+	/*typography*/
+	font-family: cascadia;
+	color: #eee;
+}
+
+h3 {
+	text-align: center;
+	text-shadow: 2px 2px #333;
+}
+
+h4 {
+	text-align: center;
+}
+
+body {
+	padding-top: 100px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: #777;
+}
+
+main {
+	background-color: rgb(238, 217, 97);
+	padding: 30px;
+	border-radius: 10px;
+	min-width: 331px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.box {
+	margin: auto;
+	margin: 20px;
+	padding: 10px;
+	background-color: #555;
+	box-shadow: 2px 2px #222;
+	border-radius: 5px;
+}
+
+.link {
+	text-align: center;
+}
+
+input {
+	color: #333;
+	font-size: larger;
+	font-family: cascadia;
+	background-color: rgb(172, 172, 172);
+	border-radius: 10px;
+	padding-left: 20px;
+}
+
+button {
+	margin: 10px;
+	color: #222;
+}
+
+#output {
+	text-align: center;
+	transition: 2s ease;
+}

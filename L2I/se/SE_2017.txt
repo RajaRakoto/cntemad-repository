@@ -1,0 +1,10 @@
+A.SYS DE FICHIER
+
+1.Df: Les systèmes de fichiers (il en existe de multiples) gèrent l' organisation physique des informations mémorisées sur les périphériques de stockage de l'ordinateur (HDD, clé USB, DVD, …). Chacun offre des avantages pour certains types d'utilisation… mais des désavantages pour d'autres utilisations. Connaître leurs principales caractéristiques est nécessaire pour l'utilisation optimale d'un équipement. C'est comme un classeur.
+
+2.Un nœud d'index ou inode (contraction de l'anglais index et node) est une structure de données contenant des informations à propos d'un fichier ou répertoire stocké dans certains systèmes de fichiers (notamment de type Linux/Unix). À chaque fichier correspond un numéro d'inode (i-number) dans le système de fichiers dans lequel il réside, unique au périphérique sur lequel il est situé.
+
+Chaque fichier a un seul inode, même s'il peut avoir plusieurs noms (chacun de ceux-ci fait référence au même inode). Chaque nom est appelé lien.
+
+Les inodes peuvent, selon le système de fichiers, contenir aussi des informations concernant le fichier, tel que son créateur (ou propriétaire), son type d'accès (par exemple sous Unix : lecture, écriture et exécution), etc. 
+

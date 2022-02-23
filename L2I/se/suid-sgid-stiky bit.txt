@@ -1,0 +1,31 @@
+Les droits particuliers: suid, sgid, et stiky bit
+
+Au droits “de base” précédents s'ajoutent des droits supplémentaires un peu particuliers:
+
+le “suid” (ou “setuid”) qui concerne les programmes:
+
+un programme lancé avec ce droit “suid” sera exécuté avec les droits du propriétaire du programme et non les droits de l'utilisateur qui l'a lancé (ex: /usr/bin/passwd ou /usr/bin/crontab).
+
+le “sgid” (ou “setgid”) qui concerne les programmes et les répertoires:
+
+un programme lancé avec ce droit “sgid” sera exécuté avec les droits du groupe du programme et non les droits du groupe de l'utilisateur qui l'a lancé (ex: /usr/bin/write ou /usr/bin/wall).
+
+un fichier créé dans un répertoire ayant le droit sgid aura pour groupe le groupe du répertoire et pas celui de l'utilisateur qui a créé le fichier.
+
+le “stiky bit” qui concerne surtout les répertoires:
+
+dans un répertoire avec ce droit “stiky bit”, seuls les propriétaires des fichiers pourront les effacer (ex: /tmp ou /var/tmp).
+
+appliqué à un fichier, il est demandé au noyau de le conserver le plus possible en mémoire (ram ou swap). A ma connaissance, ce n'est pas utilisé sur linux.
+
+Les droits “suid” et “sgid” sont aussi appelés “droits d'endossement”.
+Dans la présentation des droits en texte, ces droits particuliers seront représentés comme suit:
+
+pour le suid: un “s” à la place du “x” du propriétaire comme dans “rwsr-xr-x”.
+
+pour le sgid: un “s” à la place du “x” du groupe comme dans “rwxr-sr-x”.
+
+pour le stiky bit: un “t” à la place du dernier “x” (celui du “reste du monde”) comme dans “drwxrwxrwt”.
+
+NB: s'il n'y avait pas de droit d'exécution “x” avant d'appliquer ces droits, les lettres “s” et “t” seront mises en majuscule (“S” et “T”).
+
