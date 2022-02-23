@@ -219,8 +219,8 @@ Ireo `membres` sy `utilisateurs` ato amin'ny **CNTEMAD repository**.
 | ♂️ **Moratiana**       |       -       |  Info    |L1      |   BDGL   |[Moratiana](https://github.com/Moratiana)  |stack: `HTML` `CSS` `Bootstrap` other: `Reseau` 
 | ♂️ **Brillant**       |       -       |  Info    |L3      |   BDGL   |[Bri11ant](https://github.com/Bri11ant)  |stack: `Python` `Javascript` `Angular` `Ionic` `PHP` `Java` other: `Infographiste` `designer` 
 | ♂️ **Toky**       |       -       |  Info    |M2      |   BDGL   |[Gituxmanjaka](https://github.com/gituxmanjaka)  |stack: `HTML` `CSS` `Bootstrap` `Javascript` `Typescript` `Python` `Java` 
-| ♂️ **Stany**       |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `Angular` `Ionic`
-| ♂️ **Xoder**       |       -       |  Info    |L1      |   BDGL   |[Mr xoder](https://github.com/­mrxoder)  |stack: `HTML` `CSS` `Javascipt` `PHP` `Python`
+| ♂️ **Stany**       |       -       |  Info    |L3      |   BDGL   |[Stany Nilaina](https://github.com/StanyNilaina)  |stack: `Javascript` `VueJS` `Ionic` `PHP` `Python` `Typescript` `Bootstrap 4` `SemanticUI` `Bash` other: *
+| ♂️ **Xoder**       |       -       |  Info    |L1      |   BDGL   [Mr xoder](https://github.com/­mrxoder)  |stack: `HTML` `CSS` `Javascipt` `PHP` `Python`
 | ♂️ **a2d**         |       -       |  Info    |L1      |   BDGL   |[Annael007](https://github.com/Annael007)         |stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio`
 | ♀️  **Fahendrena** |       -       |  Info    |L3      |    RS     |[Fahendrena](https://github.com/Fahendrena)           |stack: `HTML` `CSS` `Javascript` `PHP` `Python`
 | ♂️  **Wenceslas-Angelo** |       -       |  Info    |L1      |    BDGL     |[Angelo](https://github.com/Wenceslas-Angelo)           |stack: `HTML` `CSS` `Javascript` `Python`
