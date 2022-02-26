@@ -1,77 +1,69 @@
+//DATA STRUCT - L2I cntemad (Stack/Pile)
+
 #include <stdio.h>
 #include <stdlib.h>
 
-int main ()
-{
-	typedef struct Element Element;
-	struct Element
-	{
-		int nombre;
-		Element *suivant;
-	};
-	typedef struct Pile Pile;
-	struct Pile
-	{
-		Element *premier;
-	};
-	Pile *initialisation()
-	{
-		Element *element = malloc(sizeof(*element));
-		Pile *pile = malloc(sizeof(*pile));
-		element -> nombre = 0;
-		element -> suivant = NULL;
-		pile -> premier = element;
+int main() {
+    typedef struct Element Element;
+    struct Element {
+        int number;
+        Element * next;
+    };
+    typedef struct Stack Stack;
+    struct Stack {
+        Element * first;
+    };
+    Stack * init() {
+        Element * element = malloc(sizeof( * element));
+        Stack * stack = malloc(sizeof( * stack));
+        element -> number = 0;
+        element -> next = NULL;
+        stack -> first = element;
 
-		return pile;
-	}
-	void empiler(Pile *pile, int nvnombre)
-	{
-		Element *nouveau = malloc(sizeof(*nouveau));
-		nouveau -> nombre = nvnombre;
-		nouveau -> suivant = pile -> premier;
-		pile -> premier = nouveau;
-	}
-	int depiler(Pile *pile)
-	{
-		if (pile == NULL || pile -> premier == NULL)
-		{
-			exit(EXIT_FAILURE);
-		}
+        return stack;
+    }
+    void stacking(Stack * stack, int new_number) {
+        Element * new = malloc(sizeof( * new));
+        new -> number = new_number;
+        new -> next = stack -> first;
+        stack -> first = new;
+    }
+    int unstacking(Stack * stack) {
+        if (stack == NULL || stack -> first == NULL) {
+            exit(EXIT_FAILURE);
+        }
 
-		int nbDepile = 0;
-		Element *depile = pile -> premier;
-		nbDepile = depile -> nombre;
-		pile -> premier = depile -> suivant;
-		free(depile);
+        int nbr_unstacking = 0;
+        Element * unstack = stack -> first;
+        nbr_unstacking = unstack -> number;
+        stack -> first = unstack -> next;
+        free(unstack);
 
-		return nbDepile;
-	}
-	void affichage(Pile *pile)
-	{
-		Element *actuel;
-		actuel = pile -> premier;
-		while (actuel != NULL)
-		{
-			printf("%d\n", actuel -> nombre);
-			actuel = actuel -> suivant;
-		}
-	}
+        return nbr_unstacking;
+    }
+    void show(Stack * stack) {
+        Element * now;
+        now = stack -> first;
+        while (now != NULL) {
+            printf("%d\n", now -> number);
+            now = now -> next;
+        }
+    }
 
-	Pile *lePile;
-	lePile = initialisation();
-	lePile -> premier -> nombre = 24;
-	empiler(lePile, 12);
-	empiler(lePile, 6);
-	empiler(lePile, 3);
+    Stack * theStack;
+    theStack = init();
+    theStack -> first -> number = 24;
+    stacking(theStack, 12);
+    stacking(theStack, 6);
+    stacking(theStack, 3);
+    show(theStack);
+    printf("\nJe depile %d\n", unstacking(theStack));
+    show(theStack);
+    printf("\nJe depile %d\n", unstacking(theStack));
+    show(theStack);
+    printf("\nJ'empile 33\n");
+    stacking(theStack, 33);
+    show(theStack);
 
-	affichage(lePile);
-	printf("\nJe depile %d\n", depiler(lePile));
-	affichage(lePile);
-	printf("\nJe depile %d\n", depiler(lePile));
-	affichage(lePile);
-	printf("\nJ'empile 33\n");
-	empiler(lePile, 33);
-	affichage(lePile);
-
-	return 0;
+    return 0;
 }
