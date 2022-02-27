@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost
--- Généré le : dim. 27 fév. 2022 à 10:38
+-- Généré le : dim. 27 fév. 2022 à 13:30
 -- Version du serveur :  10.4.19-MariaDB
 -- Version de PHP : 8.0.6
 
@@ -42,7 +42,11 @@ CREATE TABLE `t_livres` (
 INSERT INTO `t_livres` (`id_livre`, `titre_livre`, `auteur_livre`, `page_livre`, `exemplaire_livre`) VALUES
 (1, 'Titre1', 'Auteur1', 154, 5),
 (2, 'Titre2', 'Auteur2', 200, 7),
-(3, 'Titre3', 'Auteur3', 50, 20);
+(3, 'Titre3', 'Auteur3', 50, 20),
+(4, 'Titre4', 'Auteur4', 120, 2),
+(6, 'Titre6', 'Auteur6', 125, 87),
+(7, 'Titre7', 'Auteur7', 110, 0),
+(8, 'Titre8', 'Auteur8', 13, 6);
 
 --
 -- Index pour les tables déchargées
@@ -62,7 +66,7 @@ ALTER TABLE `t_livres`
 -- AUTO_INCREMENT pour la table `t_livres`
 --
 ALTER TABLE `t_livres`
-  MODIFY `id_livre` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id_livre` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
