@@ -41,7 +41,7 @@ Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" <
 <b> Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfices potentiels que nous pouvons obtenir: </b>
 <br>
     
-    ✅️  1. Le succès de chacun dans l'apprentissage qu'il fait à CNTEMAD (c'est l'objectif principal).
+    ✅️  1. Le succès de chacun dans l'apprentissage qu'il fait à CNTEMAD.
     
     ✅️  2. Le partage des connaissances.  
     
@@ -66,6 +66,8 @@ Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" <
 <br>
 <p>
 👉️ Ce sont les raisons pour lesquelles j'ai commencé ce projet, lorsque vous êtes vraiment prêt(e) à nous rejoindre, <b> veillez completer les formulaires d'inscription ci-dessous </b> (nous essayons toujours de compléter les instructions étape par étape) en fonction de l'expérience de l'utilisateur du référentiel CNTEMAD...
+
+L'objectif principal de la création du **« cntemad repository »** n'est pas seulement d'archiver des fichiers/dossiers afin que les étudiants puissent prendre ce qu'ils y trouvent, mais d'encourager fortement les étudiants à faire un **effort personnel** pour améliorer leur apprentissage. 🎓📖💻
 </p>
 <br>
 
