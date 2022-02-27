@@ -78,6 +78,7 @@
 				<th>TITRES</th>
 				<th>AUTEURS</th>
 				<th>PAGES</th>
+				<th>EXEMPLAIRES</th>
 				</tr>
 			";
         while ($row = $livres_list->fetch(PDO::FETCH_ASSOC)) {
@@ -86,6 +87,7 @@
             echo "<td>" . $row['titre_livre'] . "</td>";
             echo "<td>" . $row['auteur_livre'] . "</td>";
             echo "<td>" . $row['page_livre'] . "</td>";
+            echo "<td>" . $row['exemplaire_livre'] . "</td>";
             echo "</tr>";
         }
 
