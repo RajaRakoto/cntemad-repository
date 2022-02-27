@@ -219,6 +219,7 @@ Ireo `membres` sy `utilisateurs` ato amin'ny **CNTEMAD repository**.
 | ♂️  **Mendrika**       |       -       |  Info    |L3      |   BDGL   |[Mendrika](https://github.com/Mendrika)  |stack: `HTML` `C` other: `Psychologie`
 | ♂️  **Rivo**       |       -       |  Info    |L2      |   BDGL   |[Rivo](https://github.com/Rivo)  |stack: `HTML` `CSS` `Bootstrap` `Javascript` `Jquery` `PHP` `Python` `Java` `C` `Wordpress` others: `Anglais`
 | ♂️  **Sarobidy**       |       -       |  Info    |L2      |   -   |[Sarobidy](https://github.com/Sarobidy)  |stack: `HTML` `CSS` `Visual basic` `Javascript` `C` 
+| ♂️  **JM Rakoto**       |       -       |  Info    |M2      |   BDGL   |[JM Rakoto](https://github.com/jmRakoto)  |stack: `Javascript` `Typescript` `Dart` `Flutter`
 | ♀️ **Woutnak**       |       -       |  Info    |L3      |   BDGL   |[Woutnak](https://github.com/Woutnak)  |stack: `HTML` `CSS` `Bootstrap` `Javascript` other: `Management` 
 | ♂️ **Moratiana**       |       -       |  Info    |L1      |   BDGL   |[Moratiana](https://github.com/Moratiana)  |stack: `HTML` `CSS` `Bootstrap` other: `Reseau` 
 | ♂️ **Brillant**       |       -       |  Info    |L3      |   BDGL   |[Bri11ant](https://github.com/Bri11ant)  |stack: `Python` `Javascript` `Angular` `Ionic` `PHP` `Java` other: `Infographiste` `designer` 
