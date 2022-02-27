@@ -48,28 +48,12 @@
 
         <?php
         session_start(); //demarrer une session
-        echo "[status database]: ";
-        require_once "connection_raja.php"; //connexion au BD
-        //recuperer le resultat d'une requete
-        function getQuery($sql, $conn)
-        {
-            return $conn->query($sql);
-        }
+        //importer le fichier qui permet d'acceder a la BD et d'effectuer des requete SQL
+        require_once "query.php";
 
-        //verifier si le resultat d'une requete a ete executE avec success/erreur
-        function checkQuery($result)
-        {
-            $result = false ? die("<br>[query]: Erreur !<br>") : print "<br>[query]: success !<br>";
-            // if ($result == false) {
-            //     die("<br>[query]: Erreur !<br>");
-            // } else {
-            //     echo "<br>[query]: success !<br>";
-            // }
-        }
-
-        $livres_sql = "SELECT * FROM `$database`.`t_livres`";
-        $livres_list = getQuery($livres_sql, $conn);
-        checkQuery($livres_list);
+        $sql = "SELECT * FROM `$database`.`t_livres`";
+        $result = getQuery($sql, $conn);
+        checkQuery($result);
 
         echo "
 			<table>
@@ -81,7 +65,7 @@
 				<th>EXEMPLAIRES</th>
 				</tr>
 			";
-        while ($row = $livres_list->fetch(PDO::FETCH_ASSOC)) {
+        while ($row = $result->fetch(PDO::FETCH_ASSOC)) {
             echo "<tr>";
             echo "<td>" . $row['id_livre'] . "</td>";
             echo "<td>" . $row['titre_livre'] . "</td>";
