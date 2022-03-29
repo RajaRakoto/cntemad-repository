@@ -83,7 +83,8 @@ P/S: Tsara kokoa ilay `stack` raha ireo izay tena fampiasanao ihany no soratana 
 
 <div align="center">
 
-|[Guide d'inscription](https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/signup.gif?raw=true) |---|
+| [Guide d'inscription](https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/signup.gif?raw=true) |
+| --- |
 
 </div>
 <br><br>
@@ -162,7 +163,8 @@ P/S: Tsara kokoa ilay `stack` raha ireo izay tena fampiasanao ihany no soratana 
 
 <div align="center">
 
-|[Creer un compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) |---|
+|[Creer un compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) 
+|---|
 
 </div>
 
