@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/official-logo.png?raw=true" height="300" width="370" alt="official-logo"></p>
+<div align="center"><img src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/official-logo.png?raw=true" height="250" width="370" alt="official-logo"></div>
 
 <h2 align="center">Hello world ! 👋<img src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/dago.gif?raw=true" width="30"></h2>
 
@@ -6,80 +6,68 @@
 
 🅲🆁🅴🅰🆃🅴🅳_🅰🆃: 14-05-2021
 
-<!-- https://api.github.com/repos/RajaRakoto/cntemad-repository -->
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/for-dago.svg?raw=true)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
 
-![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff) ![Python](https://img.shields.io/badge/-Python-777?style=flat&logo=python&labelColor=ffffff) ![Shell](https://img.shields.io/badge/-Shell-777?style=flat&logo=shell&labelColor=333) ![PHP](https://img.shields.io/badge/-PHP-777?style=flat&logo=php&labelColor=ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff) ![MariaDB](https://img.shields.io/badge/-mariaDB-777?style=flat&logo=mariaDB&labelColor=brown) ![C](https://img.shields.io/badge/-C-777?style=flat&logo=c&labelColor=blue) ![C++](https://img.shields.io/badge/-C++-777?style=flat&logo=#&labelColor=purple) ![Java](https://img.shields.io/badge/-Java-777?style=flat&logo=java&labelColor=orange)
-
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff) ![Python](https://img.shields.io/badge/-Python-777?style=flat&logo=python&labelColor=ffffff) ![Shell](https://img.shields.io/badge/-Shell-777?style=flat&logo=shell&labelColor=333) ![PHP](https://img.shields.io/badge/-PHP-777?style=flat&logo=php&labelColor=ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff) ![MariaDB](https://img.shields.io/badge/-mariaDB-777?style=flat&logo=mariaDB&labelColor=brown) ![C](https://img.shields.io/badge/-C-777?style=flat&logo=c&labelColor=blue) ![C++](https://img.shields.io/badge/-C++-777?style=flat&logo=#&labelColor=purple) ![Java](https://img.shields.io/badge/-Java-777?style=flat&logo=java&labelColor=orange)![Grunt](https://img.shields.io/badge/-Grunt-777?style=flat&logo=grunt&logoColor=orangered&labelColor=ffffff)
 
 <br>
-<div align="center">
 
-<p align="center">
-  <img width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/index_anim.gif?raw=true">
-</p>
+<img width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/index_anim.gif?raw=true">
 
-| [A propos](#a-propos) | [Regles](#regles) | [Guides](#guides) | [Membres et utilisateurs](#membres-et-utilisateurs) | [Drive](#drive) | [Tips&Tricks](#tips--tricks) |
+| [A propos](#-a-propos) | [Regles](#-regles) | [Guides](#-guides) | [Membres et utilisateurs](#-membres-et-utilisateurs) | [Drive](#-drive) | [Tips&Tricks](#-tips--tricks) |
 | --- | --- | --- | --- | --- | --- |
 
-</div>
-<br>
+</div><br>
 
-# `A propos`
-
-<br>
-
-<img align="left" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_up.png?raw=true"><br> Bonjour, je vais vous expliquer brièvement ce projet <b> "CNTEMAD repository" </b>... C'est un projet dont on ne sait pas quand il sera achevé mais seulement nous, le(s) membre(s), le(s) participant(e.s) qui le font évoluer. Un projet inspiré d'une autre université que j'ai trouvé (par hasard) sur Github. Je tiens à préciser que ce projet s'adresse (principalement) à ceux qui font de l'informatique mais n'empêche pas d'autres domaines de nous rejoindre que vous soyez juridique, management, communication ou autre... <img align="right" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_down.png?raw=true">
+### `📌 A propos`
 
 <br>
-<b> Voici les objectifs que nous viserons (ensemble) avec ce projet et les bénéfices potentiels que nous pouvons obtenir: </b>
-<br>
-    
-    ✅️  1. Le succès de chacun dans l'apprentissage qu'il fait à CNTEMAD.
-    
-    ✅️  2. Le partage des connaissances.  
-    
-    ✅️  3. Pour que chacun sache ce qu'est le travail d'équipe.
-    
-    ✅️  4. Une opportunité pour quiconque d'entrer dans le monde de GIT.
-    
-    ✅️  5. En partant du partage habituel via facebook où il y a une restriction sur les "uploads" (format, taille de fichier), je pense qu'il sera plus facile de récupérer des fichiers sur une plateforme comme "Github".
 
-    ✅️  6. Nous apprend à être plus discipliné.
-
-    ✅️  7. Ce sera une archive pour nous et nos jeunes frères/sœurs qui vont étudier à CNTEMAD.
-
-    ✅️  8. Pour éviter tout problème de déplacement.
-
-    ✅️  9. Tout cela nous permet d'avoir le temps de nous concentrer d'avantage sur ce que nous faisons.
-
-    ✅️  10. Lorsque nous avons un projet open source a collaborer avec des étudiants, nous pouvons le «centraliser» sur "CNTEMAD repository".
-
-    ✅️  11. Partage de sujets, d'exercices, de documents, et tout ce qui est lié à nos études ...
+<img align="left" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_up.png?raw=true"><br> Bonjour, **CNTEMAD repository** est un projet qui a pour objectif de `faciliter le partage des connaissances` dans le domaine de la `technologie de l'information` dedié aux `etudiants de CNTEMAD Madagascar`, on ne sait pas quand il sera achevé mais seulement nous, les membres qui le font évoluer. Je tiens à préciser que ce projet s'adresse principalement aux `etudiants en informatique` mais n'empêche pas d'autres domaines de nous rejoindre ... <img align="right" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_down.png?raw=true">
 
 <br>
-<p>
-👉️ Ce sont les raisons pour lesquelles j'ai commencé ce projet, lorsque vous êtes vraiment prêt(e) à nous rejoindre, <b> veillez completer les formulaires d'inscription ci-dessous </b> (nous essayons toujours de compléter les instructions étape par étape) en fonction de l'expérience de l'utilisateur du référentiel CNTEMAD...
 
-L'objectif principal de la création du **« cntemad repository »** n'est pas seulement d'archiver des fichiers/dossiers afin que les étudiants puissent prendre ce qu'ils y trouvent, mais d'encourager fortement les étudiants à faire un **effort personnel** pour améliorer leur apprentissage. 🎓📖💻
+**Voici les objectifs que nous viserons dans ce projet et les bénéfices potentiels que nous pouvons obtenir:**
 
-</p>
+    🏁  1. Le succès de chacun dans l'apprentissage qu'il fait à CNTEMAD.
+
+    🏁  2. Le partage des connaissances.
+
+    🏁  3. Pour que chacun sache ce qu'est le travail d'équipe.
+
+    🏁  4. Une opportunité pour quiconque d'entrer dans le monde de git.
+
+    🏁  5. En partant du partage habituel via facebook où il y a une restriction sur les "uploads" (format, taille de fichier), je pense qu'il sera plus facile de récupérer des fichiers sur une plateforme comme "Github".
+
+    🏁  6. Nous apprend à être plus discipliné.
+
+    🏁  7. Ce sera une archive pour nous et nos jeunes frères/sœurs qui vont étudier à CNTEMAD.
+
+    🏁  8. Pour éviter tout problème de déplacement.
+
+    🏁  9. Nous permet d'avoir le temps de nous concentrer d'avantage sur ce que nous faisons.
+
+    🏁  10. Partage de sujets, d'exercices, de documents, et tout ce qui est lié à nos études ...
+
 <br>
 
+Lorsque vous êtes vraiment prêt(e) à nous rejoindre, `veillez completer les formulaires ci-dessous`. Nous essayons toujours de compléter les instructions étape par étape en fonction de l'expérience de l'utilisateur du référentiel CNTEMAD ...
+
 <br>
-<b> *** formulaire d'inscription (modele) *** </b>
 
-    📌️ Pseudo : Rakoto
-    📌️ Niveau : L1
-    📌️ Filiaire : Info
-    📌️ Parcours : BDGL
-    📌️ Github : https://github.com/Rakoto
-    📌️ stack : HTML/CSS, Boostrap, Javascript, Python ...
-    📌️ others: Competences/centre d'interet hafa raha misy (Musique, arts, etc...).
+**Formulaire**
 
-P/S: Tsara kokoa ilay `stack` raha ireo izay tena fampiasanao ihany no soratana eo @formulaire
+```
+📍 Pseudo : Rakoto
+📍 Niveau : L3
+📍 Filiaire : Info
+📍 Parcours : BDGL
+📍 Github : https://github.com/Rakoto
+📍 stack : HTML, CSS, Bootstrap, MySQL, PHP
+📍 others: Competences & centre d'interet hafa raha misy (Musique, arts, etc...)
+```
+
+> **NOTE**: Tsara kokoa ilay `stack` raha ireo izay tena fampiasanao ihany no soratana
 
 <div align="center">
 
@@ -87,45 +75,40 @@ P/S: Tsara kokoa ilay `stack` raha ireo izay tena fampiasanao ihany no soratana 
 | --- |
 
 </div>
+
 <br><br>
 
-# `Regles`
+---
 
-<p align="center">
-  <img width="250" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/rules.png?raw=true">
-</p>
+### `📌 Regles`
+
+<div align="center">
+  <img width="150" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/rules.png?raw=true">
+</div>
 
 <br>
 
-🛡️ Farafahakeliny ny mpikambana ato amin'ny "CNTEMAD repository" tokony mahay ny base'ny outil "Git", raha mbola tsy mahay dia hiangavina mba anaraka ireo torolalana eo ambany.
+🛡️ Ny mpikambana vaovao ato amin'ny **CNTEMAD repository** tokony manana base `Git`, raha mbola tsy mahay dia hiangavina mba anaraka ireo torolalana ao @section `Guides`.
 
-🛡️ Soroy ny zavatra tsy misy hifandraisany aminy "CNTEMAD repository".
+🛡️ **Fifampizarana** no mamelona ity projet ity ka aoka isika mba `hadray anjara` araka izay vitan-tsika.
 
-🛡️ Fifampizarana no mamelona ity "projet" ity ka aoka isika mba hadray anjara araka izay vitan-tsika.
+🛡️ Tsy azo atao ny mandefa **video**, ekena ny fichiers rehetra ankoatra izay, tsara kokoa raha `compressE` ho an'ireo fichier >= 10Mo, raha gros fichier (>=30Mo) dia mapiasa `service de stockage` hafa sahala amin `google drive` dia ny lien no alefa ato.
 
-🛡️ Hamarino tsara ny `branche` misy anao alohan'ny hanaovanao zavatra. | [branche ?](https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Les-branches-en-bref)
+🛡️ Ny **nom de dossier & fichier** rehetra dia tsy tokony hisy `caracteres speciaux`, raha azo atao dia `miniscule` daholo ary soloina `underscore "_"` na `tiret "-"` ny espace.
 
-🛡️ Aza mandefa zavatra (fichier/repertoire) ao amin'ny `branche master`.
+🛡️ Ilain'ny mpikambana rehetra ny **commentaire** ao @ `code` nosoratanao mba hanamorana ny famakiana azy, tsy dia tsara koa nefa raha lava loatra (commentez intelligemment).
 
-🛡️ Tsy azo atao ny mandefa `video`, ekena ny `fichiers` rehetra ankoatra izay, tsara kokoa raha compressE ho an'ireo fichier >= 50Mo, raha gros fichier (>=200Mo) dia mapiasa `service de stockage` sahala amin `google drive` ary ilay lien an'ilay fichier no alefa ato amin "CNTEMAD repository".
+🛡️ Hajao ny **indentation de code**, ataovy mirindra sy mazava tsara ny code soratanao, afaka mampiasa extension `prettier` raha mampiasa vscode | [style d'indentation ?](https://fr.wikipedia.org/wiki/Style_d'indentation)
 
-🛡️ Ny `nom de dossier & fichier` rehetra dia tsy tokony hisy `caracteres speciaux`, tsara kokoa raha `miniscule` daholo ary soloina `underscore "_"` na `tiret "-"` ny espace.
+🛡️ Hajao ny **convention de commit** fampiasa, ataovy fohy nefa mazava azon'ny rehetra ny `commit` ataonao, tsy asiana `caracteres speciaux` | [commit ?](https://fr.wikipedia.org/wiki/Commit)
 
-🛡️ Ilain'ny mpikambana rehetra ny `commentaire` ao @kaody nosoratanao mba hanamorana ny famakiana azy (commentez intelligemment).
-
-🛡️ Hajao ny `Style d'indentation de code`, ataovy mirindra sy mazava tsara | [style d'indentation ?](https://fr.wikipedia.org/wiki/Style_d'indentation)
-
-🛡️ Hajao hatrany ny `convention de commit` fampiasa, ataovy fohy nefa mazava azon'ny rehetra ny "commit" ataonao, fadio ny caractere speciaux | [commit ?](https://fr.wikipedia.org/wiki/Commit)
-
-🛡️ `Nom de variable` mazava tsara, ary manaraka ny fomba fanoratana `camelCase` | [camelCase ?](https://fr.wikipedia.org/wiki/Camel_case)
-
-🛡️ Mapiasa `TODO list` mba hampilamina ny organisation/priorisation des tâches ny zavatra ho atao.
+🛡️ **Nom de variable** mazava tsara, ary manaraka ny fomba fanoratana `camelCase` | [camelCase ?](https://fr.wikipedia.org/wiki/Camel_case)
 
 <br>
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/gourou.png?raw=true">
 
-<b> **_ Ireto misy principe tsara adopte-na rehefa mi-code _** </b>
+**Ireto misy principe tsara adopte-na rehefa mi-code**
 
     📜️ KISS: Keep It Simple, Stupid!
     La simplicité est la sophistication suprême | un code simple est plus lisible et plus facile à maintenir.
@@ -153,38 +136,40 @@ P/S: Tsara kokoa ilay `stack` raha ireo izay tena fampiasanao ihany no soratana 
 
 <br><br>
 
-# `Guides`
+---
 
-<p align="center">
-  <img width="260" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/help.png?raw=true">
-</p>
+### `📌 Guides`
+
+<div align="center">
+  <img width="150" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/help.png?raw=true">
+</div>
 
 <br>
 
 <div align="center">
 
-|[Creer un compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) 
-|---|
+| [Creer un compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) |
+| --- |
 
 </div>
 
-Toro-lalana ho an'ireo vaovao eto amin'ny `Github`...
+Toro-lalana ho an'ireo membre vaovao tsy mbola mahay `git`...
 
-> [[Tutoriel sur le concept de git pour debutant - video 1h15 version Malagasy](https://fb.watch/5DM7FKnt_q/)]
+- [Concept de git pour debutant - video 1h15 version Malagasy](https://fb.watch/5DM7FKnt_q/)
 
-> [[Gérez du code avec Git et GitHub - OpenClassrooms](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)]
+- [Gérez du code avec Git et GitHub - OpenClassrooms](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
 
-Ity indray natokana ho an'ireo efa mahazo tsara ny concept ny `Git` sy ireo hanao contribution ato amin'ny "CNTEMAD repository" ...
+- [gitvers-tool](https://github.com/RajaRakoto/gitvers-tool-guide) : script iray natao hanamorana ny fampiasana `git`
 
-> [[gitvers-tool](https://github.com/RajaRakoto/gitvers-tool-guide)]
+Ity ny commande atao @ console rehefa manao clone
 
-Rehefa manao clone ny "CNTEMAD repository"
-
-> Tapeo amin terminal/console ity commande ity: `$ git clone --depth 1 https://github.com/RajaRakoto/cntemad-repository`
+```bash
+git clone --depth 1 https://github.com/RajaRakoto/cntemad-repository
+```
 
 <br>
 
-Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` avokoa ireo:
+Outil de versioning (`web app | cli | script`), samy mampiasa `git` avokoa ireo:
 
 <div align=center>
 
@@ -200,11 +185,13 @@ Outil de versioning (`interface graphique | cli | script`), samy mampiasa `GIT` 
 
 <br><br>
 
-# `Membres et utilisateurs`
+---
 
-<p align="center">
-  <img width="250" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/team.png?raw=true">
-</p>
+### `📌 Membres et utilisateurs`
+
+<div align="center">
+  <img width="150" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/team.png?raw=true">
+</div>
 
 <br>
 
@@ -223,109 +210,101 @@ Ireo `membres` sy `utilisateurs` ato amin'ny **CNTEMAD repository**.
 | ♂️ **Moratiana** | - | Info | L1 | BDGL | [Moratiana](https://github.com/Moratiana) | stack: `HTML` `CSS` `Bootstrap` other: `Reseau` |
 | ♂️ **Brillant** | - | Info | L3 | BDGL | [Bri11ant](https://github.com/Bri11ant) | stack: `Python` `Javascript` `Angular` `Ionic` `PHP` `Java` other: `Infographiste` `designer` |
 | ♂️ **Toky** | - | Info | M2 | BDGL | [Gituxmanjaka](https://github.com/gituxmanjaka) | stack: `HTML` `CSS` `Bootstrap` `Javascript` `Typescript` `Python` `Java` |
-| ♂️ **Stany** | - | Info | L3 | BDGL | [Stany Nilaina](https://github.com/StanyNilaina) | stack: `Javascript` `VueJS` `Ionic` `PHP` `Python` `Typescript` `Bootstrap 4` `SemanticUI` `Bash` other: \* |
+| ♂️ **Stany** | - | Info | L3 | BDGL | [Stany Nilaina](https://github.com/StanyNilaina) | stack: `Javascript` `VueJS` `Ionic` `PHP` `Python` `Typescript` `Bootstrap` |
 | ♂️ **Xoder** | - | Info | L1 | BDGL | [Mr xoder](https://github.com/­mrxoder) | stack: `HTML` `CSS` `Javascipt` `PHP` `Python` |
 | ♂️ **a2d** | - | Info | L1 | BDGL | [Annael007](https://github.com/Annael007) | stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio` |
 | ♀️ **Fahendrena** | - | Info | L3 | RS | [Fahendrena](https://github.com/Fahendrena) | stack: `HTML` `CSS` `Javascript` `PHP` `Python` |
 | ♂️ **Wenceslas-Angelo** | - | Info | L1 | BDGL | [Angelo](https://github.com/Wenceslas-Angelo) | stack: `HTML` `CSS` `Javascript` `Python` |
 | ♂️ **ChristianoDc7** | - | Info | L3 | BDGL | [ChristianoDc7](https://github.com/­ChristianoDc7) | stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C` |
-| ♀️ **Fanaingo** | - | Info | L2 | BDGL | [Fanaingo](https://github.com/Fanaingo) | stack: `HTML` `CSS` `Javascript` `C` `PHP` `Bootstrap` |
-| ♂️ **Raja** | `ADMIN` | Info | L3 | BDGL | [Raja Rakotonirina](https://github.com/RajaRakoto) | stack: `SASS` `Javascript` `Typescript` `Bootstrap` `SemanticUI` other: `Photoshop` `Lunacy` |
+| ♀️ **Fanaingo** | - | Info | L2 | BDGL | [Fanaingo](https://github.com/Fanaingo) | stack: `HTML` `CSS` `Javascript` `C` `PHP` `Symfony` |
+| ♂️ **Raja** | `ADMIN` | Info | L3 | BDGL | [Raja Rakotonirina](https://github.com/RajaRakoto) | stack: `Sass` `Javascript` `Typescript` `Bootstrap` other: `Photoshop` |
 
 </div>
 
 <br><br>
 
-# `Drive`
+---
+
+### `📌 Drive`
 
 <div align="center">
 
-<p align="center">
-  <img width="210" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/drive.png?raw=true">
-</p>
+  <img width="150" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/drive.png?raw=true">
 
 <br>
 
-| [Creer un compte Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp) | [Google DRIVE](https://drive.google.com/) |
+| [Creer un compte Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp) | [Google drive](https://drive.google.com/) |
 | --- | --- |
 
 </div>
 
-<div align="center">
-
-`Google drive` ho an'izay mbola tsy mahalala dia `service de stockage en ligne (cloud)` iray an'ny Google. Inona no hifandraisany amin'ity projet ity ? tsara fantantsika fa misy fetrany ny zavatra azontsika tehirizina ato @github, eo @ `500Mo` eo no nomena ny `depot` iray ka noho izany no antony hampiasana ity service ity. `Google drive` dia manana "capacite de stockage" hatramin'ny `15Go` isakin'ny compte iray.
-
-</div>
+**Google drive** dia `service de stockage en ligne` izay tantanin'ny Google. _Inona no hifandraisany amin'ity projet ity ?_ tsara ho fantantsika fa misy `fetrany` ny zavatra azontsika tehirizina (documents, videos, images, etc...) ato @github, eo @ **500Mo** eo no nomena ny depot iray ka noho izany mampiasa `Google drive` isika mba hazaoana `capacite de stockage` hatramin'ny **15Go** isakin'ny compte google iray.
 
 <br>
 
 <div align="center">
 
-<b> 🄽🅈 🄵🄾🄼🄱🄰 🄵🄰🄼🄿🄸🄰🅂🄰🄽🄰 🄰🅉🅈 (misy dingana 5) </b>
+**Tahaka izao ny fampiasana azy**
 
 </div>
 
-    1. Mamorona `compte google (gmail)` ary tonga dia omena anao maimaim-poana avy hatrany io `15go` io vao vita izay.
-
-    2. Rehefa connectE amin'ilay compte isika dia miditra ao amin'ny [Google DRIVE](https://drive.google.com/).
-
-    3. Rehefa ao ianreo dia mahita `interface "Mon drive"` sahala amin'ireny "gestionnaire de fichier" ny "telephone" na "ordinateur" anareo ireny: Ao ianareo afaka manao `importation/exportation` fichier(s), `creer/supprimer dossier/fichier(s)`, miditra amin'nireo karazana `applications google` hafa (google docs[mitovy @word], google sheets[mitovy @excel], google slides[mitovy @powerpoint], ary mbola misy maro samihafa ...).
-
-    4. Ireto avy ary ny atao rehefa hampiditra fichier ao ianareo:
-
-        * Miditra ao @ app [Google DRIVE](https://drive.google.com/) ianareo.
-
-        * Click droite > Importer des fichiers.
-
-        * Safidinareo ilay fichier ho zarainareo (tsara koakoa raha `compressE` ilay izy vao manao importation ianareo - voir section [Tips & Tricks])
-
-        * Rehefa vita ny importation dia stockE zay ilay donnees, click droite eo @ilay fichier ary `Obtenir le lien`, dia afaka mizara azy @alalan'ny "LIEN PUBLIC" ny Google drive ianareo. Manana choix roa ianareo @fomba fizarana azy:
-
-            1. partage "LimitE": izany hoe izay olona nomenareo autorisation ihany no afaka maka azy.
-            2. partage "Publique": izay olona rehetra mahita ilay LIEN nomenareo ka miditra ao (ity no mahaliana antsika).
-
-        * Rehefa vita ny safidy ny mode de partage dia tsindrio ny `copier le lien` ary raha tianareo ho eto @lisitra izany (ho zarainareo en public) dia miresaka @Admin na moderateur (izay hitanareo eo @Mpandray anjara) na alefanareo @adresse e-mail|facebook (@farany ambany ny pejy) dia verifiE ny admin/moderateur ary integrE-ny @CNTEMAD repository avy eo.
+- Mamorona `compte google (gmail)` (raha mbola tsy manana) ary tonga dia omena anao maimaim-poana avy hatrany io `15go` io vao vita izay.
+- Rehefa connectE amin'ilay compte dia miditra ao amin'ny [Google drive](https://drive.google.com/).
+- Rehefa tafiditra ao dia mahita `interface "Mon drive"` sahala amin'ireny `gestionnaire de fichier` mahazatra ireny ihany: ao no afaka manao `importation/exportation` fichier(s), `creer/supprimer dossier/fichier(s)`, miditra amin'ireo karazana `applications google` (docs, sheets, forms, ...)
+- Ireto avy ary ny atao rehefa hampiditra fichier ao:
+  - Miditra ao @ app [Google drive](https://drive.google.com/).
+  - Click droite > Importer des fichiers.
+  - Safidina ilay fichier ho partage-na (tsara koakoa raha `compressE` ilay izy vao manao importation)
+  - Rehefa vita ny importation dia stockE zay ilay donnees, click droite eo @ilay fichier ary `obtenir le lien`, dia afaka mizara azy @alalan'ny `lien public`. Manana choix roa @fomba fizarana azy:
+    1. `partage limite` - izany hoe izay olona nomena autorisation ihany no afaka maka azy.
+    2. `partage publique` - izay olona rehetra mahita ilay lien dia manana acces avokoa.
+  - Rehefa vita ny safidy dia tsindrio ny `copier le lien` dia afaka miresaka @admin
 
 <br>
 
 <div align="center">
 
-<b> 🄸🅁🄴🄾 🅃🄰🄷🄸🅁🅈 🄰🄾 @🄶🄾🄾🄶🄻🄴 🄳🅁🄸🅅🄴 </b>
+**Ireo tahiry ao @ google drive**
 
 </div>
 
 ---
 
-**W3SCHOOL** offline | size: **372Mo** | added by ♂️ **Raja**
-
-<img align="right" width="200" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/W3Schools.png?raw=true">
+**W3SCHOOL** offline | size: **372Mo** | added by **Raja** <img align="right" width="150" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/W3Schools.png?raw=true">
 
 | [download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing) | [demo 💻️](https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/w3school_demo.gif?raw=true) |
 | --- | --- |
 
-    Site web (offline) fianarana ireo tehno web isankarazany
+> Site web (offline) fianarana ireo tehno web isankarazany
 
 ---
 
 <br><br>
 
-# `Tips & Tricks`
+### `📌 Tips & Tricks`
 
 <div align="center">
 
-<p align="center">
   <img width="240" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/tt.png?raw=true">
-</p>
 
 </div>
 
 <div align="center">
 
-Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana atuces kely izay mety ilain'ny rehetra amin'ny fampiasana ny <b>"CNTEMAD repository"</b>, tsindrio fotsiny ilay [💡️] izay eo anilan'ilay theme tianao fantarina.
+Hitantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana astuces kely na zavatra mety ilain'ny rehetra ato @ **CNTEMAD repository**, tsindrio fotsiny ilay [💡️] eo anilan'ilay zavatra tianao fantarina.
 
 </div>
-
 <br>
+
+---
+
+**4web** [[💡️](https://github.com/RajaRakoto/4web)]
+
+<div align="center">
+<img src="https://github.com/RajaRakoto/github-docs/blob/master/4web/4web.png?raw=true" width="200">
+</div>
+
+**4web** dia repo iray haitana ireo `collection/list` ny `outils, liens utiles, bibliotheque, framework, packages NPM, TUTO` rehetra mety ilaina @ resaka `developpement web`. Hatreto aloha dia `frontend` no tena hita ao fa miampy tsikelikely miandalana eny ihany ny sasany...
 
 ---
 
@@ -333,7 +312,7 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana atuces kel
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/git.png?raw=true">
 
-    Ato daholo ny commande de base ny GIT, tsara raha manao test en local rehefa manandrana commande...
+Ato daholo ny `commande de base ny git`, tsara raha manao test en local rehefa manandrana commande...
 
 ---
 
@@ -341,9 +320,7 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana atuces kel
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/commit.png?raw=true">
 
-    Tsara foana isika rehefa manao "commit" dia manaraka convention mba ho mora amin'ny rehetra ny mamaky azy aveo.
-    Mety misy "manipulation specifique" nataonao ka tsy hitanao ao amin'ny "modele de commit" ilay "type de commit" dia tsara raha manaraka ilay structure
-    <type> (<specify>): <topic> | <description> dia efa mety. Izany hoe foroninao ilay <type> ...
+Tsara foana isika rehefa manao `commit` dia manaraka convention
 
 ---
 
@@ -351,9 +328,9 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana atuces kel
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/archive.png?raw=true">
 
-    Ny compression de donnees dia miaro azy amin'ny "programme malveillant" sy manampy @resaka vitesse de "upload|download".
+Ny compression de donnees dia miaro azy amin'ny `programme malveillant` sy manampy @resaka vitesse de `upload|download`.
 
-    Ho an'ny mpampiasa Windows ilay lien eo ambony, fa raha sous GNU/Linux dia sahala amin'izao no fanaovana compression/decompression:
+Ho an'ny mpampiasa Windows ilay lien eo ambony, fa raha sous GNU/Linux dia sahala amin'izao:
 
         [compression]:--->$ tar cvfz <ilay sortie: <mon-fichier>.tar.gz> <ilay entrer: mon-fichier>
         [ohatra]:-------->$ tar cvfz exercices-maths.tar.gz exercices-maths
@@ -361,21 +338,11 @@ Ho itantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana atuces kel
 
 ---
 
-<i>
-📢️ P/S: Raha misy soso-kevitra na fanatsarana momba an'ny "CNTEMAD repository" tianao atao dia alefaso mail na facebook @ lien eo ambany
-</i>
+###### 📢️ P/S: Raha misy soso-kevitra na fanatsarana momba an'ny "CNTEMAD repository" tianao atao dia alefaso mail na facebook @ lien eo ambany
 
 <br><br>
 
-<p align="center">
+<div align="center">
 <a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="50" width="50" /></a> 
 <a href="https://web.facebook.com/cntemad.agent" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="50" width="50" /></a>
-</p>
-
-<br>
-
-<div align="center">
-
-<h1>ℳ𝒾𝓇𝒶𝓇𝓎 𝒻𝒶𝒽ℴ𝓂𝒷𝒾𝒶𝓏𝒶𝓃𝒶 𝒽ℴ 𝒶𝓃𝓉𝓈𝒾𝓀𝒶 𝓇ℯ𝒽ℯ𝓉𝓇𝒶 !</h1>
-
 </div>
