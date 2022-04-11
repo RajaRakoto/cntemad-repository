@@ -14,7 +14,7 @@
 
 <img width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/index_anim.gif?raw=true">
 
-| [A propos](#-a-propos) | [Regles](#-regles) | [Guides](#-guides) | [Membres et utilisateurs](#-membres-et-utilisateurs) | [Drive](#-drive) | [Tips&Tricks](#-tips--tricks) |
+| [A propos](#-a-propos) | [Guides](#-guides) | [Regles](#-regles) | [Membres et utilisateurs](#-membres-et-utilisateurs) | [Drive](#-drive) | [Tips&Tricks](#-tips--tricks) |
 | --- | --- | --- | --- | --- | --- |
 
 </div><br>
@@ -78,7 +78,52 @@ Lorsque vous êtes vraiment prêt(e) à nous rejoindre, `veillez completer les f
 
 <br><br>
 
----
+### `📌 Guides`
+
+<div align="center">
+  <img width="150" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/help.png?raw=true">
+</div>
+
+<br>
+
+<div align="center">
+
+| [Creer un compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) |
+| --- |
+
+</div>
+
+Toro-lalana ho an'ireo membre vaovao tsy mbola mahay `git`...
+
+- [Concept de git pour debutant - video 1h15 version Malagasy](https://fb.watch/5DM7FKnt_q/)
+
+- [Gérez du code avec Git et GitHub - OpenClassrooms](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
+
+- [gitvers-tool](https://github.com/RajaRakoto/gitvers-tool-guide) : script iray natao hanamorana ny fampiasana `git`
+
+Ity ny commande atao @ console rehefa manao clone
+
+```bash
+git clone --depth 1 https://github.com/RajaRakoto/cntemad-repository
+```
+
+<br>
+
+Outil de versioning (`web app | cli | script`), samy mampiasa `git` avokoa ireo:
+
+<div align=center>
+
+| Outil | Plateforme | Download | Tuto | Github |
+| :-- | :-- | :-- | :-- | :-- |
+| **Sourcetree** | Windows | [download ⬇](https://www.sourcetreeapp.com/) | [tuto 🎬️](https://grafikart.fr/tutoriels/source-tree-592) | - |
+| **Gitbash** | Windows - GNU/Linux | [download ⬇](https://git-scm.com/downloads) | - | - |
+| **Gitkraken** | Windows - GNU/Linux | [download ⬇](https://www.gitkraken.com/download) | [tuto 🎬️](https://grafikart.fr/tutoriels/gitkraken-749) | - |
+| **UNGIT** | GNU/Linux | [download ⬇](https://github.com/FredrikNoren/ungit) | [tuto 🎬️](https://grafikart.fr/tutoriels/ungit-437) | [github 🔗](https://github.com/FredrikNoren/ungit) |
+| **gitvers-tool** | GNU/Linux | [download ⬇](https://github.com/RajaRakoto/gitvers-tool) | - | [github 🔗](https://github.com/RajaRakoto/gitvers-tool-guide) |
+
+</div>
+
+<br><br>
 
 ### `📌 Regles`
 
@@ -136,57 +181,6 @@ Lorsque vous êtes vraiment prêt(e) à nous rejoindre, `veillez completer les f
 
 <br><br>
 
----
-
-### `📌 Guides`
-
-<div align="center">
-  <img width="150" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/help.png?raw=true">
-</div>
-
-<br>
-
-<div align="center">
-
-| [Creer un compte Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) |
-| --- |
-
-</div>
-
-Toro-lalana ho an'ireo membre vaovao tsy mbola mahay `git`...
-
-- [Concept de git pour debutant - video 1h15 version Malagasy](https://fb.watch/5DM7FKnt_q/)
-
-- [Gérez du code avec Git et GitHub - OpenClassrooms](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
-
-- [gitvers-tool](https://github.com/RajaRakoto/gitvers-tool-guide) : script iray natao hanamorana ny fampiasana `git`
-
-Ity ny commande atao @ console rehefa manao clone
-
-```bash
-git clone --depth 1 https://github.com/RajaRakoto/cntemad-repository
-```
-
-<br>
-
-Outil de versioning (`web app | cli | script`), samy mampiasa `git` avokoa ireo:
-
-<div align=center>
-
-| Outil | Plateforme | Download | Tuto | Github |
-| :-- | :-- | :-- | :-- | :-- |
-| **Sourcetree** | Windows | [download ⬇](https://www.sourcetreeapp.com/) | [tuto 🎬️](https://grafikart.fr/tutoriels/source-tree-592) | - |
-| **Gitbash** | Windows - GNU/Linux | [download ⬇](https://git-scm.com/downloads) | - | - |
-| **Gitkraken** | Windows - GNU/Linux | [download ⬇](https://www.gitkraken.com/download) | [tuto 🎬️](https://grafikart.fr/tutoriels/gitkraken-749) | - |
-| **UNGIT** | GNU/Linux | [download ⬇](https://github.com/FredrikNoren/ungit) | [tuto 🎬️](https://grafikart.fr/tutoriels/ungit-437) | [github 🔗](https://github.com/FredrikNoren/ungit) |
-| **gitvers-tool** | GNU/Linux | [download ⬇](https://github.com/RajaRakoto/gitvers-tool) | - | [github 🔗](https://github.com/RajaRakoto/gitvers-tool-guide) |
-
-</div>
-
-<br><br>
-
----
-
 ### `📌 Membres et utilisateurs`
 
 <div align="center">
@@ -222,8 +216,6 @@ Ireo `membres` sy `utilisateurs` ato amin'ny **CNTEMAD repository**.
 </div>
 
 <br><br>
-
----
 
 ### `📌 Drive`
 
@@ -310,7 +302,9 @@ Hitantsika ato amin'ny section `Tips & Tricks` avokoa ireo karazana astuces kely
 
 **Aide memoire git** [[💡️](https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/pdf/github-git-cheat-sheet.pdf)]
 
-<img align="right" width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/git.png?raw=true">
+<div align="center">
+<img width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/git.png?raw=true">
+</div>
 
 Ato daholo ny `commande de base ny git`, tsara raha manao test en local rehefa manandrana commande...
 
@@ -318,7 +312,9 @@ Ato daholo ny `commande de base ny git`, tsara raha manao test en local rehefa m
 
 **Ny convention de commit** [[💡️](https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/txt/commit-template)]
 
-<img align="right" width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/commit.png?raw=true">
+<div align="center">
+<img width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/commit.png?raw=true">
+</div>
 
 Tsara foana isika rehefa manao `commit` dia manaraka convention
 
@@ -326,7 +322,9 @@ Tsara foana isika rehefa manao `commit` dia manaraka convention
 
 **Ny fomba fanaovana compression de donnees** [[💡️](https://www.malekal.com/7zip-compresser-decompresser-fichiers-zip-rar-7z-iso/)]
 
-<img align="right" width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/archive.png?raw=true">
+<div align="center">
+<img width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/archive.png?raw=true">
+</div>
 
 Ny compression de donnees dia miaro azy amin'ny `programme malveillant` sy manampy @resaka vitesse de `upload|download`.
 
