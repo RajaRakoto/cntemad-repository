@@ -55,7 +55,7 @@ Lorsque vous êtes vraiment prêt(e) à nous rejoindre, `veillez completer les f
 
 <br>
 
-**Formulaire**
+**Formulaire** (modele)
 
 ```
 📍 Pseudo : Rakoto
@@ -63,8 +63,8 @@ Lorsque vous êtes vraiment prêt(e) à nous rejoindre, `veillez completer les f
 📍 Filiaire : Info
 📍 Parcours : BDGL
 📍 Github : https://github.com/Rakoto
-📍 stack : HTML, CSS, Bootstrap, MySQL, PHP
-📍 others: Competences & centre d'interet hafa raha misy (Musique, arts, etc...)
+📍 Stack : HTML, CSS, Bootstrap, MySQL, PHP
+📍 Others: Competences & centre d'interet hafa raha misy (Musique, arts, etc...)
 ```
 
 > **NOTE**: Tsara kokoa ilay `stack` raha ireo izay tena fampiasanao ihany no soratana
