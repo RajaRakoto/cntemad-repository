@@ -204,6 +204,8 @@ Ireo `membres` sy `utilisateurs` ato amin'ny **CNTEMAD repository**.
 
 | Pseudo | Role | Filiaire | Niveau | Parcours | Github | Skill(s) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| ♂️ **TinaniainaHassan12** | - | Info | M1 | RS | [TinaniainaHassan12](https://github.com/TinaniainaHassan12) | stack: `HTML` `CSS` `Javascript` `Bootstrap` `PHP` `Wordpress` |
+| ♂️ **Jonathan** | - | Info | L1 | BDGL | [Jonathan](https://github.com/Jonathanrazakalalaina) | stack: `HTML` `CSS` `Javascript` Others: `lecture` `jeux vidéos` |
 | ♂️ **Ma Ranaivoson** | - | Info | L3 | BDGL | [Ma Ranaivoson](https://github.com/ma-ranaivoson) | stack: `Javascript` `Typescript` `Java` |
 | ♂️ **Mendrika** | - | Info | L3 | BDGL | [Mendrika](https://github.com/Mendrika) | stack: `HTML` `C` other: `Psychologie` |
 | ♂️ **Rivo** | - | Info | L2 | BDGL | [Rivo](https://github.com/Rivo) | stack: `HTML` `CSS` `Bootstrap` `Javascript` `Jquery` `PHP` `Python` `Java` `C` `Wordpress` others: `Anglais` |
