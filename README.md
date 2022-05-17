@@ -206,19 +206,19 @@ Ireo `membres` sy `utilisateurs` ato amin'ny **CNTEMAD repository**.
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ♂️ **TinaniainaHassan12** | - | Info | M1 | RS | [TinaniainaHassan12](https://github.com/TinaniainaHassan12) | stack: `HTML` `CSS` `Javascript` `Bootstrap` `PHP` `Wordpress` |
 | ♂️ **Jonathan** | - | Info | L1 | BDGL | [Jonathan](https://github.com/Jonathanrazakalalaina) | stack: `HTML` `CSS` `Javascript` Others: `lecture` `jeux vidéos` |
-| ♂️ **Ma Ranaivoson** | - | Info | L3 | BDGL | [Ma Ranaivoson](https://github.com/ma-ranaivoson) | stack: `Javascript` `Typescript` `Java` |
+| ♂️ **Ma Ranaivoson** | - | Info | M1 | BDGL | [Ma Ranaivoson](https://github.com/ma-ranaivoson) | stack: `Javascript` `Typescript` `Java` |
 | ♂️ **Mendrika** | - | Info | L3 | BDGL | [Mendrika](https://github.com/Mendrika) | stack: `HTML` `C` other: `Psychologie` |
 | ♂️ **Rivo** | - | Info | L2 | BDGL | [Rivo](https://github.com/Rivo) | stack: `HTML` `CSS` `Bootstrap` `Javascript` `Jquery` `PHP` `Python` `Java` `C` `Wordpress` others: `Anglais` |
 | ♂️ **Sarobidy** | - | Info | L2 | - | [Sarobidy](https://github.com/Sarobidy) | stack: `HTML` `CSS` `Visual basic` `Javascript` `C` |
 | ♂️ **JM Rakoto** | - | Info | M2 | BDGL | [JM Rakoto](https://github.com/jmRakoto) | stack: `Javascript` `Typescript` `Dart` `Flutter` |
-| ♀️ **Woutnak** | - | Info | L3 | BDGL | [Woutnak](https://github.com/Woutnak) | stack: `HTML` `CSS` `Bootstrap` `Javascript` other: `Management` |
+| ♀️ **Woutnak** | - | Info | M1 | BDGL | [Woutnak](https://github.com/Woutnak) | stack: `HTML` `CSS` `Bootstrap` `Javascript` other: `Management` |
 | ♂️ **Moratiana** | - | Info | L1 | BDGL | [Moratiana](https://github.com/Moratiana) | stack: `HTML` `CSS` `Bootstrap` other: `Reseau` |
-| ♂️ **Brillant** | - | Info | L3 | BDGL | [Bri11ant](https://github.com/Bri11ant) | stack: `Python` `Javascript` `Angular` `Ionic` `PHP` `Java` other: `Infographiste` `designer` |
+| ♂️ **Brillant** | - | Info | M1 | BDGL | [Bri11ant](https://github.com/Bri11ant) | stack: `Python` `Javascript` `Angular` `Ionic` `PHP` `Java` other: `Infographiste` `designer` |
 | ♂️ **Toky** | - | Info | M2 | BDGL | [Gituxmanjaka](https://github.com/gituxmanjaka) | stack: `HTML` `CSS` `Bootstrap` `Javascript` `Typescript` `Python` `Java` |
-| ♂️ **Stany** | - | Info | L3 | BDGL | [Stany Nilaina](https://github.com/StanyNilaina) | stack: `Javascript` `VueJS` `Ionic` `PHP` `Python` `Typescript` `Bootstrap` |
+| ♂️ **Stany** | - | Info | M1 | BDGL | [Stany Nilaina](https://github.com/StanyNilaina) | stack: `Javascript` `VueJS` `Ionic` `PHP` `Python` `Typescript` `Bootstrap` |
 | ♂️ **Xoder** | - | Info | L1 | BDGL | [Mr xoder](https://github.com/­mrxoder) | stack: `HTML` `CSS` `Javascipt` `PHP` `Python` |
 | ♂️ **a2d** | - | Info | L1 | BDGL | [Annael007](https://github.com/Annael007) | stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio` |
-| ♀️ **Fahendrena** | - | Info | L3 | RS | [Fahendrena](https://github.com/Fahendrena) | stack: `HTML` `CSS` `Javascript` `PHP` `Python` |
+| ♀️ **Fahendrena** | - | Info | M1 | RS | [Fahendrena](https://github.com/Fahendrena) | stack: `HTML` `CSS` `Javascript` `PHP` `Python` |
 | ♂️ **Wenceslas-Angelo** | - | Info | L1 | BDGL | [Angelo](https://github.com/Wenceslas-Angelo) | stack: `HTML` `CSS` `Javascript` `Python` |
 | ♂️ **ChristianoDc7** | - | Info | L3 | BDGL | [ChristianoDc7](https://github.com/­ChristianoDc7) | stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C` |
 | ♀️ **Fanaingo** | - | Info | L3 | BDGL | [Fanaingo](https://github.com/Fanaingo) | stack: `HTML` `CSS` `Javascript` `C` `PHP` `Symfony` |
