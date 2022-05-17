@@ -221,8 +221,8 @@ Ireo `membres` sy `utilisateurs` ato amin'ny **CNTEMAD repository**.
 | ♀️ **Fahendrena** | - | Info | L3 | RS | [Fahendrena](https://github.com/Fahendrena) | stack: `HTML` `CSS` `Javascript` `PHP` `Python` |
 | ♂️ **Wenceslas-Angelo** | - | Info | L1 | BDGL | [Angelo](https://github.com/Wenceslas-Angelo) | stack: `HTML` `CSS` `Javascript` `Python` |
 | ♂️ **ChristianoDc7** | - | Info | L3 | BDGL | [ChristianoDc7](https://github.com/­ChristianoDc7) | stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C` |
-| ♀️ **Fanaingo** | - | Info | L2 | BDGL | [Fanaingo](https://github.com/Fanaingo) | stack: `HTML` `CSS` `Javascript` `C` `PHP` `Symfony` |
-| ♂️ **Raja** | `ADMIN` | Info | L3 | BDGL | [Raja Rakotonirina](https://github.com/RajaRakoto) | stack: `Sass` `Javascript` `Typescript` `Bootstrap` other: `Photoshop` |
+| ♀️ **Fanaingo** | - | Info | L3 | BDGL | [Fanaingo](https://github.com/Fanaingo) | stack: `HTML` `CSS` `Javascript` `C` `PHP` `Symfony` |
+| ♂️ **Raja** | `ADMIN` | Info | M1 | BDGL | [Raja Rakotonirina](https://github.com/RajaRakoto) | stack: `Sass` `Javascript` `Typescript` other: `Photoshop`, `dessin` |
 
 </div>
 
