@@ -1,0 +1,46 @@
+/* Question: Quelles sont les ressemblances et les differences entre c++ et java */
+
+// --- similitudes ---
+- Ces 2 langages prennent en charge la programmation orientée objet ce qui permet l'utilisation d'une class pour créer un objet en incluant la notion d’héritage, polymorphisme, abstraction et encapsulation
+
+- Au niveau de la syntaxe général comme la condition et boucle, ils ont a peu près la même syntaxe mais java est un peu verbeux que c++
+
+- Les 2 ont les mêmes opérateurs arithmétiques et relationnels
+
+- La syntaxe au niveau des commentaires sont tous identiques. // ... pour un commentaire mono-ligne et /* ... */ pour un commentaire multi-lignes
+
+- L’exécution des programme de ces 2 langages commence a partir de la fonction principale main()
+
+- Ils ont les mêmes type de données primitifs comme char, int, float, double sauf le type booléen qui est boolean en java et bool en c++
+
+- Les 2 langages ont un support multi-threading pour réaliser le multitâche
+
+-------------------------
+
+// --- differences ---
+- La signature d'une méthode en c++ est la précision d'une méthode, du type, de ses arguments et du type de donnée retournée. En Java, ce dernier n'en fait pas partie.
+
+- En java, comme beaucoup de langages a objets, il n'existe pas de destructeur car la libération de la mémoire est gérée automatiquement par le "Garbage Collector" (gestion de la mémoire).
+
+- En c++, une méthode peut être reliée a une class grâce a l’opérateur de portée "::" ce qui n'est pas le cas lors de la création d'une méthode dans une class java
+
+- La directive "new" est obligatoire pour instancier un objet en java
+
+- Java ne supporte pas la surcharge des opérateurs contrairement a c++
+
+- Java ne permet pas l’héritage multiple a cause de la complexité de l’implémentation pour les compilateurs java mais cela a été résolu par la notion d'interface qui permet de récupérer la plupart des fonctionnalités de l’héritage multiple en c++
+
+- Dans le domaine de l'application: c++ est mieux adapté au développement de grands logiciels comme le système de gestion des employés, le système de réservation de passagers tandis que java peut être utilisé pour développer des applications de communication/internet comme protocoles réseau, navigateur web, etc ...
+
+--------------------------------------------------
+
+/* Question: Pourquoi l'approche objet est elle un approche bien adaptEe au logiciel actuellement ? */
+
+- L'approche objet aide a mieux organiser la complexité inhérente aux logiciels et celle caractéristique du monde réel a modéliser ce qui donne la possibilité de programmer par composants et facilite la réutilisation du code dans un cadre différent
+
+--------------------------------------------------
+
+/* Question: Qu'est ce qui fait qu'un logiciel "objet" s'avere theoriquement mieux adaptE a la prise en compte d'evolutions fonctionnelles qu'un logiciel programmE en programmation procedurale ? */
+
+En programmation orientée objet, les données prennent plus d'importance que les fonctions du programme, ce qui corrige les défauts de la programmation procédurale en introduisant le concept "objet" et "classe" avec les spécificateurs d'accès pour les données afin d'améliorer sa sécurité, les données et les fonctions membres de chaque objet individuel agissent alors comme une seule unité. Cela dit que la programmation orientée objet permet de créer plusieurs instances de l'objet sans aucune interférence et communique entre elles par le biais de messages.
+
