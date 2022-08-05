@@ -1,0 +1,38 @@
+{
+  "name": "cntemad-repository",
+  "version": "1.0.0",
+  "description": "Repository for students of \"Computer Science\" CNTEMAD department who wish to help each other and share their knowledge...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajaRakoto/cntemad.git"
+  },
+  "keywords": [
+    "cntemad",
+    "repository",
+    "student",
+    "computer-science",
+    "community",
+    "university",
+    "network",
+    "dev",
+    "informatique",
+    "africa",
+    "l1",
+    "l2",
+    "l3",
+    "m1",
+    "m2",
+    "madagascar",
+    "archive"
+  ],
+  "author": "Raja RAKOTONIRINA",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RajaRakoto/cntemad/issues"
+  },
+  "homepage": "https://github.com/RajaRakoto/cntemad#readme"
+}
