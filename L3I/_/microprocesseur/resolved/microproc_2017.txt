@@ -1,0 +1,60 @@
+Q1: Dessinez et expliquez l'architecture de base d'un microprocesseur
+R1: Un microprocesseur est composE de 2 elements principaux, l'unitE de commande et l'unitE de traitement.
+
+Tout d'abord, l'unitE de commande permet de sequencer le deroulement des instructions, effectue la recherche en memoire de l'instruction et decode les instructions a executer, l'unitE de commande est egalement composEe par:
+
+    - Le compteur de programme: contiens l'adresse de l'instruction a executer
+    - Le registre d'instruction & decodeur d'instruction: range les instructions a executer dans le registre d'instruction puis decodEes par le decodeur d'instruction
+    - Bloc logique de commande (ou sequenceur): organise l'execution des instructions au rythme d'une horloge
+
+Tandis que l'unitE de traitement qui est egalement le coeur du microprocesseur regroupe les circuits qui assurent les traitements necessaires a l'execution des instructions, ceci est composEe par:
+
+    - L'UAL (UnitE Arithmetique et Logique): un circuit complexe qui assure les fonctions logiques ou arithmethiques
+    - Le registre d'etat: generalement composE de 8bits dont chacun de ces bits est un indicateur et son etat depend du resultat de la derniere operation de l'UAL
+    - Les accumulateurs: ce sont des registres de travail qui stocke un operande au debut d'une operation arithmethique, et le resultat a la fin de l'operation
+
+-------------
+
+Q2: Quelle est le role du sequenceur ?
+R2: Il organise l'execution des instructions au rythme d'une horloge et elabore tous les signaux de synchronisation internes ou externes (bus de commande) du microprocesseur en fonction des divers signaux de commande provenant du decodeur d'instruction ou du registre d'etat
+
+-------------
+
+Q3: Qu'est ce qu'un UAL et comment fonctionne t-il ?
+R3: un circuit complexe qui assure les fonctions logiques ou arithmethiques du microprocesseur, elle est composEe de circuits logiques tels que les additionneurs, soustracteurs, comparateurs logiques ..., afin d'effectuer les calculs et les operations logiques des differents instructions a executer, les donnees a traiter se presentant aux entrEes de l'UAL, sont traitEes, puis le resultat est fourni en sortie et generalement stockE dans un registre dit accumulateur. Les informations qui concernent l'operation sont envoyEes vers le registre d'etat
+
+-------------
+
+Q4: Quelle est la difference entre un architecture RISC et SISC ?
+R4:
+=== CISC ===
+Ex : intel
+ Instru. complexes prenant plusieurs cycles
+ Instru. au format variable
+ Decodeur complexe (micro-code)
+ Peu de registres
+ Toutes les instructions sont susceptibles d’acceder à la mém.
+ Bcp de modes d’adressage
+ Compilateur simple
+
+=== RISC ===
+Ex : android
+ Instru. simples ne prenant qu’un seul cycle
+ Instru. au format fixe
+ Decodeur simple (câblé)
+ Bcp de registres
+ Seules les instru. LOAD et STORE ont accès à la mém.
+ Peu de modes d’adressage
+ Compilateur complexe
+
+-------------
+
+Q5: En termes de performance expliquez la formule suivante :
+
+    G = nk / k + (n - 1)
+
+R5: G signifie le gain obtenu qui depend du nombre d'etages du pipeline.
+    Pour executer n instructions, en supposant que chaque instruction s'execute en k cycles d'horloge, il faut:
+        - nk cycles d'horloge pour une execution sequentielle
+        - k cycle d'horloge pour executer la premiere instruction puis n-1 cycles pour les n-1 instructions suivantes si on utilise un pipeline de k etages
+    Donc lorsque le nombre n d'instruction a executer est grand par rapport a k, on peut admettre qu'on divise le temps d'execution par k

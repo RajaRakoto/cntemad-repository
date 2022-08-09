@@ -1,0 +1,30 @@
+ 	body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+	}
+
+	section {
+	border: solid 2px #444;
+	margin: 10px 100px;
+	padding: 20px;
+	}
+	
+	section h3 {
+	text-align: center;
+	}
+	
+	section table {
+	margin: auto;
+	text-align: center;
+	}
+	
+	section table tr td {
+	border: solid 1px #444;
+	padding: 10px;
+	}
+	
+	section table tr th {
+	border: solid 2px #444;
+	padding: 10px;
+	background-color: #999;
+	color: #eee;
+	}

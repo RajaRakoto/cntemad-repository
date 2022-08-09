@@ -1,0 +1,47 @@
+Q1: Qu'est ce qu'une instruction ?
+R1: Une ou plusieurs étape(s) dans la programmation informatique qui dicte à l'ordinateur l'action nécessaire qu'il doit effectuer avant de passer à l'instruction suivante
+
+-------------
+
+Q2: Que contient la registre d'instruction ?
+R2: Ce registre contient l'instruction qui doit etre traitEe par le microprocesseur, cette instruction est recherchEe en memoire puis placEe dans ce registre pour etre decodEe par le decodeur et preparEe pour l'execution
+
+-------------
+
+Q3: Expliquez le fonctionnement de la gestion de pile en LIFO
+R3: Une pile ou stack en anglais stocke un ensemble d’éléments en suivant l’ordre linéaire dans lequel les opérations sont appliquées, les piles sont basées sur le principe LIFO qui signifie Last In First Out: le dernier rentré sera le premier à sortir.
+
+-------------
+
+Q4: Que signifie les sigles CPI et MIPS et expliquez leur utilitE ?
+R4:
+- CPI signifie Cycle Par Instruction
+- MIPS signifie Millions d'Instructions Par Seconde
+Le MIPS represente la puissance de traitement du microprocesseur que l'on peut obtenir grace a la relation MIPS = Fh / CPI. Donc pour augmenter les perf. d'un microproc., soit on augmente la freq. d'horloge Fh, soit diminuer le le choix d'un jeu d'instruction adaptE qui est representE par le CPI
+
+-------------
+
+Q5: Quel est le role du sequenceur ?
+R5: Il organise l'execution des instructions au rythme d'une horloge et elabore tous les signaux de synchronisation internes ou externes (bus de commande) du microprocesseur en fonction des divers signaux de commande provenant du decodeur d'instruction ou du registre d'etat
+
+-------------
+
+Q6: Transformez les nombres decimal suivant en binaire puis en Hexadecimal :
+
+    a) 231
+    b) 56
+
+-------------
+
+Q7: Expliquez le principe de l'architecture pipeline et donnez un exemple de calcul en utilisant cette architecture
+R7:
+- Principe: L'execution d'une instruction est decomposEe en une succession d'etapes et chaque etape correspond a l'utilisation d'une des fonctions du microprocesseur. Lorsqu'une instruction se trouve dans l'une des etapes, les composants associEs aux autres etapes ne sont pas utilisEs. Le fonctionnement d'un microprocesseur simple n'est donc pas efficace. L'architecture pipeline permet alors d'ameliorer l'efficacitE du microprocesseur
+- Exemple de calcul:
+
+    G = nk / k + (n - 1)
+
+    G signifie le gain obtenu qui depend du nombre d'etages du pipeline.
+    Pour executer n instructions, en supposant que chaque instruction s'execute en k cycles d'horloge, il faut:
+        - nk cycles d'horloge pour une execution sequentielle
+        - k cycle d'horloge pour executer la premiere instruction puis n-1 cycles pour les n-1 instructions suivantes si on utilise un pipeline de k etages
+    Donc lorsque le nombre n d'instruction a executer est grand par rapport a k, on peut admettre qu'on divise le temps d'execution par k

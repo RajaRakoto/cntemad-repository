@@ -1,9 +1,0 @@
-VUES (principe)
- - Les données ne sont pas stockées dans les vues mais seuls les liens vers les données y sont stockés (table virtuelle), ce qui signifie que les vues ne prennent pas de place sur le serveur de données
- 
-VUES (utilitaires)
- - Permet de restreindre l'accès aux données d'une table (Ex : voir l'adresse d'un employé sans voir son salaire)
- 
- - Permet de regrouper les données de plusieurs tables en une seule table pour avoir une requête plus simple (alternative à la jointure lourde)
- 
- - Eviter au serveur de faire des traitements lourds et répétitifs
