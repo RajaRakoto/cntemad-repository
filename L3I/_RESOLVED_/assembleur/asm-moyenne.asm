@@ -1,4 +1,4 @@
- ;*** CACLUL MOYENNE ***
+;*** CACLUL MOYENNE ***
 
 ;** Segmentation (definition des donnees)**
 data segment
