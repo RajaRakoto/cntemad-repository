@@ -2,7 +2,6 @@
   "name": "cntemad-repository",
   "version": "1.0.0",
   "description": "Repository for students of \"Computer Science\" CNTEMAD department who wish to help each other and share their knowledge...",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
