@@ -1,3 +1,0 @@
-Difference entre la methode math.floor() et math.ceil():
-
-=> la méthode ceil renvoie le plus petit entier supérieur ou égal à la valeur que nous passons, Math. floor renvoie l'entier le plus grand ou égal qui est inférieur à la valeur donnée.
