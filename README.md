@@ -14,7 +14,7 @@
 
 <img width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/index_anim.gif?raw=true">
 
-| [A propos](#-a-propos-de-cntemad-repository) | [Guides](#-guides--contributions) | [Regles](#-regles) | [Membres et utilisateurs](#-contributeurs) | [Drive](#-drive) | [Tips&Tricks](#-tips--tricks) |
+| [A propos](#-a-propos-de-cntemad-repository) | [Guides](#-guides--contribution) | [Regles](#-regles) | [Contributeurs](#-contributeurs) | [Drive](#-drive) | [Tips&Tricks](#-tips--tricks) |
 | --- | --- | --- | --- | --- | --- |
 
 </div><br>
