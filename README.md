@@ -14,7 +14,7 @@
 
 <img width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/index_anim.gif?raw=true">
 
-| [A propos](#-a-propos-de-cntemad-repository) | [Guides](#-guides--contribution) | [Regles](#-regles) | [Contributeurs](#-contributeurs) | [Drive](#-drive) | [Tips&Tricks](#-tips--tricks) |
+| [A propos](#-a-propos-de-cntemad-repository) | [Guides](#-guides--contribution) | [Regles](#-regles) | [Contributeurs](#-contributeurs) | [Drive](#-drive) | [Tips & Tricks](#-tips--tricks) |
 | --- | --- | --- | --- | --- | --- |
 
 </div><br>
@@ -37,17 +37,29 @@
 **Voici les objectifs que nous viserons dans ce projet et les bénéfices potentiels que nous pouvons obtenir:**
 
 🏁  1. La réussite de chacun dans l'apprentissage au CNTEMAD.
+
 🏁  2. Le partage des connaissances.
+
 🏁  3. Faire savoir à tous ce qu'est le travail d'équipe.
+
 🏁  4. Une opportunité pour quiconque d'entrer dans le monde de git.
+
 🏁  5. En partant du partage habituel via des groupes ou des pages facebook, il sera plus propre et facile de récupérer des fichiers sur un chat-bot
+
 🏁  6. Nous apprend à être plus disciplinés.
+
 🏁  7. Ce sera une archive pour nous et nos jeunes frères/sœurs qui vont étudier a CNTEMAD.
+
 🏁  8. Pour éviter tout problème de deplacement.
+
 🏁  9. Nous nous permettons d'avoir le temps de concentrer davantage sur ce que nous étudions.
+
 🏁  10. Partage des cours (documents), exercices, corrections, sujets types et tout ce qui est lié à nos études...
+
 🏁  11. Faciliter la veille technologique, notamment pour les étudiants en IT
+
 🏁  12. Permet aux étudiants d'obtenir plus rapidement des informations sur CNTEMAD (dossier d'inscription, demande de diplôme, demande de transfert, leur cursus universitaire, droits & frais d'études/modules etc...) tout cela se fait via facebook ce qui évite notre problème de connexion sur internet
+
 🏁  13. Pour améliorer notre niveau d'étude
 
 <br>
@@ -212,7 +224,7 @@ Outils de versioning (`web app | cli | script`), tous utilisant `git` :
 
 <div align="center">
 
-**Tahaka izao ny fampiasana azy**
+**Utilisation de google Drive**
 
 </div>
 
