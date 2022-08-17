@@ -1,7 +1,7 @@
 {
   "name": "cntemad-repository",
   "version": "1.0.0",
-  "description": "Repository for students of \"Computer Science\" CNTEMAD department who wish to help each other and share their knowledge...",
+  "description": "Repository for students of CNTEMAD Madagascar who wish to help each other and share their knowledge...",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,14 +11,8 @@
   },
   "keywords": [
     "cntemad",
-    "repository",
-    "student",
-    "computer-science",
     "community",
     "university",
-    "network",
-    "dev",
-    "informatique",
     "africa",
     "l1",
     "l2",
