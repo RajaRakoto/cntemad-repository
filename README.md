@@ -21,13 +21,13 @@
 
 ## 📌 A propos de CNTEMAD repository
 
-<img align="left" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_up.png?raw=true"><br> **CNTEMAD repository** est un projet qui vise à faciliter le partage des connaissances pour les étudiants de CNTEMAD Madagascar, nous ne savons pas quand il sera terminé mais seulement nous, les étudiants, membres et contributeurs qui le faisons évoluer. Au départ, ce projet s'adressait qu'aux étudiants en informatique mais l'évolution de la technologie comme la création d'un chat-bot à ouvert les portes à d'autres domaines et de nous rejoindre. Notre philosophie est simple : *'Plus vous donnez, plus vous recevez'*, le fait que vous partagiez vos connaissances dans ce référentiel aidera les autres et vice versa. Souvenez toujours que vous n'avez rien a perdre en aidant les autres <img align="right" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_down.png?raw=true">
+<img align="left" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_up.png?raw=true"><br> Permettez-moi de vous présenter ce projet et les bénéfices potentiels que nous pouvons en tirer. **CNTEMAD repository** est un référentiel Github qui vise à faciliter le partage des connaissances pour les étudiants de CNTEMAD Madagascar, nous ne savons pas quand il sera achevé mais seulement nous, les étudiants, membres et contributeurs qui le font évoluer. Au départ, ce projet ne s'adressait qu'aux étudiants en informatique, mais l'évolution de la technologie comme la création d'un chat-bot a ouvert les portes à d'autres domaines et à nous rejoindre. Notre philosophie est simple : *'Plus vous donnez, plus vous recevez'*, le fait que vous partagiez vos connaissances dans ce référentiel aidera les autres et vice versa. Souvenez toujours que vous n'avez rien a perdre en aidant les autres <img align="right" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_down.png?raw=true">
 
 ## 📌 A propos du cntemad-bot
 
-<img align="left" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_up.png?raw=true"><br>Ce chat-bot servira d'assistant pour tous les étudiants du CNTEMAD Madagascar. En tant que Télé-enseignement, il est plus avantageux pour nous d'opter ce système pour améliorer notre niveau d'éducation, ce chat-bot utilisera donc 'CNTEMAD repository' comme base de données pour fournir des informations aux étudiants le plus rapidement et facilement possible, disponible 24h/24 et 7j/7 (sauf les jours d'examen pour éviter de tricher) <img align="right" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_down.png?raw=true">
+<img align="left" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_up.png?raw=true"><br>En tant qu'université basée sur l'enseignement à distance, ce chat-bot servira alors d'assistant pour tous les étudiants de CNTEMAD Madagascar, il est plus avantageux pour nous d'opter ce système afin d’améliorer notre niveau d'éducation, ce chat-bot utilisera donc CNTEMAD repository comme base de données pour fournir des informations aux étudiants le plus rapidement et facilement possible, disponible 24h/24 et 7j/7 sauf les jours d'examen pour éviter toute forme de fraude. Je tiens à préciser que toutes les données utilisées dans ce projet sont des informations publiques et ne sont pas sensibles. Ce chat-bot est accessible via une page facebook et un robot répondra instantanément à chaque demande d'un étudiant. <img align="right" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_down.png?raw=true">
 
-> **REMARQUE : toutes les données utilisées sont des informations publiques et ne sont pas sensibles**
+> **REMARQUE : toutes les données utilisées sont des informations publiques et ne sont pas sensibles, tous les services sont indisponibles pendant la période d'examen**
 
 **Pour tester le chat-bot**
 👉 Page officielle (fb): https://web.facebook.com/cntemad.agent
@@ -36,31 +36,29 @@
 
 **Voici les objectifs que nous viserons dans ce projet et les bénéfices potentiels que nous pouvons obtenir:**
 
-🏁  1. La réussite de chacun dans l'apprentissage au CNTEMAD.
+🏁  1. La réussite de chacun dans l'apprentissage au CNTEMAD Madagascar.
 
 🏁  2. Le partage des connaissances.
 
 🏁  3. Faire savoir à tous ce qu'est le travail d'équipe.
 
-🏁  4. Une opportunité pour quiconque d'entrer dans le monde de git.
+🏁  4. Une opportunité pour les etudiants en IT d'entrer dans le monde de GIT et faciliter leurs veilles technologiques.
 
-🏁  5. En partant du partage habituel via des groupes ou des pages facebook, il sera plus propre et facile de récupérer des fichiers sur un chat-bot
+🏁  5. En partant du partage habituel via des groupes facebook, ce sera plus facile d'organiser et de récupérer des informations sur un chat-bot
 
 🏁  6. Nous apprend à être plus disciplinés.
 
-🏁  7. Ce sera une archive pour nous et nos jeunes frères/sœurs qui vont étudier a CNTEMAD.
+🏁  7. Ce sera une archive pour nous et nos jeunes frères/sœurs qui vont étudier a CNTEMAD Madagascar.
 
-🏁  8. Pour éviter tout problème de deplacement.
+🏁  8. Pour éviter tout problème de deplacement et l'acces sur internet.
 
 🏁  9. Nous nous permettons d'avoir le temps de concentrer davantage sur ce que nous étudions.
 
 🏁  10. Partage des cours (documents), exercices, corrections, sujets types et tout ce qui est lié à nos études...
 
-🏁  11. Faciliter la veille technologique, notamment pour les étudiants en IT
+🏁  11. Permet aux étudiants d'obtenir plus rapidement des informations concernant CNTEMAD: dossier d'inscription, demande de diplôme, demande de transfert, cursus universitaire, droits & frais d'études etc...
 
-🏁  12. Permet aux étudiants d'obtenir plus rapidement des informations sur CNTEMAD (dossier d'inscription, demande de diplôme, demande de transfert, leur cursus universitaire, droits & frais d'études/modules etc...) tout cela se fait via facebook ce qui évite notre problème de connexion sur internet
-
-🏁  13. Pour améliorer notre niveau d'étude
+🏁  12. Pour améliorer notre niveau d'étude
 
 <br>
 
