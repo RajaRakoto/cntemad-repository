@@ -1,0 +1,8 @@
+En résumé, pour la conception de BD, à partir d’un cahier des charges, il faut passer les étapes suivantes : 
+
+- modéliser le « monde » (E/R), 
+- traduire en données et relation : tables, 
+- choisir et mettre en œuvre un SGBD, 
+- administrer la BD, 
+- gérer les utilisateurs, les ressources, 
+- entretenir la BD.
