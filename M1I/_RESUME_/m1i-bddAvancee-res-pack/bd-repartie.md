@@ -25,7 +25,7 @@ Si les besoins en espace de stockage et en puissance de traitement augmentent on
 
 `Le principe de la strategie d'optimisation par semi-jointure`
 
-La stratégie par semi-jointure permet de réduire le coût d'une jointure en limitant la quantité de données transférées sur le réseau. Supposons que l'on veuille calculer T1 T2 où la table Ti est située sur le site i. Au lieu de transférer une table complète d'un site à un autre, on envoie seulement les colonnes nécessaires à la jointure (la clé). Par exemple, on envoie π clé(T2) au site 1 et on fait la jointure avec T1: R = T1 π clé (T2) Ceci correspond à faire la semi-jointure entre T1 et T2. Ensuite, on envoie le résultat R au site 2 pour faire la jointure avec T2: T = R T2 = T1 T2 Les données transférées sont celles de π clé (T2) et de R, et ont une taille potentiellement moins grande que celle de T1 ou de T2
+![project exemple](./assets/semi-jointure.png)
 
 ---
 
