@@ -102,7 +102,7 @@ Si un attribut détermine plusieurs autres attributs, alors il détermine tout g
 Soient X, Y et Z des attributs :
 Si X→Y et X→Z `alors` X→YZ
 
-> **Note**: Cette propriété est déduite de la réflexivité, de l'augmentation et de la transitivité 
+> **Note**: Cette propriété est déduite de la réflexivité et de l'augmentation 
 > X→Y et X→Z ⇒ X→XX et XX→XY et YX→YZ ⇒ X→YZ
 
 - **Decomposition** (inverse de l'union)
