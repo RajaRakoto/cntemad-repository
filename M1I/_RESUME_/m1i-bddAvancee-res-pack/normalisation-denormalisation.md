@@ -18,13 +18,13 @@ La normalisation est mise en œuvre pour :
 
 `Les 3 premieres formes normales`
 
-1FN, 2FN, 3FN *(mais il y a aussi la forme normale de Boyce Codd en 4FN)*
+1FN, 2FN, 3FN *(mais il y a aussi la forme normale BCNF de Boyce Codd)*
 
 > Note: il existe 6 formes normales en total
 
 ---
 
-`Relations entre les 3 premieres formes normales + 4FN`
+`Relations entre les 3 premieres formes normales + BCNF`
 
 - **1FN**
 Une relation est 1FN si et seulement si tous ses attributs ont des valeurs atomiques (non multiples). 
@@ -115,15 +115,61 @@ On peut alors decomposer la relation comme suit pour avoir une relation en 3FN:
 `Etudiant(Matricule, Nom, CodeClasse)`
 `Classe(CodeClasse, EffectifClasse)`
 
-- **4FN**
-Une relation est en 4FN (Forme normale de Boyce Codd) si et seulement si:
+- **BCNF**
+Une relation est en BCNF (Forme normale de Boyce Codd) si et seulement si:
 ```
 1. La relation est en 3FN 
 2. Toutes les DF qui existent sont issues d'une seule cle primaire
 ```
 
->**Exemple d'une relation en 4FN**
+>**Exemple d'une relation en BCNF**
 `Etudiant(Matricule, Nom, Prenom, Adresse, Adresse_mail, Tel, Sexe, Niveau_id, Ville, Region)`
-Tout les attributs non cles sont determinEs par la cle primaire 'matricule' Mais la cause du non 4FN c'est la DF: `ville->region` car ville n'est pas une cle
+Tout les attributs non cles sont determinEs par la cle primaire 'matricule' Mais la cause du non BCNF c'est la DF: `ville->region` car ville n'est pas une cle
 => Par decomposition on obtient alors une autre table
-`Ville(Ville_id, Region)` ce qui respecte la condition du 4FN
+`Ville(Ville_id, Region)` ce qui respecte la condition du BCNF
+
+---
+
+### DENORMALISATION
+
+`Definition`
+
+La denormalisation est un processus consistant à regrouper plusieurs tables liées par des références, en une seule table, en réalisant statiquement les opérations de jointure adéquates.
+
+`Objectif`
+
+L'objectif de la dénormalisation est d'améliorer les performances de la BD en implémentant les jointures plutôt qu'en les calculant.
+
+`Interet (cas d'utilisation)`
+
+Un schéma doit être dénormalisé lorsque les performances de certaines recherches sont insuffisantes et que cette insuffisance à pour cause des jointures
+
+`Iconvenients`
+
+La dénormalisation peut également avoir un effet néfaste sur les performances si on ne controle la redondance volontaire:
+
+- **En mise à jour**
+Les données redondantes devant être dupliquées plusieurs fois.
+
+- **En contrôle supplémentaire**
+Les moyens de contrôle ajoutés (triggers, niveaux applicatifs, etc.) peuvent être très coûteux.
+
+- **En recherche ciblée**
+Certaines recherches portant avant normalisation sur une "petite" table et portant après sur une "grande" table peuvent être moins performantes après qu'avant.
+
+---
+
+### DIFFERENCE ENTRE NORMALISATION & DENORMALISATION
+
+<table>
+<th>Normalisation</th>
+<th>Denormalisation</th>
+<tr>
+<td>La normalisation consiste à diviser des tables plus volumineuses en tables plus petites, réduisant ainsi les données redondantes</td>
+<td>La dénormalisation consiste à ajouter des données redondantes afin d'optimiser les performances</td>
+</tr>
+<tr>
+<td>La normalisation est effectuée pour éviter les anomalies des bases de données</td>
+<td>Une base de données dénormalisée peut offrir de meilleures performances en écriture qu'une base de données normalisée</td>
+</tr>
+</table>
