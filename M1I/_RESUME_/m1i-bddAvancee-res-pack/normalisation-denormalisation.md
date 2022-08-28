@@ -89,7 +89,7 @@ casio
 Une relation est en 2FN si et seulement si:
 ```
 1. La relation est en 1FN
-2. Tout attribut non cle est pleinement dependant de l’intégralité de la cle ou bien toute DF entre la cle et un attribut non cle est elementaire. Autrement dit tout attribut non cle ne depend pas d une partie de la cle. Donc decomposition possible en plusieurs relation (R -> R1, R2, ... , Rn) La 2FN élimine donc les anomalies résultant des dépendances entre partie de clé et partie non clé.
+2. Tout attribut non cle est pleinement dependant de l’intégralité de la cle ou bien toute DF entre la cle et un attribut non cle est elementaire. Autrement dit tout attribut non cle ne depend pas d'une partie de la cle. Donc decomposition possible en plusieurs relation (R -> R1, R2, ... , Rn) La 2FN élimine donc les anomalies résultant des dépendances entre partie de clé et partie non clé.
 ```
 
 => Toute relation dont la seule cle est un attribut est une relation en 2FN
