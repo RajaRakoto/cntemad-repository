@@ -20,9 +20,7 @@ Ce groupe d'attributs doit être minimal, c'est-à-dire que si on retire l'un de
 
 `Clé candidate`
 
-Quand plusieurs clés sont possibles sur une table, on les appelle des clés candidates.
-
-Parmi les clés candidates, on en choisit une qui servira de référence : c'est la clé primaire.
+Quand plusieurs clés sont possibles sur une table, on les appelle des clés candidates. Parmi les clés candidates, on en choisit une qui servira de référence: ce sera alors la clé primaire de cette table.
 
 ---
 
@@ -48,7 +46,7 @@ Désigne le fait de répéter une information sous plusieurs formes sans que cel
 
 Si une table contient de la redondance, mieux vaut la séparer en plusieurs tables avant de la stocker dans la base de données.
 
-Il y a une règle pour savoir comment séparer une table redondante (normalisation).
+Il y a une règle pour savoir comment séparer une table redondante, on appelle cette regle "normalisation".
 
 
 
