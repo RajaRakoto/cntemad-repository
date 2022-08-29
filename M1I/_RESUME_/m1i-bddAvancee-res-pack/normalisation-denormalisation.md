@@ -16,6 +16,15 @@ La normalisation est mise en œuvre pour :
 
 ---
 
+`Les inconvenients d'une BDD non normalisEe`
+
+- Risque d'avoir des données redondantes et des tables volumineuses
+- Risque d'avoir des incohérences de données
+- Nuire au performances de traitement
+- DifficultE lors du maintenance de la base de donnees
+
+---
+
 `Les 3 premieres formes normales`
 
 1FN, 2FN, 3FN *(mais il y a aussi la forme normale BCNF de Boyce Codd)*
