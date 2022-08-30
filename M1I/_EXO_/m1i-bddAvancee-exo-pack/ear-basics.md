@@ -43,40 +43,40 @@ VILLE : lieu du département (ville)
 
 1. Les employés ayant des revenus supérieurs à 10.000 euros.
 ```
-R1 = restriction(EMP, EMP.SAL+EMP.COMM > 10000)
-R = projection(R1, R1.ENOM)
+R1 = RESTRICT(EMP, EMP.SAL+EMP.COMM > 10000)
+R = PROJECT(R1, R1.ENOM)
 ```
 
 2. Le nom et la profession de l'employé  numéro 10.
 ```
-R1 = restriction(EMP, EMP.ENO = 10)
-R = projection(R1, R1.ENOM, R1.PROF)
+R1 = RESTRICT(EMP, EMP.ENO = 10)
+R = PROJECT(R1, R1.ENOM, R1.PROF)
 ```
 
 3. Les noms des employés qui travaillent à Paris.
 ```
-R1 = jointure(EMP, DEPT, EMP.DNO = DEPT.DNO)
-R2 = restriction(R1, R1.VILLE = 'Paris')
-R = projection(R2, R2.ENOM)
+R1 = JOIN(EMP, DEPT, EMP.DNO = DEPT.DNO)
+R2 = RESTRICT(R1, R1.VILLE = 'Paris')
+R = PROJECT(R2, R2.ENOM)
 ```
 
 4. Le nom du directeur du département Commercial.
 ```
-R1 = restriction(DEPT, DEPT.DNOM = 'Commercial')
-R2 = jointure(R1, EMP, EMP.ENO = R1.DIR)
-R = projection(R2, R2.ENOM)
+R1 = RESTRICT(DEPT, DEPT.DNOM = 'Commercial')
+R2 = JOIN(R1, EMP, EMP.ENO = R1.DIR)
+R = PROJECT(R2, R2.ENOM)
 ```
 
 5. Les professions des directeurs des départements.
 ```
-R1 = jointure(DEPT, EMP, DEPT.DIR = EMP.ENO)
-R = projection(R1, R1.PROF)
+R1 = JOIN(DEPT, EMP, DEPT.DIR = EMP.ENO)
+R = PROJECT(R1, R1.PROF)
 ```
 
 6. Le nom des directeurs de département ayant comme profession Ingénieur.
 ```
-R1 = jointure(DEPT, EMP, DEPT.DIR = EMP.ENO)
-R2 = restriction(R1, R1.PROF = 'Ingenieur')
-R = projection(R2, R2.ENOM)
+R1 = JOIN(DEPT, EMP, DEPT.DIR = EMP.ENO)
+R2 = RESTRICT(R1, R1.PROF = 'Ingenieur')
+R = PROJECT(R2, R2.ENOM)
 ```
 
