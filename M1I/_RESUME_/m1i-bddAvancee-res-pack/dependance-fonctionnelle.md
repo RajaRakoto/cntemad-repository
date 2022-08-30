@@ -22,6 +22,16 @@ La notion de DF a été introduite dès le début du relationnel par Codd afin d
 
 ---
 
+`Signification` (exemple)
+
+`Annee, Etudiant->Groupe`: qui indique que chaque annee, un etudiant appartient a un seul groupe
+
+`Groupe, Matiere->Professeur`: qui indique qu'un seul professeur est affectE a un groupe 
+
+`Professeur->Matiere`: qui indique qu'un professeur n'enseigne qu'une seule matiere
+
+---
+
 `Demonstration` 
 
 Pout montrer la non DF, il suffit de citer un contre exemple en posant la question suivante: *"Est-ce que 2 valeurs differentes de Y peuvent-elles etre associees a une seule valeur de X ?"*
