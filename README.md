@@ -83,7 +83,7 @@ Un guide pour les nouveaux membres qui ne connaissent pas encore `git` ...
 
 - [Gérez du code avec Git et GitHub - OpenClassrooms](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
 
-- [gitvers-tool](https://github.com/RajaRakoto/gitvers-tool-guide) : un script conçu pour rendre `git` plus facile à utiliser
+- [gitvers-tool](https://github.com/RajaRakoto/gitvers-tool) : un script conçu pour rendre `git` plus facile à utiliser
 
 La commande pour cloner le depot en entier:
 
@@ -103,7 +103,7 @@ Outils de versioning (`web app | cli | script`), tous utilisant `git` :
 | **Gitbash** | Windows - GNU/Linux | [download ⬇](https://git-scm.com/downloads) | - | - |
 | **Gitkraken** | Windows - GNU/Linux | [download ⬇](https://www.gitkraken.com/download) | [tuto 🎬️](https://grafikart.fr/tutoriels/gitkraken-749) | - |
 | **UNGIT** | GNU/Linux | [download ⬇](https://github.com/FredrikNoren/ungit) | [tuto 🎬️](https://grafikart.fr/tutoriels/ungit-437) | [github 🔗](https://github.com/FredrikNoren/ungit) |
-| **gitvers-tool** | GNU/Linux | [download ⬇](https://github.com/RajaRakoto/gitvers-tool) | - | [github 🔗](https://github.com/RajaRakoto/gitvers-tool-guide) |
+| **gitvers-tool** | GNU/Linux | [download ⬇](https://github.com/RajaRakoto/gitvers-tool) | - | [github 🔗](https://github.com/RajaRakoto/gitvers-tool) |
 
 </div>
 
