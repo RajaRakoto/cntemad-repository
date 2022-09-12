@@ -1,4 +1,4 @@
-### Configurations
+### CONFIGURATIONS
 
 **Configuration d'un bus SCSI**
 
