@@ -27,5 +27,9 @@
   "bugs": {
     "url": "https://github.com/RajaRakoto/cntemad/issues"
   },
-  "homepage": "https://github.com/RajaRakoto/cntemad#readme"
+  "homepage": "https://github.com/RajaRakoto/cntemad#readme",
+  "dependencies": {
+    "compressing": "^1.6.2",
+    "fs-extra": "^10.1.0"
+  }
 }
