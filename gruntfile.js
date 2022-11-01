@@ -22,6 +22,9 @@ module.exports = function (grunt) {
 		 * Run shell commands
 		 */
 		shell: {
+      compress_script: {
+        command: 'cd scripts && node compress.js && cd ..',
+      },
 			clear_input: {
 				command: 'cd scripts/src/input && rm -rf *',
 			},
@@ -135,6 +138,7 @@ module.exports = function (grunt) {
 	});
 
 	// all grunt register tasks
+  grunt.registerTask('compress-script', ['shell:compress_script']);
 	grunt.registerTask('clear-all', ['shell:clear_input', 'shell:clear_output']);
 	grunt.registerTask('clear-input', ['shell:clear_input']);
 	grunt.registerTask('clear-output', ['shell:clear_output']);
@@ -165,6 +169,7 @@ module.exports = function (grunt) {
 
 	// all tasks lists
 	const myTasksNames = [
+    'compress-script',
 		'clear-all',
 		'clear-input',
 		'clear-output',
@@ -184,6 +189,7 @@ module.exports = function (grunt) {
 
 	// tasks status (description)
 	const myTasksStatus = [
+    'execute compress script',
 		'clear all input and output files from script/src',
 		'clear all input files from script/src',
 		'clear all output files from script/src',
