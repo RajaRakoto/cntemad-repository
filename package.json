@@ -1,35 +1,49 @@
 {
-  "name": "cntemad-repository",
-  "version": "1.1.0",
-  "description": "Repository for students of CNTEMAD Madagascar who wish to help each other and share their knowledge...",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RajaRakoto/cntemad.git"
-  },
-  "keywords": [
-    "cntemad",
-    "community",
-    "university",
-    "africa",
-    "l1",
-    "l2",
-    "l3",
-    "m1",
-    "m2",
-    "madagascar",
-    "archive"
-  ],
-  "author": "Raja RAKOTONIRINA",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/RajaRakoto/cntemad/issues"
-  },
-  "homepage": "https://github.com/RajaRakoto/cntemad#readme",
-  "dependencies": {
-    "compressing": "^1.6.2",
-    "fs-extra": "^10.1.0"
-  }
+	"name": "cntemad-repository",
+	"version": "1.1.0",
+	"description": "Repository for students of CNTEMAD Madagascar who wish to help each other and share their knowledge...",
+	"scripts": {
+		"backup-all": "grunt backup-all",
+    "backup-l1i": "grunt backup-l1i",
+		"backup-l2i": "grunt backup-l2i",
+		"backup-l3i": "grunt backup-l3i",
+		"backup-m1i": "grunt backup-m1i",
+		"backup-m2i": "grunt backup-m2i",
+    "backup-main": "grunt backup-main",
+    "backup-node_modules": "grunt backup-node_modules",
+    "backup-informations": "grunt backup-informations",
+    "backup-assets": "grunt backup-assets",
+    "backup-scripts": "grunt backup-scripts",
+    "backup-tools": "grunt backup-tools"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/RajaRakoto/cntemad.git"
+	},
+	"keywords": [
+		"cntemad",
+		"community",
+		"university",
+		"africa",
+		"l1",
+		"l2",
+		"l3",
+		"m1",
+		"m2",
+		"madagascar",
+		"archive"
+	],
+	"author": "Raja RAKOTONIRINA",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/RajaRakoto/cntemad/issues"
+	},
+	"homepage": "https://github.com/RajaRakoto/cntemad#readme",
+	"dependencies": {
+		"compressing": "^1.6.2",
+		"fs-extra": "^10.1.0",
+		"grunt": "^1.5.3",
+		"grunt-contrib-compress": "^2.0.0",
+		"load-grunt-tasks": "^5.1.0"
+	}
 }
