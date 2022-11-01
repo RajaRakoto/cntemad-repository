@@ -1,7 +1,7 @@
 /**
  * @author: Raja
  * @description: task runner for cntemad-repository
- * @requires: grunt | load-grunt-tasks | grunt-contrib-compress
+ * @requires: grunt | load-grunt-tasks | grunt-contrib-compress | grunt-shell
  */
 module.exports = function (grunt) {
 	require('load-grunt-tasks')(grunt);
@@ -17,6 +17,18 @@ module.exports = function (grunt) {
 	 */
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('./package.json'),
+
+		/**
+		 * Run shell commands
+		 */
+		shell: {
+			clear_input: {
+				command: 'cd scripts/src/input && rm -rf *',
+			},
+			clear_output: {
+				command: 'cd scripts/src/output && rm -rf *',
+			},
+		},
 
 		/**
 		 * Compress files and folders (incremental backup)
@@ -123,6 +135,9 @@ module.exports = function (grunt) {
 	});
 
 	// all grunt register tasks
+	grunt.registerTask('clear-all', ['shell:clear_input', 'shell:clear_output']);
+	grunt.registerTask('clear-input', ['shell:clear_input']);
+	grunt.registerTask('clear-output', ['shell:clear_output']);
 	grunt.registerTask('backup-all', [
 		'compress:l1i',
 		'compress:l2i',
@@ -150,6 +165,9 @@ module.exports = function (grunt) {
 
 	// all tasks lists
 	const myTasksNames = [
+		'clear-all',
+		'clear-input',
+		'clear-output',
 		'backup-all',
 		'backup-l1i',
 		'backup-l2i',
@@ -166,6 +184,9 @@ module.exports = function (grunt) {
 
 	// tasks status (description)
 	const myTasksStatus = [
+		'clear all input and output files from script/src',
+		'clear all input files from script/src',
+		'clear all output files from script/src',
 		'backup all files',
 		'backup L1I files',
 		'backup L2I files',
