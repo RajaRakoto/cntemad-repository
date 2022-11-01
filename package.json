@@ -3,6 +3,7 @@
 	"version": "1.1.0",
 	"description": "Repository for students of CNTEMAD Madagascar who wish to help each other and share their knowledge...",
 	"scripts": {
+		"compress-script": "grunt compress-script",
 		"clear-all": "grunt clear-all",
 		"clear-input": "grunt clear-input",
 		"clear-output": "grunt clear-output",
