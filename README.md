@@ -4,9 +4,7 @@
 
 <div align="center">
 
-🅲🆁🅴🅰🆃🅴🅳_🅰🆃: 14-05-2021
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/for-dago.svg?raw=true)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
+CREATED at 14-05-2021
 
 ![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff) ![Python](https://img.shields.io/badge/-Python-777?style=flat&logo=python&labelColor=ffffff) ![Shell](https://img.shields.io/badge/-Shell-777?style=flat&logo=shell&labelColor=333) ![PHP](https://img.shields.io/badge/-PHP-777?style=flat&logo=php&labelColor=ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff) ![MariaDB](https://img.shields.io/badge/-mariaDB-777?style=flat&logo=mariaDB&labelColor=brown) ![C](https://img.shields.io/badge/-C-777?style=flat&logo=c&labelColor=blue) ![C++](https://img.shields.io/badge/-C++-777?style=flat&logo=#&labelColor=purple) ![Java](https://img.shields.io/badge/-Java-777?style=flat&logo=java&labelColor=orange)
 
@@ -14,55 +12,60 @@
 
 <img width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/index_anim.gif?raw=true">
 
-| [A propos](#-a-propos-de-cntemad-repository) | [Guides](#-guides--contribution) | [Regles](#-regles) | [Contributeurs](#-contributeurs) | [Drive](#-drive) | [Tips & Tricks](#-tips--tricks) |
-| --- | --- | --- | --- | --- | --- |
+| [A propos](#-a-propos-de-cntemad-repository) | [Objectif](#-nos-objectifs) | [Regles](#-regles) | [Contribution](#-contribution) | [Contributeurs](#-contributeurs) | [Drive](#-drive) | [Tips](#-tips) |
+| --- | --- | --- | --- | --- | --- | --- |
 
 </div><br>
 
 ## 📌 A propos de CNTEMAD repository
 
-<img align="left" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_up.png?raw=true"><br> Permettez-moi de vous présenter ce projet et les bénéfices potentiels que nous pouvons en tirer. **CNTEMAD repository** est un référentiel Github qui vise à faciliter le partage des connaissances pour les étudiants de CNTEMAD Madagascar, nous ne savons pas quand il sera achevé mais seulement nous, les étudiants, membres et contributeurs qui le font évoluer. Au départ, ce projet ne s'adressait qu'aux étudiants en informatique, mais l'évolution de la technologie comme la création d'un chat-bot a ouvert les portes à d'autres domaines et à nous rejoindre. Notre philosophie est simple : *'Plus vous donnez, plus vous recevez'*, le fait que vous partagiez vos connaissances dans ce référentiel aidera les autres et vice versa. Souvenez toujours que vous n'avez rien a perdre en aidant les autres <img align="right" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_down.png?raw=true">
+**CNTEMAD repository** est un dépôt GitHub conçu pour simplifier la collaboration entre les étudiants en informatique de CNTEMAD Madagascar. Initialement destiné à tous les étudiants de l'établissement, il a été restreint aux seuls étudiants en IT en raison des difficultés rencontrées dans l'utilisation de Git.
 
-## 📌 A propos du cntemad-bot
+Suite aux difficultés rencontrées dans l'utilisation de Git par certains étudiants, nous avons pris la décision d'explorer d'autres moyens de faciliter la collaboration. Dans cette optique, nous avons créé un serveur Discord dédié à CNTEMAD, offrant une plateforme interactive où tous les étudiants, quelle que soit leur spécialisation, peuvent participer activement à la collaboration et au partage de ressources. Cette initiative vise à créer un espace convivial et accessible pour l'échange d'idées, la résolution de problèmes, et la mise en commun de compétences, dans le but de renforcer la communauté étudiante de CNTEMAD Madagascar. Nous espérons que cette nouvelle approche favorisera une collaboration plus fluide et efficace au sein de notre établissement.
 
-<img align="left" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_up.png?raw=true"><br>En tant qu'université basée sur l'enseignement à distance, ce chat-bot servira alors d'assistant pour tous les étudiants de CNTEMAD Madagascar, il est plus avantageux pour nous d'opter ce système afin d’améliorer notre niveau d'éducation, ce chat-bot utilisera donc CNTEMAD repository comme base de données pour fournir des informations aux étudiants le plus rapidement et facilement possible, disponible 24h/24 et 7j/7 sauf les jours d'examen pour éviter toute forme de fraude. Je tiens à préciser que toutes les données utilisées dans ce projet sont des informations publiques et ne sont pas sensibles. Ce chat-bot est accessible via une page facebook et un robot répondra instantanément à chaque demande d'un étudiant. <img align="right" width="30" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/quote_down.png?raw=true">
+> **Note**: si vous n'êtes pas dans le domaine de l'IT, je vous propose de nous rejoindre directement sur le serveur discord ci-dessous
 
-> **REMARQUE : toutes les données utilisées sont des informations publiques et ne sont pas sensibles, tous les services sont indisponibles pendant la période d'examen**
+👉 **Discord server:** https://discord.gg/6UQJ95TyYf
 
-**Pour tester le chat-bot**
-👉 Page officielle (fb): https://web.facebook.com/cntemad.agent
+## 📌 A propos du chatbot messenger
+
+En tant qu'université axée sur l'enseignement à distance, l'adoption de ce système de chatbot s'avère avantageuse pour nous. En effet, il jouera le rôle d'assistant en ligne, offrant un accès amélioré aux informations et aux ressources susceptibles d'intéresser nos étudiants. Fonctionnant 24h/24, 7j/7, ce chatbot est accessible via la plateforme Facebook.
+
+> **Note**: toutes les données utilisées sont des informations publiques et ne sont pas sensibles
+
+👉 **Page facebook**: https://web.facebook.com/cntemad.agent
 
 ## 📌 Nos objectifs
 
-**Voici les objectifs que nous viserons dans ce projet et les bénéfices potentiels que nous pouvons obtenir:**
+**Ci-dessous, nous énonçons les objectifs que nous cherchons à réaliser, ainsi que les avantages potentiels qui en résulteront**
 
-🏁  1. La réussite de chacun dans l'apprentissage au CNTEMAD Madagascar.
+🏁 1. L'objectif principal est de garantir la réussite de chaque étudiant au CNTEMAD Madagascar. Cela permettra d'assurer que tous les étudiants ont les outils et les ressources nécessaires pour exceller dans leur apprentissage, favorisant ainsi leur réussite académique.
 
-🏁  2. Le partage des connaissances.
+🏁 2. Le partage des connaissances est un pilier essentiel de notre initiative. En facilitant l'échange d'informations et d'expertise entre les étudiants, nous renforçons la communauté académique et encourageons l'apprentissage collaboratif. Ce serveur discord ou ce chatbot messenger vise à fournir aux étudiants des informations essentielles de manière rapide et efficace, facilitant les processus administratifs tels que l'inscription, l'accès à des informations sur le cursus universitaire, les frais d'études, la demande de diplôme ou attestation (et bien plus encore ...).
 
-🏁  3. Faire savoir à tous ce qu'est le travail d'équipe.
+🏁 3. En passant du partage traditionnel via des groupes Facebook, nous optons l'utilisation d'un chatbot messenger et un serveur discord pour simplifier l'organisation et l'accès aux informations, améliorant ainsi l'efficacité de la communication au sein de la communauté CNTEMAD.
 
-🏁  4. Une opportunité pour les etudiants en IT d'entrer dans le monde de GIT et faciliter leurs veilles technologiques.
+🏁 4. Le travail d'équipe met en avant l'importance de la collaboration et de la coopération entre les étudiants. Cela favorise le développement de compétences essentielles pour le monde professionnel.
 
-🏁  5. En partant du partage habituel via des groupes facebook, ce sera plus facile d'organiser et de récupérer des informations sur un chat-bot
+🏁 5. Nous encourageons la discipline en instaurant un environnement où les étudiants doivent gérer leur temps et leurs ressources de manière efficace.
 
-🏁  6. Nous apprend à être plus disciplinés.
+🏁 6. La création d'une archive assure que les ressources et les informations restent accessibles pour les étudiants actuels et les générations futures de CNTEMAD Madagascar.
 
-🏁  7. Ce sera une archive pour nous et nos jeunes frères/sœurs qui vont étudier a CNTEMAD Madagascar.
+🏁 7. Pour éviter les problèmes de déplacements, cette solution numérique permet aux étudiants d'accéder aux informations et aux ressources depuis n'importe quel endroit et à tout moment. Permet ainsi de se consacrer davantage de temps à l'apprentissage.
 
-🏁  8. Pour éviter tout problème de deplacement et l'acces sur internet.
+🏁 8. Notre serveur discord exploite diverses intelligences artificielles, telles que ChatGPT, PerplexityAI, Google Bot et ShuttleAI, pour fournir une assistance personnalisée aux étudiants dans leur parcours académique. Ces IA peuvent répondre aux questions, traduire des textes, générer des images à partir d'un contexte, expliquer des concepts complexes et fournir des suggestions de ressources pertinentes, améliorant ainsi l'expérience d'apprentissage en offrant un support continu et adapté aux besoins individuels des étudiants.
 
-🏁  9. Nous nous permettons d'avoir le temps de concentrer davantage sur ce que nous étudions.
+🏁 9. À travers Discord, nous instaurons des directives rigoureuses en matière de confidentialité et de sécurité, assurant ainsi la protection des données des étudiants et créant un espace en ligne sécurisé et respectueux.
 
-🏁  10. Partage des cours (documents), exercices, corrections, sujets types et tout ce qui est lié à nos études...
+🏁 10. Créer un pont entre les étudiants et les recruteurs potentiels ainsi que les formateurs, offrant aux membres du serveur la possibilité de découvrir des opportunités de stage, d'emploi, de formation ou de collaboration académique qui pourraient enrichir leur parcours et élargir leurs horizons.
 
-🏁  11. Permet aux étudiants d'obtenir plus rapidement des informations concernant CNTEMAD: dossier d'inscription, demande de diplôme, demande de transfert, cursus universitaire, droits & frais d'études etc...
+**=> EN RÉSUMÉ, NOTRE OBJECTIF ULTIME CONSISTE À ASSURER LA RÉUSSITE DE CHAQUE ÉTUDIANT EN METTANT À LEUR DISPOSITION LES RESSOURCES ET LES OUTILS NÉCESSAIRES. NOUS CHERCHONS ÉGALEMENT À ENCOURAGER LE PARTAGE DE CONNAISSANCES ET LA COLLABORATION ENTRE ÉTUDIANTS GRÂCE À L'UTILISATION D'UN SERVEUR DISCORD ET D'UN CHATBOT MESSENGER. NOUS VISONS À SIMPLIFIER L'ACCÈS AUX INFORMATIONS ACADÉMIQUES, À PROMOUVOIR LA GESTION EFFICACE DU TEMPS ET DES RESSOURCES, À CRÉER UNE ARCHIVE PÉRENNE, PERMETTRE L'ACCÈS AUX INFORMATIONS DE MANIÈRE EFFICACE, OFFRIR UN SOUTIEN PERSONNALISÉ GRÂCE À DES INTELLIGENCES ARTIFICIELLES, GARANTIR LA CONFIDENTIALITÉ ET LA SÉCURITÉ DES DONNÉES DES ÉTUDIANTS, ET ENFIN, À OFFRIR DES OPPORTUNITÉS DE STAGE, D'EMPLOI, DE FORMATION ET DE COLLABORATION ACADÉMIQUE.**
 
-🏁  12. Pour améliorer notre niveau d'étude
+> **Note:** N'hésitez pas à vous rendre dans le salon "🔰 structure" de notre serveur discord pour découvrir la mise en place de notre serveur et comprendre comment chacun de nos salons peut vous être utile. Cela vous aidera à profiter pleinement de notre communauté universitaire en ligne !
 
 <br>
 
-## 📌 Guides & Contribution
+## 📌 Contribution
 
 <div align="center">
   <img width="150" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/help.png?raw=true">
@@ -79,10 +82,8 @@
 
 Un guide pour les nouveaux membres qui ne connaissent pas encore `git` ...
 
-- [Concept de git pour debutant - video 1h15 version Malagasy](https://fb.watch/5DM7FKnt_q/)
-
+- [Concept de git pour debutant - video de 1h15 version Malagasy](https://fb.watch/5DM7FKnt_q/)
 - [Gérez du code avec Git et GitHub - OpenClassrooms](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
-
 - [gitvers-tool](https://github.com/RajaRakoto/gitvers-tool) : un script conçu pour rendre `git` plus facile à utiliser
 
 La commande pour cloner le depot en entier:
@@ -117,37 +118,23 @@ Outils de versioning (`web app | cli | script`), tous utilisant `git` :
 
 <br>
 
-#### **Pour tout les etudiants**
+**Les règles suivantes s'appliquent plus particulièrement aux étudiants en informatique**
 
-🛡️ Les nouveaux membres qui souhaitent contribuer au **dépôt CNTEMAD** doivent avoir une base `git`.
-
-🛡️ C'est le **partage** qui fait vivre ce projet, alors `participons` autant que nous le pouvons.
-
-🛡️ Les fichiers **vidéos** sont interdits, tous les fichiers sont acceptés à part ça, s'il y en a plus d'un, c'est mieux de le `compressE` et sa taille ne depasse pas de 10Mo, sinon utilisez un autre `service de stockage` comme `google drive`.
+🛡️ Les nouveaux membres qui souhaitent contribuer a ce **dépôt** doivent avoir une base de `git`.
 
 🛡️ Pas de duplication de fichiers, assurez-vous toujours d'avoir vérifié le référentiel avant d'envoyer quoi que ce soit
 
-🛡️ Les fichiers images très flous ne seront pas acceptés, si l'image est très lourde, merci de la compresser avant de l'envoyer au depot, ce site vous aidera à le faire -> https://tinypng.com
+🛡️ Il est nécessaire d'attribuer des noms appropriés à chaque fichier à partager, en évitant l'utilisation de `caractères spéciaux` ou de `majuscules`, et en substituant les espaces par des tirets `-` ou des underscores `_`.
 
-🛡️ Pas de fichier exécutable (.exe | script | ...) sauf s'il est utilisé par de nombreux étudiants dans leur étude
+🛡️ Pour garantir un code maintenable, veuillez inclure des `commentaires explicatifs` sur les parties complexes et adhérer aux principes du `Clean Code` lors de l'écriture de votre code (variable, indentation, etc ...).
 
-🛡️ Vous devez nommer correctement chaque fichier à partager, pas de `caractères spéciaux`, pas de `majuscules`, les espaces sont remplacés par des tirets `'-'` ou underscore `'_'`
-
-#### **Reglement pour les etudiants en IT**
-
-🛡️ Tous les membres ont besoin du **commentaire** sur le `code` que vous avez écrit pour faciliter la lecture, essayez d'ecrire un code maintenable 
-
-🛡️ Respectez l'**indentation du code**, faites en sorte que le code que vous écrivez soit propre et clair, vous pouvez utiliser des extensions "prettier" si vous utilisez vscode | [style d'indentation ?](https://fr.wikipedia.org/wiki/Style_d'indentation)
-
-🛡️ Respectez la **convention de commit**, faites en sorte que votre "commit" soit court mais clair pour tout le monde, n'incluez pas de `caractères spéciaux` | [commit ?](https://fr.wikipedia.org/wiki/Commit)
-
-🛡️ **Le nom de la variable** devrai etre clair et suit le style d'écriture `camelCase` | [camelCase ?](https://fr.wikipedia.org/wiki/Camel_case)
+🛡️ Respectez la `convention de commit`, faites en sorte que votre "commit" soit court mais clair pour tout le monde
 
 <br>
 
 <img align="right" width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/gourou.png?raw=true">
 
-**Voici quelques bons principes à adopter lors du codage**
+**Voici quelques bons principes à adopter**
 
     📜️ KISS: Keep It Simple, Stupid!
     La simplicité est la sophistication suprême | un code simple est plus lisible et plus facile à maintenir.
@@ -178,85 +165,32 @@ Outils de versioning (`web app | cli | script`), tous utilisant `git` :
 
 | Pseudo | Role | Filiaire | Niveau | Parcours | Github | Skill(s) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| ♂️ **Arlandonfah** | - | Info | M1 | BDGL | [Arlandonfah](https://github.com/Arlandonfah) | stack: `HTML` `CSS` `Javascript` `Typescript` `Bootstrap` `PHP` `Angular` `Java` `PHP` `MySQL` |
+| ♂️ **Arlandonfah** | - | Info | M2 | BDGL | [Arlandonfah](https://github.com/Arlandonfah) | stack: `HTML` `CSS` `Javascript` `Typescript` `Bootstrap` `PHP` `Angular` `Java` `PHP` `MySQL` |
 | ♂️ **TinaniainaHassan12** | - | Info | M1 | RS | [TinaniainaHassan12](https://github.com/TinaniainaHassan12) | stack: `HTML` `CSS` `Javascript` `Bootstrap` `PHP` `Wordpress` |
-| ♂️ **Jonathan** | - | Info | L1 | BDGL | [Jonathan](https://github.com/Jonathanrazakalalaina) | stack: `HTML` `CSS` `Javascript` Others: `lecture` `jeux vidéos` |
-| ♂️ **Ma Ranaivoson** | - | Info | M1 | BDGL | [Ma Ranaivoson](https://github.com/ma-ranaivoson) | stack: `Javascript` `Typescript` `Java` |
+| ♂️ **Jonathan** | - | Info | L1 | BDGL | [Jonathan](https://github.com/Jonathanrazakalalaina) | stack: `HTML` `CSS` `Javascript` others: `lecture` `jeux vidéos` |
+| ♂️ **Ma Ranaivoson** | - | Info | M2 | BDGL | [Ma Ranaivoson](https://github.com/ma-ranaivoson) | stack: `Javascript` `Typescript` `Java` |
 | ♂️ **Mendrika** | - | Info | L3 | BDGL | [Mendrika](https://github.com/Mendrika) | stack: `HTML` `C` other: `Psychologie` |
 | ♂️ **Rivo** | - | Info | L2 | BDGL | [Rivo](https://github.com/Rivo) | stack: `HTML` `CSS` `Bootstrap` `Javascript` `Jquery` `PHP` `Python` `Java` `C` `Wordpress` others: `Anglais` |
 | ♂️ **Sarobidy** | - | Info | L2 | - | [Sarobidy](https://github.com/Sarobidy) | stack: `HTML` `CSS` `Visual basic` `Javascript` `C` |
 | ♂️ **JM Rakoto** | - | Info | M2 | BDGL | [JM Rakoto](https://github.com/jmRakoto) | stack: `Javascript` `Typescript` `Dart` `Flutter` |
-| ♀️ **Woutnak** | - | Info | M1 | BDGL | [Woutnak](https://github.com/Woutnak) | stack: `HTML` `CSS` `Bootstrap` `Javascript` other: `Management` |
+| ♀️ **Woutnak** | - | Info | M2 | BDGL | [Woutnak](https://github.com/Woutnak) | stack: `HTML` `CSS` `Bootstrap` `Javascript` other: `Management` |
 | ♂️ **Moratiana** | - | Info | L1 | BDGL | [Moratiana](https://github.com/Moratiana) | stack: `HTML` `CSS` `Bootstrap` other: `Reseau` |
-| ♂️ **Brillant** | - | Info | M1 | BDGL | [Bri11ant](https://github.com/Bri11ant) | stack: `Python` `Javascript` `Angular` `Ionic` `PHP` `Java` other: `Infographiste` `designer` |
+| ♂️ **Brillant** | - | Info | M2 | BDGL | [Bri11ant](https://github.com/Bri11ant) | stack: `Python` `Javascript` `Angular` `Ionic` `PHP` `Java` other: `Infographiste` `designer` |
 | ♂️ **Toky** | - | Info | M2 | BDGL | [Gituxmanjaka](https://github.com/gituxmanjaka) | stack: `HTML` `CSS` `Bootstrap` `Javascript` `Typescript` `Python` `Java` |
-| ♂️ **Stany** | - | Info | M1 | BDGL | [Stany Nilaina](https://github.com/StanyNilaina) | stack: `Javascript` `VueJS` `Ionic` `PHP` `Python` `Typescript` `Bootstrap` |
+| ♂️ **Stany** | - | Info | M2 | BDGL | [Stany Nilaina](https://github.com/StanyNilaina) | stack: `Javascript` `VueJS` `Ionic` `PHP` `Python` `Typescript` `Bootstrap` |
 | ♂️ **Xoder** | - | Info | L1 | BDGL | [Mr xoder](https://github.com/­mrxoder) | stack: `HTML` `CSS` `Javascipt` `PHP` `Python` |
 | ♂️ **a2d** | - | Info | L1 | BDGL | [Annael007](https://github.com/Annael007) | stack: `HTML` `Python` `Java` `C` `VBS` other: `electro` `piano` `FLstudio` |
-| ♀️ **Fahendrena** | - | Info | M1 | RS | [Fahendrena](https://github.com/Fahendrena) | stack: `HTML` `CSS` `Javascript` `PHP` `Python` |
+| ♀️ **Fahendrena** | - | Info | M2 | RS | [Fahendrena](https://github.com/Fahendrena) | stack: `HTML` `CSS` `Javascript` `PHP` `Python` |
 | ♂️ **Wenceslas-Angelo** | - | Info | L1 | BDGL | [Angelo](https://github.com/Wenceslas-Angelo) | stack: `HTML` `CSS` `Javascript` `Python` |
-| ♂️ **ChristianoDc7** | - | Info | L3 | BDGL | [ChristianoDc7](https://github.com/­ChristianoDc7) | stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C` |
-| ♀️ **Fanaingo** | - | Info | L3 | BDGL | [Fanaingo](https://github.com/Fanaingo) | stack: `HTML` `CSS` `Javascript` `C` `PHP` `Symfony` |
-| ♂️ **Raja** | `ADMIN` | Info | M1 | BDGL | [Raja Rakotonirina](https://github.com/RajaRakoto) | stack: `Sass` `Javascript` `Typescript` `python` `shell` other: `Photoshop`, `dessin` |
+| ♂️ **ChristianoDc7** | - | Info | M1 | BDGL | [ChristianoDc7](https://github.com/­ChristianoDc7) | stack: `HTML` `CSS` `Bootstrap` `Javascript` `PHP` `Python` `C` |
+| ♀️ **Fanaingo** | - | Info | M1 | BDGL | [Fanaingo](https://github.com/Fanaingo) | stack: `HTML` `CSS` `Javascript` `C` `PHP` `Symfony` |
+| ♂️ **Raja** | `ADMIN` | Info | M2 | BDGL | [Raja Rakotonirina](https://github.com/RajaRakoto) | stack: `Javascript` `Typescript`  `React.js`  `Python`  `Bash` |
 
 </div>
 
 <br><br>
 
-## 📌 Drive
-
-<div align="center">
-
-  <img width="150" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/drive.png?raw=true">
-
-<br>
-
-| [Creer un compte Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp) | [Google drive](https://drive.google.com/) |
-| --- | --- |
-
-</div>
-
-**Google Drive** est un `service de stockage en ligne` detenu par Google. *Qu'est-ce que cela a à voir avec ce projet ?* c'est bon de savoir qu'il y a une `limite` à ce qu'on peut stocker (documents, vidéos, images, etc...) dans github, nous utilisons `Google drive` pour augmenter la `capacité de stockage` qui peut atteindre **15Go** par compte google.
-
-<br>
-
-<div align="center">
-
-**Utilisation de google Drive**
-
-</div>
-
-- Créez un `compte google (gmail)` (si vous n'en avez pas encore) et vous recevrez immédiatement ces `15GB` gratuitement.
-- Apres la creation d'un compte, vous pouvez utiliser le service [Google drive](https://drive.google.com/) dans la liste des applications Google.
-- Dans `Google drive`, vous verrez une `interface "Mon drive"` tout comme le `gestionnaire de fichiers` habituel : vous pouvez `importer/exporter` des fichiers, `créer/supprimer fichier/fichier(s)`, accédez à tous les types d'`applications google` (docs, feuilles, forms, ...)
-- Voici ce qu'il faut faire lorsque vous ajoutez un fichier :
-  - Connectez-vous avec l'app [Google drive](https://drive.google.com/).
-  - Clic droit > Importer des fichiers.
-  - Sélectionnez le fichier à partager (vaut mieux le `compressE` avant l'importation)
-  - Une fois l'importation terminée, les données seront stockées, faites un clic droit sur le fichier et `obtenez le lien`, puis vous pourrez le partager via le `lien public`. Il existe deux options pour le distribuer :
-    1. `limite de partage` - c'est-à-dire que seuls ceux qui ont été autorisés peuvent le prendre.
-    2. `partage public` - tout le monde peut avoir le fichier.
-
-<br>
-
-<div align="center">
-
-**Archives sur google drive**
-
-</div>
-
----
-
-**W3SCHOOL** offline | size: **372Mo** | added by **Raja** <img align="right" width="150" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/W3Schools.png?raw=true">
-
-| [download ⬇](https://drive.google.com/file/u/5/d/1bYFucI7qihaeLGvCpLhs7G8ZJclfFGxr/view?usp=sharing) | [demo 💻️](https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/w3school_demo.gif?raw=true) |
-| --- | --- |
-
-> Site Web (hors ligne) pour apprendre divers technologies
-
-<br><br>
-
-## 📌 Tips & Tricks
+## 📌 Tips
 
 <div align="center">
 
@@ -266,7 +200,7 @@ Outils de versioning (`web app | cli | script`), tous utilisant `git` :
 
 <div align="center">
 
-Dans la section `Tips & Tricks`, nous pouvons trouver toutes sortes de petites astuces ou choses dont tout le monde peut avoir besoin dans **CNTEMAD repository**, cliquez simplement sur le [💡️] pour en savoir plus
+Cliquez simplement sur le [💡️] pour en savoir plus
 
 </div>
 <br>
@@ -309,18 +243,13 @@ Il est toujours preferable de suivre la `convetion de commit` surtout pour les c
 <img width="100" src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/archive.png?raw=true">
 </div>
 
-La compression des données protège contre des programmes malveillants et augmente la vitesse de televersement ou téléchargement.
+La `compression des données` protège contre des programmes malveillants et augmente la vitesse de transfert, les commandes linux pour la compression et la décompression sont les suivantes:
 
-        [compression]:--->$ tar cvfz <output.tar.gz> <input> 
+        [compression]:--->$ tar cvfz <output.tar.gz> <input>
         [exemple]:-------->$ tar cvfz exercices-maths.tar.gz exercices-maths
         [decompression]:->$ tar xvf exercices-maths.tar.gz
 
 ---
-
-<div align="center">
-<a href="mailto:cntemad.repository@proton.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="50" width="50" /></a> 
-<a href="https://web.facebook.com/cntemad.agent" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="50" width="50" /></a>
-</div>
 
 <div align="right">
     <b><a href="#hello-world--">↥ Back To Top</a></b>
