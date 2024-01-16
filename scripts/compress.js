@@ -1,7 +1,6 @@
 console.log('============================================');
 console.log('=== CNTEMAD repository - compress script ===');
 console.log('============================================');
-console.log('Author: Raja\n');
 
 // modules
 const compressing = require('compressing');
