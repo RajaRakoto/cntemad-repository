@@ -1,6 +1,6 @@
-tmp
-assets/private
 node_modules
+privates
+assets/private
 scripts/src
 backups
-privates
+tmp
