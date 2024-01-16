@@ -22,9 +22,9 @@ module.exports = function (grunt) {
 		 * Run shell commands
 		 */
 		shell: {
-      compress_script: {
-        command: 'cd scripts && node compress.js && cd ..',
-      },
+			compress_script: {
+				command: 'cd scripts && node compress.js && cd ..',
+			},
 			clear_input: {
 				command: 'cd scripts/src/input && rm -rf *',
 			},
@@ -37,13 +37,6 @@ module.exports = function (grunt) {
 		 * Compress files and folders (incremental backup)
 		 */
 		compress: {
-			main: {
-				options: {
-					archive: backupsDestination + 'main.tar.gz',
-				},
-				files: [{ src: ['./*', './.*'] }],
-				filter: 'isFile',
-			},
 			l1i: {
 				options: {
 					archive: backupsDestination + 'L1I.tar.gz',
@@ -89,23 +82,12 @@ module.exports = function (grunt) {
 				src: includeAllFiles,
 				dest: 'M2I',
 			},
-			node_modules: {
+			main: {
 				options: {
-					archive: backupsDestination + 'node_modules.tar.gz',
+					archive: backupsDestination + 'main.tar.gz',
 				},
-				expand: true,
-				cwd: './node_modules/',
-				src: includeAllFiles,
-				dest: 'node_modules',
-			},
-			informations: {
-				options: {
-					archive: backupsDestination + 'informations.tar.gz',
-				},
-				expand: true,
-				cwd: './informations/',
-				src: includeAllFiles,
-				dest: 'informations',
+				files: [{ src: ['./*', './.*'] }],
+				filter: 'isFile',
 			},
 			assets: {
 				options: {
@@ -125,20 +107,11 @@ module.exports = function (grunt) {
 				src: includeAllFiles,
 				dest: 'scripts',
 			},
-			tools: {
-				options: {
-					archive: backupsDestination + 'tools.tar.gz',
-				},
-				expand: true,
-				cwd: './tools/',
-				src: includeAllFiles,
-				dest: 'tools',
-			},
 		},
 	});
 
 	// all grunt register tasks
-  grunt.registerTask('compress-script', ['shell:compress_script']);
+	grunt.registerTask('compress-script', ['shell:compress_script']);
 	grunt.registerTask('clear-all', ['shell:clear_input', 'shell:clear_output']);
 	grunt.registerTask('clear-input', ['shell:clear_input']);
 	grunt.registerTask('clear-output', ['shell:clear_output']);
@@ -149,11 +122,8 @@ module.exports = function (grunt) {
 		'compress:m1i',
 		'compress:m2i',
 		'compress:main',
-		'compress:node_modules',
-		'compress:informations',
 		'compress:assets',
 		'compress:scripts',
-		'compress:tools',
 	]);
 	grunt.registerTask('backup-l1i', ['compress:l1i']);
 	grunt.registerTask('backup-l2i', ['compress:l2i']);
@@ -161,15 +131,12 @@ module.exports = function (grunt) {
 	grunt.registerTask('backup-m1i', ['compress:m1i']);
 	grunt.registerTask('backup-m2i', ['compress:m2i']);
 	grunt.registerTask('backup-main', ['compress:main']);
-	grunt.registerTask('backup-node_modules', ['compress:node_modules']);
-	grunt.registerTask('backup-informations', ['compress:informations']);
 	grunt.registerTask('backup-assets', ['compress:assets']);
 	grunt.registerTask('backup-scripts', ['compress:scripts']);
-	grunt.registerTask('backup-tools', ['compress:tools']);
 
 	// all tasks lists
-	const myTasksNames = [
-    'compress-script',
+	const tasksNames = [
+		'compress-script',
 		'clear-all',
 		'clear-input',
 		'clear-output',
@@ -180,16 +147,13 @@ module.exports = function (grunt) {
 		'backup-m1i',
 		'backup-m2i',
 		'backup-main',
-		'backup-node_modules',
-		'backup-informations',
 		'backup-assets',
 		'backup-scripts',
-		'backup-tools',
 	];
 
 	// tasks status (description)
-	const myTasksStatus = [
-    'execute compress script',
+	const tasksDescription = [
+		'execute compress script',
 		'clear all input and output files from script/src',
 		'clear all input files from script/src',
 		'clear all output files from script/src',
@@ -200,11 +164,8 @@ module.exports = function (grunt) {
 		'backup M1I files',
 		'backup M2I files',
 		'backup main files',
-		'backup node_modules files',
-		'backup informations files',
 		'backup assets files',
 		'backup scripts files',
-		'backup tools files',
 	];
 
 	// default tasks
@@ -256,8 +217,8 @@ module.exports = function (grunt) {
 		// task resume
 		getTaskResume(
 			'=== CNTEMAD REPOSITORY - TASKS ===',
-			myTasksNames,
-			myTasksStatus,
+			tasksNames,
+			tasksDescription,
 			'yellow', // color theme
 		);
 	});
