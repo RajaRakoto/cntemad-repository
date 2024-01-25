@@ -2,17 +2,15 @@
 
 <h2 align="center">Hello world ! 👋<img src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/dago.gif?raw=true" width="30"></h2>
 
-<div align="center">
-
+<p align="center">
 created at 14-05-2021
+</p>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
 
 ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff)
 
-</div>
-
-> **NOTE IMPORTANTE** : À l'origine dédié exclusivement aux étudiants en informatique, ce référentiel GitHub n'est désormais plus activement maintenu et ne recevra plus de mises à jour. Cependant, nous vous invitons à rejoindre notre communauté Discord en suivant le lien fourni ci-dessous. Cette plateforme vous permettra non seulement d'accéder à des informations et des contenus actualisés, mais elle est également ouverte à tous les étudiants de CNTEMAD, quel que soit leur domaine d'études. Participez à des discussions enrichissantes, posez des questions et échangez des idées avec vos pairs. 
+> **NOTE IMPORTANTE** : À l'origine dédié exclusivement aux étudiants en informatique, ce référentiel GitHub n'est désormais plus activement maintenu et ne recevra plus de mises à jour. Cependant, nous vous invitons à rejoindre notre communauté Discord en suivant le lien fourni ci-dessous. Cette plateforme vous permettra non seulement d'accéder à des informations et des contenus actualisés, mais elle est également ouverte à tous les étudiants de CNTEMAD, quel que soit leur domaine d'études. Participez à des discussions enrichissantes, posez des questions et échangez des idées avec vos pairs.
 
 ---
 
@@ -20,8 +18,7 @@ created at 14-05-2021
 
 Un espace collaboratif dédié aux étudiants de CNTEMAD Madagascar, notre communauté a pour objectif de simplifier le partage des connaissances. Plutôt qu'un simple référentiel GitHub, CNTEMAD repository est un lieu dynamique où les étudiants peuvent se connecter, échanger des informations, et participer activement à l'enrichissement mutuel de nos savoirs. Rejoignez-nous pour une expérience collaborative, le partage de connaissances est au cœur de notre engagement commun.
 
-**Rejoindre la communauté discord**
-👉 [Serveur discord](https://discord.gg/Dn2Jq6K3)
+**Rejoindre la communauté discord** 👉 [Serveur discord](https://discord.gg/Dn2Jq6K3)
 
 ---
 
@@ -29,8 +26,7 @@ Un espace collaboratif dédié aux étudiants de CNTEMAD Madagascar, notre commu
 
 En tant qu'université basée sur l'enseignement à distance, un chatbot servira d'assistant pour les étudiants de CNTEMAD Madagascar. Ce chatbot est accessible via une page facebook et un robot répondra instantanément à chaque demande.
 
-**Pour tester le chatbot**
-👉 [Page facebook](https://web.facebook.com/cntemad.agent)
+**Pour tester le chatbot** 👉 [Page facebook](https://web.facebook.com/cntemad.agent)
 
 ---
 
