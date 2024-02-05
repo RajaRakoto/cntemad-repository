@@ -18,7 +18,7 @@ created at 14-05-2021
 
 Un espace collaboratif dédié aux étudiants de CNTEMAD Madagascar, notre communauté a pour objectif de simplifier le partage des connaissances. Plutôt qu'un simple référentiel GitHub, CNTEMAD repository est un lieu dynamique où les étudiants peuvent se connecter, échanger des informations, et participer activement à l'enrichissement mutuel de nos savoirs. Rejoignez-nous pour une expérience collaborative, le partage de connaissances est au cœur de notre engagement commun.
 
-**Rejoindre la communauté discord** 👉 [Serveur discord](https://discord.gg/Dn2Jq6K3)
+**Rejoindre la communauté discord** 👉 [Serveur discord](https://discord.gg/86KepcGPsN)
 
 ---
 
