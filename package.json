@@ -8,10 +8,12 @@
 		"type": "git",
 		"url": "git+https://github.com/RajaRakoto/cntemad-repository.git"
 	},
+	"homepage": "https://github.com/RajaRakoto/cntemad-repository#readme",
 	"bugs": "https://github.com/RajaRakoto/cntemad-repository/issues",
 	"keywords": [
 		"community",
 		"university",
+		"discord",
 		"archive",
 		"student",
 		"madagascar",
@@ -19,36 +21,21 @@
 		"cntemad-bot"
 	],
 	"scripts": {
-		"compress-script": "grunt compress-script",
-		"clear-all": "grunt clear-all",
-		"clear-input": "grunt clear-input",
-		"clear-output": "grunt clear-output",
-		"backup-all": "grunt backup-all",
-		"backup-l1i": "grunt backup-l1i",
-		"backup-l2i": "grunt backup-l2i",
-		"backup-l3i": "grunt backup-l3i",
-		"backup-m1i": "grunt backup-m1i",
-		"backup-m2i": "grunt backup-m2i",
-		"backup-main": "grunt backup-main",
-		"backup-informations": "grunt backup-informations",
-		"backup-assets": "grunt backup-assets",
-		"backup-scripts": "grunt backup-scripts",
+		"prettier": "prettier --config .prettierrc --write .",
+		"backup": "grunt backup",
 		"pkg-check": "depcheck",
 		"pkg-upgrade": "ncu --interactive --format group --packageManager bun",
 		"versioning": "ungit",
-		"version-major": "npm version major",
-		"version-minor": "npm version minor",
-		"version-patch": "npm version patch"
+		"npm-version:major": "npm version major",
+		"npm-version:minor": "npm version minor",
+		"npm-version:patch": "npm version patch"
 	},
 	"devDependencies": {
-		"compressing": "^1.6.2",
 		"depcheck": "^1.4.7",
-		"fs-extra": "^10.1.0",
-		"grunt": "^1.5.3",
+		"grunt": "^1.6.1",
 		"grunt-contrib-compress": "^2.0.0",
-		"grunt-shell": "^4.0.0",
 		"load-grunt-tasks": "^5.1.0",
-		"npm-check-updates": "^16.14.12",
-		"ungit": "^1.5.25"
+		"npm-check-updates": "^16.14.15",
+		"prettier": "^3.2.5"
 	}
 }
