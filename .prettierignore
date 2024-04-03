@@ -1,0 +1,13 @@
+# production
+build
+dist
+
+# dependencies
+.pnp
+.pnp.js
+.yarn/install-state.gz
+node_modules
+bower_components
+jspm_packages
+
+# own
