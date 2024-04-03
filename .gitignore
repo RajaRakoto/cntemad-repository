@@ -10,10 +10,11 @@ lerna-debug.log*
 # production
 build
 dist
-dist-ssr
-*.local
 
 # dependencies
+.pnp
+.pnp.js
+.yarn/install-state.gz
 node_modules
 bower_components
 jspm_packages
@@ -43,10 +44,6 @@ lib-cov
 .lock-wscript
 
 # editor
-.vscode
-!.vscode/tasks.js
-!.vscode/extensions.json
-.vscode-test
 .idea
 .DS_Store
 *.suo
@@ -71,7 +68,7 @@ typings
 
 # dotenv environment variables file
 .env
-.env.test
+.env.local
 
 # output
 *.tgz
@@ -89,8 +86,6 @@ typings
 .tern-port
 
 # own
-privates
-assets/private
-scripts/src
 backups
 tmp
+privates
