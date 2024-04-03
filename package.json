@@ -35,7 +35,7 @@
 		"grunt": "^1.6.1",
 		"grunt-contrib-compress": "^2.0.0",
 		"load-grunt-tasks": "^5.1.0",
-		"npm-check-updates": "^16.14.15",
+		"npm-check-updates": "^16.14.18",
 		"prettier": "^3.2.5"
 	}
 }
