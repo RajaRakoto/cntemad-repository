@@ -54,7 +54,7 @@ module.exports = function (grunt) {
 				src: includeAllFiles,
 				dest: "L2I",
 			},
-      L3I: {
+			L3I: {
 				options: {
 					archive: backupsDestination + "L3I.tar.gz",
 				},
@@ -105,21 +105,23 @@ module.exports = function (grunt) {
 	// all grunt register tasks
 	grunt.registerTask("backup", [
 		"compress:main",
-    "compress:assets",
-    "compress:L1I",
-    "compress:L2I",
-    "compress:L3I",
-    "compress:M1I",
-    "compress:M2I",
-    "compress:privates",
-    "compress:tmp",
+		"compress:assets",
+		"compress:L1I",
+		"compress:L2I",
+		"compress:L3I",
+		"compress:M1I",
+		"compress:M2I",
+		"compress:privates",
+		"compress:tmp",
 	]);
 
 	// all tasks lists
 	const myTasksNames = ["backup"];
 
 	// tasks status (description)
-	const myTasksStatus = ["compress: main | assets | L1I | L2I | L3I | M1I | M2I | privates | tmp"];
+	const myTasksStatus = [
+		"compress: main | assets | L1I | L2I | L3I | M1I | M2I | privates | tmp",
+	];
 
 	// default tasks
 	grunt.registerTask("default", () => {

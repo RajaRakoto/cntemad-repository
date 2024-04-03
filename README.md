@@ -32,25 +32,25 @@ En tant qu'université basée sur l'enseignement à distance, un chatbot servira
 
 ### 📌 Contributeurs
 
-| Pseudo | Role | Filiaire | Niveau | Parcours | Github |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| ♂️ **Arlandonfah** | - | Info | M2 | BDGL | [Arlandonfah](https://github.com/Arlandonfah) |
-| ♂️ **TinaniainaHassan12** | - | Info | M1 | RS | [TinaniainaHassan12](https://github.com/TinaniainaHassan12) |
-| ♂️ **Jonathan** | - | Info | L1 | BDGL | [Jonathan](https://github.com/Jonathanrazakalalaina) |
-| ♂️ **Ma Ranaivoson** | - | Info | M2 | BDGL | [Ma Ranaivoson](https://github.com/ma-ranaivoson) |
-| ♂️ **Mendrika** | - | Info | L3 | BDGL | [Mendrika](https://github.com/Mendrika) |
-| ♂️ **Rivo** | - | Info | L2 | BDGL | [Rivo](https://github.com/Rivo) |
-| ♂️ **Sarobidy** | - | Info | L2 | - | [Sarobidy](https://github.com/Sarobidy) |
-| ♂️ **JM Rakoto** | - | Info | M2 | BDGL | [JM Rakoto](https://github.com/jmRakoto) |
-| ♀️ **Woutnak** | - | Info | M2 | BDGL | [Woutnak](https://github.com/Woutnak) |
-| ♂️ **Moratiana** | - | Info | L1 | BDGL | [Moratiana](https://github.com/Moratiana) |
-| ♂️ **Brillant** | - | Info | M2 | BDGL | [Bri11ant](https://github.com/Bri11ant) |
-| ♂️ **Toky** | - | Info | M2 | BDGL | [Gituxmanjaka](https://github.com/gituxmanjaka) |
-| ♂️ **Stany** | - | Info | M2 | BDGL | [Stany Nilaina](https://github.com/StanyNilaina) |
-| ♂️ **Xoder** | - | Info | L1 | BDGL | [Mr xoder](https://github.com/­mrxoder) |
-| ♂️ **a2d** | - | Info | L1 | BDGL | [Annael007](https://github.com/Annael007) |
-| ♀️ **Fahendrena** | - | Info | M1 | RS | [Fahendrena](https://github.com/Fahendrena) |
-| ♂️ **Wenceslas-Angelo** | - | Info | L1 | BDGL | [Angelo](https://github.com/Wenceslas-Angelo) |
-| ♂️ **ChristianoDc7** | - | Info | M1 | BDGL | [ChristianoDc7](https://github.com/­ChristianoDc7) |
-| ♀️ **Fanaingo** | - | Info | M1 | BDGL | [Fanaingo](https://github.com/Fanaingo) |
-| ♂️ **Raja** | `Maintainer` | Info | M2 | BDGL | [Raja Rakotonirina](https://github.com/RajaRakoto) |
+| Pseudo                    | Role         | Filiaire | Niveau | Parcours | Github                                                      |
+| :------------------------ | :----------- | :------- | :----- | :------- | :---------------------------------------------------------- |
+| ♂️ **Arlandonfah**        | -            | Info     | M2     | BDGL     | [Arlandonfah](https://github.com/Arlandonfah)               |
+| ♂️ **TinaniainaHassan12** | -            | Info     | M1     | RS       | [TinaniainaHassan12](https://github.com/TinaniainaHassan12) |
+| ♂️ **Jonathan**           | -            | Info     | L1     | BDGL     | [Jonathan](https://github.com/Jonathanrazakalalaina)        |
+| ♂️ **Ma Ranaivoson**      | -            | Info     | M2     | BDGL     | [Ma Ranaivoson](https://github.com/ma-ranaivoson)           |
+| ♂️ **Mendrika**           | -            | Info     | L3     | BDGL     | [Mendrika](https://github.com/Mendrika)                     |
+| ♂️ **Rivo**               | -            | Info     | L2     | BDGL     | [Rivo](https://github.com/Rivo)                             |
+| ♂️ **Sarobidy**           | -            | Info     | L2     | -        | [Sarobidy](https://github.com/Sarobidy)                     |
+| ♂️ **JM Rakoto**          | -            | Info     | M2     | BDGL     | [JM Rakoto](https://github.com/jmRakoto)                    |
+| ♀️ **Woutnak**            | -            | Info     | M2     | BDGL     | [Woutnak](https://github.com/Woutnak)                       |
+| ♂️ **Moratiana**          | -            | Info     | L1     | BDGL     | [Moratiana](https://github.com/Moratiana)                   |
+| ♂️ **Brillant**           | -            | Info     | M2     | BDGL     | [Bri11ant](https://github.com/Bri11ant)                     |
+| ♂️ **Toky**               | -            | Info     | M2     | BDGL     | [Gituxmanjaka](https://github.com/gituxmanjaka)             |
+| ♂️ **Stany**              | -            | Info     | M2     | BDGL     | [Stany Nilaina](https://github.com/StanyNilaina)            |
+| ♂️ **Xoder**              | -            | Info     | L1     | BDGL     | [Mr xoder](https://github.com/­mrxoder)                     |
+| ♂️ **a2d**                | -            | Info     | L1     | BDGL     | [Annael007](https://github.com/Annael007)                   |
+| ♀️ **Fahendrena**         | -            | Info     | M1     | RS       | [Fahendrena](https://github.com/Fahendrena)                 |
+| ♂️ **Wenceslas-Angelo**   | -            | Info     | L1     | BDGL     | [Angelo](https://github.com/Wenceslas-Angelo)               |
+| ♂️ **ChristianoDc7**      | -            | Info     | M1     | BDGL     | [ChristianoDc7](https://github.com/­ChristianoDc7)          |
+| ♀️ **Fanaingo**           | -            | Info     | M1     | BDGL     | [Fanaingo](https://github.com/Fanaingo)                     |
+| ♂️ **Raja**               | `Maintainer` | Info     | M2     | BDGL     | [Raja Rakotonirina](https://github.com/RajaRakoto)          |
