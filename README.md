@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/RajaRakoto/cntemad-repository/blob/master/assets/public/cntemad-bot-logo-white.png?raw=true" height="350" width="370" alt="official-logo"></div>
+<div align="center"><img src="https://github.com/RajaRakoto/cntemad-repository/blob/master/assets/cntemad-bot-logo-white.png?raw=true" height="350" width="370" alt="official-logo"></div>
 
 <h2 align="center">Hello world ! 👋<img src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/dago.gif?raw=true" width="30"></h2>
 
