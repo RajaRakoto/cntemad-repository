@@ -10,29 +10,27 @@ created at 14-05-2021
 
 ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff)
 
-> **NOTE IMPORTANTE** : À l'origine dédié exclusivement aux étudiants en informatique, ce référentiel GitHub n'est désormais plus activement maintenu et ne recevra plus de mises à jour. Cependant, nous vous invitons à rejoindre notre communauté Discord en suivant le lien fourni ci-dessous. Cette plateforme vous permettra non seulement d'accéder à des informations et des contenus actualisés, mais elle est également ouverte à tous les étudiants de CNTEMAD, quel que soit leur domaine d'études. Participez à des discussions enrichissantes, posez des questions et échangez des idées avec vos pairs.
+> **NOTE IMPORTANTE**: À l'origine dédié exclusivement aux étudiants en informatique, ce référentiel GitHub n'est désormais plus activement maintenu et ne recevra plus de mises à jour. Cependant, nous vous invitons à rejoindre notre [communauté Discord](https://discord.gg/86KepcGPsN). Cette plateforme vous permettra non seulement d'accéder à des informations et des contenus actualisés, mais elle est également ouverte à tous les étudiants de CNTEMAD, quel que soit leur domaine d'études. Participez à des discussions enrichissantes, posez des questions et échangez des idées avec vos pairs.
 
 ---
 
-## 📌 A propos de CNTEMAD repository
+### 📌 A propos de CNTEMAD repository
 
 Un espace collaboratif dédié aux étudiants de CNTEMAD Madagascar, notre communauté a pour objectif de simplifier le partage des connaissances. Plutôt qu'un simple référentiel GitHub, CNTEMAD repository est un lieu dynamique où les étudiants peuvent se connecter, échanger des informations, et participer activement à l'enrichissement mutuel de nos savoirs. Rejoignez-nous pour une expérience collaborative, le partage de connaissances est au cœur de notre engagement commun.
 
-**Rejoindre la communauté discord** 👉 [Serveur discord](https://discord.gg/86KepcGPsN)
+**Rejoindre la communauté discord** 👉 [ici](https://discord.gg/86KepcGPsN)
 
 ---
 
-## 📌 A propos du cntemad-bot
+### 📌 A propos du cntemad-bot
 
 En tant qu'université basée sur l'enseignement à distance, un chatbot servira d'assistant pour les étudiants de CNTEMAD Madagascar. Ce chatbot est accessible via une page facebook et un robot répondra instantanément à chaque demande.
 
-**Pour tester le chatbot** 👉 [Page facebook](https://web.facebook.com/cntemad.agent)
+**Tester le chatbot** 👉 [ici](https://web.facebook.com/cntemad.agent)
 
 ---
 
-## 📌 Contributeurs
-
-<div align="center">
+### 📌 Contributeurs
 
 | Pseudo | Role | Filiaire | Niveau | Parcours | Github |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -55,6 +53,4 @@ En tant qu'université basée sur l'enseignement à distance, un chatbot servira
 | ♂️ **Wenceslas-Angelo** | - | Info | L1 | BDGL | [Angelo](https://github.com/Wenceslas-Angelo) |
 | ♂️ **ChristianoDc7** | - | Info | M1 | BDGL | [ChristianoDc7](https://github.com/­ChristianoDc7) |
 | ♀️ **Fanaingo** | - | Info | M1 | BDGL | [Fanaingo](https://github.com/Fanaingo) |
-| ♂️ **Raja** | `OWNER` | Info | M2 | BDGL | [Raja Rakotonirina](https://github.com/RajaRakoto) |
-
-</div>
+| ♂️ **Raja** | `Maintainer` | Info | M2 | BDGL | [Raja Rakotonirina](https://github.com/RajaRakoto) |
