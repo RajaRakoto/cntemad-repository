@@ -1,12 +1,12 @@
-<div align="center"><img src="https://github.com/RajaRakoto/cntemad-repository/blob/master/assets/cntemad-bot-logo-white.png?raw=true" height="350" width="370" alt="official-logo"></div>
+<div align="center"><img src="https://github.com/RajaRakoto/cntemad-repository/blob/master/assets/cntemad-bot-logo-white.png" height="350" width="370" alt="official-logo"></div>
 
-<h2 align="center">Hello world ! 👋<img src="https://github.com/RajaRakoto/github-docs/blob/master/cntemad-repository/img/dago.gif?raw=true" width="30"></h2>
+<h2 align="center">Hello world ! 👋<img src="https://rajarakoto.github.io/github-docs/cntemad-repository/img/dago.gif" width="30"></h2>
 
 <p align="center">
 created at 14-05-2021
 </p>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://github.com/RajaRakoto/github-docs/blob/master/badge/build-by.svg?raw=true)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) [![forthebadge](https://rajarakoto.github.io/github-docs/badge/build-by.svg)](https://forthebadge.com)
 
 ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![Gitub](https://img.shields.io/badge/-Gitub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff)
 
